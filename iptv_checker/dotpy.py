@@ -5,7 +5,10 @@ import tools
 import time
 import os
 import urllib
+import re
 import m3u8
+from m3u8 import protocol
+from m3u8.parser import save_segment_custom_value
 from threads import ThreadPool
 
 class Source (object) :
@@ -45,31 +48,23 @@ class Source (object) :
                             line = lines[i].strip('\n')
                             item = line.split(',', 1)
                             if len(item)==2:
-                                #data = {
-                                #    'title': item[0],
-                                #    'url': item[1],
-                                #}
                                 threads.add_task(self.detectData, title = item[0], url = item[1], index=indexCount)
-                                #playList.append(data)
                 elif p[-5:]=='.m3u8':
 
                     try:
-                        m3u8_obj = m3u8.load(self.playlist_file + p)
+                        print("m3u8_start")
+                        m3u8_obj = m3u8.load(self.playlist_file + p, custom_tags_parser=self.parse_iptv_attributes)
                         total = len(m3u8_obj.segments)
                         threads = ThreadPool(20)
                         for i in range(0, total):
                             tmp_title = m3u8_obj.segments[i].title
                             tmp_url = m3u8_obj.segments[i].uri
-                            #data={
-                            #    'title': tmp_title,
-                            #    'url': tmp_url,
-                            #}
+                            #segment_props = m3u8_obj.segments[i].custom_parser_values['extinf_props']
                             threads.add_task(self.detectData, title = tmp_title, url = tmp_url, index=i)
-                            #playList.append(data)
+                            #print("parsed Data: ", tmp_title, segment_props['group-title'], segment_props['tvg-logo'],tmp_url )
                     except Exception as e:
                         print(e)
             indexCount = indexCount + 1
-        #return playList
         
     def getSource111 (self) :
         
@@ -97,7 +92,7 @@ class Source (object) :
             threads.wait_completion()
         
     def detectData (self, title, url, index) :
-        #print('detectData', title, url)
+        print('detectData', title, url)
         if index == 0 :
             with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'w', encoding='utf-8') as fff:
                 fff.write("")
@@ -115,3 +110,39 @@ class Source (object) :
         else :
             print('skipData: ', title, url, netstat)
             self.T.logger('skipData: %s, %s, %s' % (title, url, netstat))
+            
+            
+    def parse_iptv_attributes(self, line, lineno, data, state):
+        # Customize parsing #EXTINF
+        if line.startswith(protocol.extinf):
+            title = ''
+            chunks = line.replace(protocol.extinf + ':', '').split(',', 1)
+            if len(chunks) == 2:
+                duration_and_props, title = chunks
+            elif len(chunks) == 1:
+                duration_and_props = chunks[0]
+
+            additional_props = {}
+            chunks = duration_and_props.strip().split(' ', 1)
+            if len(chunks) == 2:
+                duration, raw_props = chunks
+                matched_props = re.finditer(r'([\w\-]+)="([^"]*)"', raw_props)
+                for match in matched_props:
+                    additional_props[match.group(1)] = match.group(2)
+            else:
+                duration = duration_and_props
+
+            if 'segment' not in state:
+                state['segment'] = {}
+            state['segment']['duration'] = float(duration)
+            state['segment']['title'] = title
+
+            # Helper function for saving custom values
+            save_segment_custom_value(state, 'extinf_props', additional_props)
+
+            # Tell 'main parser' that we expect an URL on next lines
+            state['expect_segment'] = True
+
+            # Tell 'main parser' that it can go to next line, we've parsed current fully.
+            return True
+            
