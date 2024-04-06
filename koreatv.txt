@@ -19,9 +19,10 @@ KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS World,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
@@ -33,6 +34,7 @@ SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 SBS,https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 SBS,http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+SBS,http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 SBS News,https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
 tvN,http://210.210.155.37/dr9445/h/h20/index.m3u8
@@ -54,23 +56,27 @@ EBS+2,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 아리랑,https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
 아리랑,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 아리랑,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-E데이리,https://ythls.armelin.one/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
-한국경제,https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
-서울경제,https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 농협TV,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 복지TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 방송대학,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 서울TV,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 광주TV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 경인TV,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+TBC,http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8
+TBC,http://1.245.74.5:1935/live/tv/.m3u8
 ABN,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 국민방송,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 국회방송,https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+국악방송https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 MNET,https://epg.pw/stream/e0cbf675eccbd41c0538939470cf04ec3beec8503e32ddaee590d67b85ce7dce.m3u8
 한국가요,http://live.kytv.co.kr:8080/hls/stream.m3u8
 KPOP,https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
-KiX낚시,http://210.210.155.37/dr9445/h/h07/index.m3u8
+KiX,http://210.210.155.37/dr9445/h/h07/index.m3u8
 K-Star,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+E데이리,https://ythls.armelin.one/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
+한국경제,https://ythls.armelin.one/channel/UCF8AeLlUbEpKju6v1H6p8Eg.m3u8
+서울경제,https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 港臺,#genre#
 凤凰卫视,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰卫视,https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8
@@ -85,9 +91,11 @@ TVB,https://epg.pw/stream/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31a
 TVB新聞臺,https://epg.pw/stream/e5ea85f8c05b463598deb2bd3490272191a18b6235807e15ce8876809c014396.m3u8
 TVB新聞臺,https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 TVB新聞臺,https://epg.pw/stream/0f40c5b9e7af9348e5d9afb6b9c63c903e1053bf584d9430b2785c746bc3ec2d.m3u8
+寰宇新聞臺,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 TVB亞洲劇,https://epg.pw/stream/c94a80fa8bafb4b69e0560f50b122d5bf87f8fbf3330431da6d35a6076fe3de3.m3u8
 TVB娛樂新聞,https://epg.pw/stream/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.m3u8
 TVB娛樂新聞,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
+天才冲冲冲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 ViuTV,https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.m3u8
 美亞電影,https://epg.pw/stream/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.m3u8
 天映频道,http://210.210.155.37/dr9445/h/h14/index.m3u8
