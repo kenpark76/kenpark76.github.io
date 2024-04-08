@@ -15,6 +15,9 @@ class Source (object) :
     playlist_file = 'playlists/'
     m3u8_file_path = 'output/'
     delay_threshold = 5000
+    writeCount = 0
+    skipCount = 0
+    oldFileName = ""
 
     
     def __init__ (self):
@@ -36,11 +39,14 @@ class Source (object) :
         #读取文件
         path = os.listdir(self.playlist_file)
         indexCount = 0
+        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'w', encoding='utf-8') as fff:
+            fff.write("")
         for p in path:
-            
             if os.path.isfile(self.playlist_file + p):
                 if p[-4:]=='.txt':
                     with open(self.playlist_file + p,'r',encoding='utf-8') as f:
+                        self.T.logger('txt file parsing: %s' % (p))
+                        print("txt file parsing: ", p)
                         lines = f.readlines()
                         total = len(lines)
                         threads = ThreadPool(1)
@@ -48,11 +54,13 @@ class Source (object) :
                             line = lines[i].strip('\n')
                             item = line.split(',', 1)
                             if len(item)==2:
-                                threads.add_task(self.detectData, title = item[0], url = item[1], index=indexCount)
+                                threads.add_task(self.detectData, title = item[0], url = item[1], filename = p)
+                                indexCount = indexCount + 1
+                        threads.wait_completion()
                 elif p[-5:]=='.m3u8':
-
                     try:
-                        print("m3u8_start")
+                        self.T.logger('m3u8 file parsing: %s' % (p))
+                        print("m3u8 file parsing: ", p)
                         m3u8_obj = m3u8.load(self.playlist_file + p, custom_tags_parser=self.parse_iptv_attributes)
                         total = len(m3u8_obj.segments)
                         threads = ThreadPool(20)
@@ -60,12 +68,16 @@ class Source (object) :
                             tmp_title = m3u8_obj.segments[i].title
                             tmp_url = m3u8_obj.segments[i].uri
                             #segment_props = m3u8_obj.segments[i].custom_parser_values['extinf_props']
-                            threads.add_task(self.detectData, title = tmp_title, url = tmp_url, index=i)
+                            threads.add_task(self.detectData, title = tmp_title, url = tmp_url, filename = p)
+                            indexCount = indexCount + 1
                             #print("parsed Data: ", tmp_title, segment_props['group-title'], segment_props['tvg-logo'],tmp_url )
+                        threads.wait_completion()
                     except Exception as e:
                         print(e)
-            indexCount = indexCount + 1
-        
+        print("total:", indexCount, "write:", self.writeCount, "skip:", self.skipCount, "invalid:", (indexCount - self.writeCount - self.skipCount))
+        self.T.logger('total: %s, write: %s, skip: %s, invalid: %s' % (indexCount, self.writeCount, self.skipCount, (indexCount - self.writeCount - self.skipCount)))
+
+    '''    
     def getSource111 (self) :
         
         #gitURL = 'https://kenpark76.github.io/koreatv.txt'
@@ -90,12 +102,11 @@ class Source (object) :
                     pass
                     
             threads.wait_completion()
+    '''
         
-    def detectData (self, title, url, index) :
-        print('detectData', title, url)
-        if index == 0 :
-            with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'w', encoding='utf-8') as fff:
-                fff.write("")
+    def detectData (self, title, url, filename) :
+        #print('detectData', title, url)
+
         if url == "#genre#" :
             with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'a', encoding='utf-8') as fff:
                 fff.write("%s,%s\n" % (title, url))
@@ -104,10 +115,18 @@ class Source (object) :
 
         if netstat > 0 :
             with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'a', encoding='utf-8') as fff:
+                if self.oldFileName != filename :
+                    if filename[-5:] == '.m3u8' :
+                        fff.write(filename[:-5] + ",#genre#" + "\n")
+                    if filename[-4:] == '.txt' :
+                        fff.write(filename[:-4] + ",#genre#" + "\n")
+                    self.oldFileName = filename
                 fff.write("%s,%s\n" % (title, url))
+                self.writeCount = self.writeCount + 1
             print('writeData: ', title, url, netstat)
             self.T.logger('writeData: %s, %s, %s' % (title, url, netstat))
         else :
+            self.skipCount = self.skipCount + 1
             print('skipData: ', title, url, netstat)
             self.T.logger('skipData: %s, %s, %s' % (title, url, netstat))
             
