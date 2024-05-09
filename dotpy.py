@@ -12,12 +12,16 @@ from m3u8.parser import save_segment_custom_value
 from threads import ThreadPool
 
 class Source (object) :
-    playlist_file = 'playlists/'
+    playlist_file = os.path.dirname(os.path.abspath(__file__)) + '/playlists/'
+    outFilePath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'koreatv.txt')
     m3u8_file_path = 'output/'
     delay_threshold = 5000
     writeCount = 0
     skipCount = 0
     oldFileName = ""
+    playList = []
+    oldTitle = ""
+    totalLine = 0
 
     
     def __init__ (self):
@@ -25,21 +29,9 @@ class Source (object) :
         self.now = int(time.time() * 1000)
         
     def getSource(self):
-        
-        '''
-        :return playList:
-        #从playlist文件夹读取文件，反馈urlList。
-        #目前支持两类格式:
-        #1、m3u文件格式
-        #2、.txt格式，但内容必须是如下格式：
-        战旗柯南1,http://dlhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
-        战旗柯南2,http://alhls.cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
-        '''
-        #playList=[]
-        #读取文件
         path = os.listdir(self.playlist_file)
         indexCount = 0
-        with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'w', encoding='utf-8') as fff:
+        with open(self.outFilePath, 'w', encoding='utf-8') as fff:
             fff.write("")
         for p in path:
             if os.path.isfile(self.playlist_file + p):
@@ -49,12 +41,13 @@ class Source (object) :
                         print("txt file parsing: ", p)
                         lines = f.readlines()
                         total = len(lines)
+                        self.totalLine = total
                         threads = ThreadPool(1)
                         for i in range(0, total):
                             line = lines[i].strip('\n')
                             item = line.split(',', 1)
                             if len(item)==2:
-                                threads.add_task(self.detectData, title = item[0], url = item[1], filename = p)
+                                threads.add_task(self.detectData, title = item[0], url = item[1], filename = p, totalLineCount = i)
                                 indexCount = indexCount + 1
                         threads.wait_completion()
                 elif p[-5:]=='.m3u8':
@@ -68,13 +61,13 @@ class Source (object) :
                             tmp_title = m3u8_obj.segments[i].title
                             tmp_url = m3u8_obj.segments[i].uri
                             #segment_props = m3u8_obj.segments[i].custom_parser_values['extinf_props']
-                            threads.add_task(self.detectData, title = tmp_title, url = tmp_url, filename = p)
+                            threads.add_task(self.detectData, title = tmp_title, url = tmp_url, filename = p, totalLineCount = i)
                             indexCount = indexCount + 1
                             #print("parsed Data: ", tmp_title, segment_props['group-title'], segment_props['tvg-logo'],tmp_url )
                         threads.wait_completion()
                     except Exception as e:
                         print(e)
-        print("total:", indexCount, "write:", self.writeCount, "skip:", self.skipCount, "invalid:", (indexCount - self.writeCount - self.skipCount))
+        #print("total:", indexCount, "write:", self.writeCount, "skip:", self.skipCount, "invalid:", (indexCount - self.writeCount - self.skipCount))
         self.T.logger('total: %s, write: %s, skip: %s, invalid: %s' % (indexCount, self.writeCount, self.skipCount, (indexCount - self.writeCount - self.skipCount)))
 
     '''    
@@ -104,31 +97,90 @@ class Source (object) :
             threads.wait_completion()
     '''
         
-    def detectData (self, title, url, filename) :
+    def detectData (self, title, url, filename, totalLineCount) :
         #print('detectData', title, url)
 
         if url == "#genre#" :
-            with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'a', encoding='utf-8') as fff:
+            total = len(self.playList)
+            sorted_playList = sorted(self.playList, key = lambda x:x['delay'])
+            with open(self.outFilePath, 'a', encoding='utf-8') as fff:
+                for i in range(0,total) :
+                    tmp_title = sorted_playList[i]['title'].decode('utf-8')
+                    tmp_url = sorted_playList[i]['url']
+                    temp_delay = sorted_playList[i]['delay']
+                    fff.write("%s,%s\n" % (tmp_title, tmp_url))
+                    #print('writeData1: ', tmp_title, tmp_url, temp_delay)
+                    self.T.logger('writeData: %s, %s, %s' % (tmp_title, tmp_url, temp_delay))
+                self.playList = []
                 fff.write("%s,%s\n" % (title, url))
-                
+
         netstat = self.T.chkPlayable(url)
 
-        if netstat > 0 :
-            with open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tvlist.txt'), 'a', encoding='utf-8') as fff:
-                if self.oldFileName != filename :
-                    if filename[-5:] == '.m3u8' :
-                        fff.write(filename[:-5] + ",#genre#" + "\n")
-                    if filename[-4:] == '.txt' :
-                        fff.write(filename[:-4] + ",#genre#" + "\n")
-                    self.oldFileName = filename
-                fff.write("%s,%s\n" % (title, url))
+        if netstat > 0 or self.T.isIpv6Url(url) :
+            with open(self.outFilePath, 'a', encoding='utf-8') as fff:
+                #if self.oldFileName != filename :
+                    #if filename[-5:] == '.m3u8' :
+                        #fff.write(filename[:-5] + ",#genre#" + "\n")
+                    #if filename[-4:] == '.txt' :
+                        #fff.write(filename[:-4] + ",#genre#" + "\n")
+                    #self.oldFileName = filename
+                #print('checked data: ', title, url, netstat)
+                if self.oldTitle == title :
+                    data = {
+                        'title': title.encode('utf-8'),
+                        'url': url,
+                        'delay' : netstat,
+                    }
+                    self.playList.append(data)
+                    #print('add to playlist with same title: ', data)
+                else :
+                    total = len(self.playList)
+                    if total == 0 :
+                        data = {
+                            'title': title.encode('utf-8'),
+                            'url': url,
+                            'delay' : netstat,
+                        }
+                        self.playList.append(data)
+                        #print('add to playlist with 1st data: ', data)
+                    elif total > 0 : 
+                        sorted_playList = sorted(self.playList, key = lambda x:x['delay'])
+                        for i in range(0,total) :
+                            tmp_title = sorted_playList[i]['title'].decode('utf-8')
+                            tmp_url = sorted_playList[i]['url']
+                            temp_delay = sorted_playList[i]['delay']
+                            fff.write("%s,%s\n" % (tmp_title, tmp_url))
+                            #print('writeData2: ', tmp_title, tmp_url, temp_delay)
+                            self.T.logger('writeData: %s, %s, %s' % (tmp_title, tmp_url, temp_delay))
+                        self.playList = []
+                        data = {
+                            'title': title.encode('utf-8'),
+                            'url': url,
+                            'delay' : netstat,
+                        }
+                        self.playList.append(data)
+                        #print('add to playlist with new chanel 1st: ', data)
+                    else :
+                        pass
+                self.oldTitle = title
                 self.writeCount = self.writeCount + 1
-            print('writeData: ', title, url, netstat)
             self.T.logger('writeData: %s, %s, %s' % (title, url, netstat))
         else :
             self.skipCount = self.skipCount + 1
-            print('skipData: ', title, url, netstat)
+            #print('skipData: ', title, url, netstat)
             self.T.logger('skipData: %s, %s, %s' % (title, url, netstat))
+        #print('totalLineCount',totalLineCount, 'self.totalLine', self.totalLine)
+        if totalLineCount == (self.totalLine - 1) :
+            total = len(self.playList)
+            sorted_playList = sorted(self.playList, key = lambda x:x['delay'])
+            with open(self.outFilePath, 'a', encoding='utf-8') as fff:
+                for i in range(0,total) :
+                    tmp_title = sorted_playList[i]['title'].decode('utf-8')
+                    tmp_url = sorted_playList[i]['url']
+                    temp_delay = sorted_playList[i]['delay']
+                    fff.write("%s,%s\n" % (tmp_title, tmp_url))
+                    #print('writeData3: ', tmp_title, tmp_url, temp_delay)
+                    self.T.logger('writeData: %s, %s, %s' % (tmp_title, tmp_url, temp_delay))
             
             
     def parse_iptv_attributes(self, line, lineno, data, state):
