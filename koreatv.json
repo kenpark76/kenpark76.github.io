@@ -1,255 +1,366 @@
 [
 	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00593.png",
-		"name": "korea",
-		"title": "YTN",
-		"uris": ["https://ytn-mcdn.tving.com/ytn/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG4tbWNkbi50dmluZy5jb20veXRuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzY3NDYyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=D2QeJCKhtA7Mgsivb9BnP97G-vFx47mMFkOSfLI13Jli1yayZrHEPFawrpcPMQKSjc1rV71dsawWZRqY1Yl8INufIfd4q5LhQrfDa6gQxiY9Zb4aUbB6jaNV5UV2mx4vYlOGyeXQJ2hpfx5YnijHGlzkASXEMM1He4tVFQyJt2M0K2j1EBQwUZwE7w4epOgf~cNO2gt8-fQtib-Oyt~WAcNXHezXuI6RVrO~Id4rXSr~qEyxuqAYTINj5RJ3wd3JnbpeAxb~nMUUHB2BNbcpqmF823Tp0hgz4a6x-I5mglfCyN1-3JdR3~MjbuIQPDnCBhA4-dRspFyBO4ckQBnxjA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01101.png",
-		"name": "korea",
-		"title": "YTN2",
-		"uris": ["https://ytnw-mcdn.tving.com/ytnw/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG53LW1jZG4udHZpbmcuY29tL3l0bncvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjc2Njl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=grqSg7inTPj6ExiTxt8831O0EukqxntLACri7tm6ubv-esUwW96sKWys0wganBtGveXOfG0s2r5cFkP75gIyX6NXDPtkhAa9JXZdMWiBdt7hUSkNcoNw3obFzei3Curzxc~1H4iHxzUk9-1W5RPnUnzLjfNF6RdfGM6jqhjS7t~qjq1HUj~Ji2lgItBx-dduJaySShk~OD7QNDxVC0FI9yNJr213vMYmuDX3EFK~GVYnEp6E9x4Ms-3Ba5PVxjx9mrwQk1O~NlgrN2lPdeu87I~7ZH4jJ-ih-CFlVj156y777Hh5ERl2fWOEK99uw-075JtM1V40UCU8p9rE2j1UJA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15347.png",
-		"name": "korea",
-		"title": "YTN사이언스",
-		"uris": ["https://ytns-mcdn.tving.com/ytns/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG5zLW1jZG4udHZpbmcuY29tL3l0bnMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjc4MjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=Ez1t9A88uYEGqUDesnTuDZKTxM6-yxcDK-VhVNXnIiRVSUdAXpSBftyXBN6zKuCuKiSMlc~jNA-Aho2sHJE8tFWd21SOrFDdDnX8ZaHkZE8otTfmUooZ9O8ekY7rSkafPsW8GN8~J88-5n5Wcd0aSkihVh9yRffuET8ZYKKyRrLK69qRTl5Hqf5SBoPPspIT75~G7EZOE~rhTglTNDQ0mbeay5tmlnjOkmF99tUR40VY7WOsLaozIymA39f-ZKDEklLT1Lp7fI5QmefQ1o6XEJevWSoEGdXdDZLc0aLn85i0Bw6ZedyHAyl2~r9WDD41XzQTAXS22poBryw2bc8efQ__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01723.png",
-		"name": "korea",
-		"title": "연합뉴스",
-		"uris": ["https://yonhap-mcdn.tving.com/yonhap/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95b25oYXAtbWNkbi50dmluZy5jb20veW9uaGFwL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzY4MDAzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=A0R~q1EjQKx9hW3GHWzZGtZELCINtgqai4p4wf0vZ64PYT1-GAfIUNBV5bhoGOjJ4uRjhd90afMXvRpXHVmFGUC-XCpSYWbb0ENBmxKZAx6TN65TqOE6LvoxoI893eb4DC8CrBZAXo1-cOkFzDnKZP9cVjlJhrgzBRPL0QbHXVdxqQeMC1VmTdIvOUVdUDBXgYxHUM87TIv04A0tx-V8RgQg9jW2NKg1XZmzVqNxVVlq59hhCc2vf~CnCjOrr7AzGWZmO7vq4BmyhUeEQJBp6CPb-eovqxmyTpjZIyU-tYiw-hcSX62qjJNIm~GEbJuUvYOPaeT9TidBOYd9O29KTA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
+		"group": "한국-종합편성",
 		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01582.png",
 		"name": "korea",
 		"title": "JTBC",
 		"uris": ["https://jtbc-mcdn.tving.com/jtbc/live2000.smil/chunklist_b2128000.m3u8"],
 		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjLW1jZG4udHZpbmcuY29tL2p0YmMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjgxODR9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=YKHGfdQ1N~InY9IfEZ0QpV0dHnDzWvHqg9M0tP4YkVvpDFAiWE0KnIfBxaVPc4S1mVnLAzUh6CwMKRgF~7dnojDg9zJYhbogDtuQKKwEZloZI64EAvDOGwnpeL27iF8lcPIeHSStamBhhFb7azZQOXml3oMbZ1gxuVL~8B5wP7HHnYZM3QsbHjWDOB7m83VP9-u5gYuNLZnc2gyxrGwZJ1403bErF6mDoQJizcCLBC~-Kctn83jMATPD5u2nlFqqOD69rVFBpcQI90xJ2xpua9hoHyt0C-Z7G1PobejTzVAFRJP3maxflAITAgWSW-3pnn5zYOOX9jdzjkcim21Gww__; ",
+			"cookie": "",
 			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 		}
 	},
 	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15741.png",
-		"name": "korea",
-		"title": "JTBC2",
-		"uris": ["https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjMi1tY2RuLnR2aW5nLmNvbS9qdGJjMi9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjM2ODM2Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=TJRxTfBZKLJrOmAhXYvAlWrdwwWOSRswwIRfKqyyn1PQk2ZVTulH2SPbAP0pMZs-57h4VZnv6nLm-MV5tqpFIUg~zos2R8hnN7WrOTzKcqL1oTE8j5g-9GpKwOXqfdhqoEncbN~Z2hmQEPLqu8jp9yhoaaLnA4tyejkid391yzyEcUKEK~KBV5SVbkc-rlXGKk8n07piziWnHNYq7utMBm8u6MupgcAf~B0ubJXFPZWbRFcrQ1IxOletxTshXfcD8oAuyL38RyCldzEbtkfvjQmGfZeiOrw3ysdkL7gGfDFd7JkBXrwJ2ELU-DtX~CPomnURQSH5fKM3BEoczjRZAA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C22041.png",
-		"name": "korea",
-		"title": "JTBC4",
-		"uris": ["https://jtbc4-mcdn.tving.com/jtbc4/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjNC1tY2RuLnR2aW5nLmNvbS9qdGJjNC9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjM2ODU0N30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=kNgJUIxWQ68qPXp~xnDT4A8Unuv68WZlw~6JKvXtgn12Ej0AN3HyIiVVJ4tH7uYxj9fm7TRE1gFFMYtrEdk2tSuwQ2xuy66zs6md8GojNeap-4kAJ0LPhIpTOkC3k81EpiiqFakSO2d1O~RbsBt-QALtoZFNu8qVwLyTEQcDdEkUMO3oAaFco6HRpaezN3Z~Q~24W3JAXXhZfMkwzla10tcYejSicIlqCwtX-ujCT0zsHO3PF7GJ0gixSpCy4~-mEqinKW~HctaYu5GNJMbgGlxldBFSI6zMQk3rPnViGk0uGXRRbuCDb-z61fbsY-FEOPRMi-FWq8ehe0srAB9y6g__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00551.png",
-		"name": "korea",
-		"title": "TVN",
-		"uris": ["https://tvn-mcdn.tving.com/tvn/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm4tbWNkbi50dmluZy5jb20vdHZuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzY4NzI4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=jC1imieNYC9UhiL7XSlSRJ4-kIy8YQlq5HQQ30AJiRnMWhneR7nvU8H4R9bTgE2uWJnT37pMWiQht0~naZ~MFRQj61rv2Hmb-fAcEt~0GUohv8B4KOPryBlcYNHq3gu2r9RTpXs~h8Y3zB9NDQYGgvcl4eLA7ALwGbEJbvNWJIF0b4H-al~CgKIkUcunugh-jHpwDYmHPDEaNCZpqSxtx~QMzTsj7nfX~D3JFJa5SqmWr8Jcq6r92hDzSZ~8UWncrq~oAbFdEgldLOpjvXA-tTTSQix7P0LWkK7m2bVPI9~1Z2JlkIpoCP0A1bc6RWJjK5f~TdyyFdFwliFv8Hk74w__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01141.png",
-		"name": "korea",
-		"title": "TVN Show",
-		"uris": ["https://tvnshow-mcdn.tving.com/tvnshowsll/live2000.smil/chunklist_b3128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zaG93LW1jZG4udHZpbmcuY29tL3R2bnNob3dzbGwvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjg5MDd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=epOSKu2Z5a54TLhEgSRAx37zoxIZeCZHUREOTFNahu0rDoRk9TKicly7VAn7hjeqTtBP0lemniVMsBx4cvt-tqYWHe1WpBW68o6NSi3kfz-goeY5mdYw0a8nZqPgmXWjvqqg9UMZsgBljY8KAOQUstnxIUhiGcD9QWHUxgN8NkgWP9ADrbT1aZkzMnVNvMBcjJk-yFam2L76O9zosViaRSaotxxAdptZ~-T~B2Lu3MfwKJdjVYTfPlh3ozrzCoDZXL3jJjG4H5vPgKMDV3ETBjYR58eQIvR5NNz0odYivVFzPgYqc8re~lqvV10AqWALdU6bMqpZ7wj8paR0KBlkWw__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01143.png",
-		"name": "korea",
-		"title": "TVN드라마",
-		"uris": ["https://tvndrama-mcdn.tving.com/tvndrama/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5kcmFtYS1tY2RuLnR2aW5nLmNvbS90dm5kcmFtYS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjM2OTA4N30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=j7clzADdE-xV8ohnJ6Wk9cpK-0mpZjiPgZoWZbZ9rBXNB1KezaTztxKGEt8GoIv4AeDWqNrJ-KAj-mijdb974C7dvyJPx-VdrkMG2VLyPiBIIUfRrLhPPLQOEQvDnn2FDA9LwZowrgtPbP2IgldRzXHFQYEiqT0Boar4R-Alcs9qsXk-sQ~QZgOHqtVjUcA3MTTWDO0nwWdbWfmUBFEJhMp0b7z2L97QpgvHft1gVOSPafeyQcefCoEnNlJFaz1alJ1iu-YCmr4vDsdQNqSCF95fmPmU7eoyOQWHBnSgNOM4wU2pmIS-fxDW7u2K-JxMlRpcqzgO0xdan-k8WKY~kw__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C51258.png",
-		"name": "korea",
-		"title": "TVN Story",
-		"uris": ["https://tvnstory-mcdn.tving.com/tvnstory/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zdG9yeS1tY2RuLnR2aW5nLmNvbS90dm5zdG9yeS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjM2OTI2OH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=SOmw7VhG6x87CTac5NQ~Bb9rwoe6E1xqqOCAlod~rL460D-4GcNIrH~qR~-GsA1pl6Qm6RxUW7bTZdKZ84y8w5O43DZSw5JVPN4oeQJilxa9Vpirl-sZw2F7~VWHm4vGTItFsiStvnEGd5j0DpgFEsUWHc~qJBGLeaKwj~-eqnTBnrnRfQKlELP29lrpZ5mGD05eKxH1muqYyGUl4fIq4kJOWFoRr42c7sxGOX0b~VrGm3i6-e7mzNdL~eQXPmiAdxTEzh2EUTEbVWsI54ahIf6ETYUK5OdZokDfln-qeOwWxGeQ8sD-239OzMY9-N~b0UZzHoSzCbB-u9As6lporA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01583.png",
-		"name": "korea",
-		"title": "채널A",
-		"uris": ["https://cha-mcdn.tving.com/cha/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGEtbWNkbi50dmluZy5jb20vY2hhL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzY5NDUwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=PDHn5HstGMHflBRsgPMPGeZMydPpr~HUMa2Vo0mrThby-dFs45MhqFTsiwa8Adm8vg4Mo6UAOGu6G3pm01-hlLjPyin4uyjKRUvB66EGbfET2w0E5z1W6BDwMYAKHMVU5rtnnM3wI0n3xbTpO6CT42VpekEdyIb35fnuaya3fH5F7vAdhcUYnRFlMID4-lY9Iyrb0kRRFo3Q0KQxeBYTvO7XqvyTygKzOW5ul9cLSNAaBdjW1LrVwC2opsPbMN6JTe6lZwgG80W-nw0tRCqDH5FlbJWPaDYPHauKnaoARQbzFoVMpwJRDuQAdRdeOlg2Dsd7UAOmtAxztJHpZbebsQ__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17141.png",
-		"name": "korea",
-		"title": "채널A+",
-		"uris": ["https://chaplus-mcdn.tving.com/chaplus/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGFwbHVzLW1jZG4udHZpbmcuY29tL2NoYXBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjk2Mjd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=U9qUWC4y2DN9vr3f4~jbGqGcKmDHPjWPgAy4MXD5oqgAKVaJcQUOSyLBaj9ACj140VyJze76D7GMhvT7EZH47GYquHOciB2f7lH~v577NjUacG-i3A3bIMdRFKS4liUsGhKbzDrfm1pBRqye3bxVLQx4oyrU3HElK2~L7dF5ZCCZ1W4rr1ny740LNd527Lvwpu512sjvu8ntnnn7~yIjTWfxy8cDDserYotdHd6JquzyGtUD6zTAkiwJoOl3Qb91Q-nuJFpzvAKl~G6U1cucGVzC-IKaxFNv0A~rqfoj7cbqh1MmCgVJSNXp09xzAxI-m3Yh5ybBEL1ZF8Z5ftyEew__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01581.png",
-		"name": "korea",
-		"title": "TV조선",
-		"uris": ["https://chosun-mcdn.tving.com/chosun/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4tbWNkbi50dmluZy5jb20vY2hvc3VuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzY5ODA5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=TP-A3cmbljkqQ7uxEnbJOtLc5HvVAid8cdaRD9kFAPLu02m7VGo9oxVNaQwKERoxaYv3UfV8DUEjAnx1999Z89VN0bmIK~BHEtbqxJWXef0dN1iPSdl~yGeHB9yPVKbdZpea~iwcNrR~nL~dwrx~gPQqBlaTDZh9h1uNv5PT8TQSG3cXt93VhPVy7ruzBFwECaRFg6aDEkatScGMQaaRInd0Zjhj47mYgRcRCHsRVhAdT-cBFOPmiOk8CEma-QFhM-MVLBEgLuANelScU1zyeAxfPpVloP-KHUbH82gPZQgAsNDtVwvHKIdIhkCWMkXICa9HcXoww9lb-uBFSTj8Xg__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00585.png",
-		"name": "korea",
-		"title": "TV조선2",
-		"uris": ["https://chosun2-mcdn.tving.com/chosun2/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4yLW1jZG4udHZpbmcuY29tL2Nob3N1bjIvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNjk5ODl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=kK6HwwusQ~0MWPwAU4F7RfMhnGVrkRoKkpxKqZ7diUQfcxpYKT1wgVNuiB8DiljmTdvqdJZg9CZzcXEFFG~drdBX8Ma3f0wtfmtRv3XwROF-sUkznPzu3c~AcVkRQO0pM-I8FzSWY4cvVEGZVVVSRFYjjxySYqTy-e6iy0bdp81FyA5lobilDCZrYnc3gGWJdnZ8zje2qAorAgOqr25ZRloaNWjXaIs7nhB~3OcnIu56LBeB608hpVghlLgB1GPc86iNA9CVx6M5Jj5gNhaSydCSnyah42l9zSxHg0aJlMcFyORk1YQkkv9bTaNcXmWpeOa-ZnN9J-yXkyhA4h1c5A__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00579.png",
-		"name": "korea",
-		"title": "MNET",
-		"uris": ["https://mnet-mcdn.tving.com/mnet/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tbmV0LW1jZG4udHZpbmcuY29tL21uZXQvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNzAxNzF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=jcIuO-qkuRq8gvzLcXFxuWy5-J4uMk8XhvN0fKlxC2yKwyWd8S4NZRiFP6i6Qtw8SQXbF6TLNGlT159P2Tc-BAbF9qbxDQy1P6f50KLgBH7X0xSXyItukS3m6srYWYfNrN-9ooawR8HpEycFVY1HVVXNQpZzJidWJt-lZ2jwA4GFClxO6MB4qruAuimUdzfMIN~77AhH8HMitjZk50gvidmXaqXP4YW20cHtSYklYjoZxPJa~1uZHamCQn67CXCEtH03Fgx70YpqjvmonWhX4T9vPb2m-sQVRYIK-fTjQeOvoNc3Y22-WncYbH8duisIEcvS9UloIbFausTzfPDwUg__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00708.png",
-		"name": "korea",
-		"title": "MBN",
-		"uris": ["https://mbn-mcdn.tving.com/mbn/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm4tbWNkbi50dmluZy5jb20vbWJuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzcwMzUyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=IdOR~G9e3w3JoGvwq5M3MdFFZMiA3NQVji5KaAsQkr-j9nERBktiRxHIX1VeyjrgVnormAHHQ8giAMQoFb2NGX7w44h9CDk8UZb-MNcFFGiyoxaXA064J6APzhP9jMmmFYpttN3u-NCey5NLKVGtQgCO1b7oOPT4D8to~UN0YByLw~TYDRuJOBviKbaN1-Lg5sS4y3Ba7wqDKvSfrIS0gZCvZk1mqNGeeJtlAHHbiD2I5mxp2YvzZmO2XT-VfpXqzmJy521DCn9hiqmHdW9YbxQes8PFpCu2aIjCK6334B0Aj491ejqKgJ80je1lUVaYP1zdPkw7ljn8qjnX-uSwcw__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17142.png",
-		"name": "korea",
-		"title": "MBN+",
-		"uris": ["https://mbnplus-mcdn.tving.com/mbnplus/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm5wbHVzLW1jZG4udHZpbmcuY29tL21ibnBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNzA1Mjl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=gTsVSG3JR~qu1k6KuvzGBRLdKEOIf6D-o422U7~ObSIsxzaMQS4NI8N-xwd5gyF92z94VmqBryVTp2cWSjJ~qgzwsJL4WpdWRe1SNcrDNSNBW08FmiqtgU1jq6GrzYgLdF3nGdI-4FF0-IaGmj~sa7ZDBpd4MOAKM9e62in1Jaqf9-PMp8O50GOtNYmdFFG8M0UMNtffNqizy~xKLCpJ9G23ksPyWb-topL6BU8VhdM4uRJFM9TbgazfSpNu6b1JGSDd6JiVJcoSyfDoq2VCt~WzsVR0gbUSPmbdABeac4Q0Tm58gQHlYeweZIWHWJ2eTdSBrOhpvC08CbGb1QBHBA__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00544.png",
-		"name": "korea",
-		"title": "중화TV",
-		"uris": ["https://zhtv-mcdn.tving.com/zhtv/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly96aHR2LW1jZG4udHZpbmcuY29tL3podHYvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNzA3MTB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=JS3tbp1ync47zSx4dPqgonOpxlEDfo3zIoFAuK~u0K9uZsO74bdbcTSxsVQUP0RO~XSOZHjNUU9IzLrhkVpbQ~NPAwvj2uPFtzIITQOn3pBRWOkI1-djWu2xRPSHmCEfkOrRYOXnaJhNDj6yJyQ~EuOOJDeaS-LdbXiHUskziu21d~bAWUdbS5ww6zlmZ1DiMK4ghX7VyeHdWZsW7NfJGVTEioNLONRZCz4NgCtFv9aHAylEn0k2Xqas0QkgVR15aj0kz4EZM44J3KZv-gTyaq8WxTrWE7I6BqL66tpMB-0VKtdLupX7LgCxD80869ng75YC3MNuYD60nPaKWqhbjg__; ",
-			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국",
+		"group": "한국-종합편성",
 		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17341.png",
 		"name": "korea",
 		"title": "히스토리",
 		"uris": ["https://history-mcdn.tving.com/history/live2000.smil/chunklist_b2128000.m3u8"],
 		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9oaXN0b3J5LW1jZG4udHZpbmcuY29tL2hpc3RvcnkvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTYzNzA4OTF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=MS-f-QUNzh566YCyQ-8Z-ileol~l23LAtcqXJ4BBiPY-w1S9lxYZRwx7Fd07rYr74Feb6VoVYxB2UVDSOYN5QWkmDza8GLJ7~tP1oplyifjUkgbncXzkXuv7GC6K48fDORrKKZzEYW2sHoDbzm6q0iFer434bmQKLkM24AiEKxbYdas-y~5hdp-rdC~dEyDWjyyBav52RprzzwBzzgqOVAF1meFaakBhQzQy8Ik9YJzGEHLuZIq8kof-jg~AR5I-eo6zGB8QtuB30T8fRXi02rn2~~oNYo2CiDOy14wOhxmC-kuIMhM4y60Qf~P30u~obeN8YX-2hYwK9Ij-ofhPLg__; ",
+			"cookie": "",
 			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 		}
 	},
 	{
-		"group": "한국",
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00593.png",
+		"name": "korea",
+		"title": "YTN",
+		"uris": ["https://ytn-mcdn.tving.com/ytn/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15741.png",
+		"name": "korea",
+		"title": "JTBC2",
+		"uris": ["https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
 		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C05441.png",
 		"name": "korea",
 		"title": "ANIBOX",
 		"uris": ["https://anibox-mcdn.tving.com/anibox/live2000.smil/chunklist_b2128000.m3u8"],
 		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmlib3gtbWNkbi50dmluZy5jb20vYW5pYm94L2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzcxMDcxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=l6PSZZvRLN5miaCX5G4Nh5bXS-FqzELIQUITvKryHV3tiXAot1PZE9G4a4fxqcl4BS0PO4dOolOxQB86DujzlrgbJW8Gf62bQUylDMRAQiKxc7Y8V1SzCHWKblUlZ6yq40NJcYwZASo8lydT-JvABeNU5r3De8cikB3vLjhYKnPHYQxrwMHrIC-e59WHHza5QTCdK0dzLXdvVM5ojgN7oRPoHE-cjv~1Ikc1-I7MzUdaWpgGM-TvDg95xdlvMKI20EGnEQaOS-fykcyYscQ3udsiyKmwwnP60wE0S~I16XHpUBQUUnAPJfb-WGYp8lmhF2slz--lkM8dvFLN6p4MlA__; ",
+			"cookie": "",
 			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 		}
 	},
 	{
-		"group": "한국",
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01101.png",
+		"name": "korea",
+		"title": "YTN2",
+		"uris": ["https://ytnw-mcdn.tving.com/ytnw/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C22041.png",
+		"name": "korea",
+		"title": "JTBC4",
+		"uris": ["https://jtbc4-mcdn.tving.com/jtbc4/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
 		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C04042.png",
 		"name": "korea",
 		"title": "ANIMAX",
 		"uris": ["https://animax-mcdn.tving.com/animax/live2000.smil/chunklist_b2128000.m3u8"],
 		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmltYXgtbWNkbi50dmluZy5jb20vYW5pbWF4L2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE2MzcxMjUxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=UQErEe1sh0xCEyONo7-MZ2suJtMgG~-1xEQ2G8VgVgWV594JBbIS6wOCKd4TUAHEWiRF1YX5xVtD0rm5RvQuPdS7ggdemz-b-o513Y9Ww587Mnudt86~MaP0kaUE~Ig3BW~xEAyFpqbLzdQm0nUzsGENEqhVPrZIeu1BSQwqjsjvauodby6E2-IIx~ntCZzUQ8R69QMXiMmM5iuw5~rrht5eISuPD0eqfULkkNtQ7WKHaJQMDm8S5rj-v~YnEoWXk8Lv6Vxl8mbLcUnChAjOMpAriSMF8tYsza0xUjg4caEfE4NvBTKzn1eRXzRXfYybLyjtZ2ywQHWAOEOIrBwEOg__; ",
+			"cookie": "",
 			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 		}
 	},
 	{
-		"group": "한국",
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15347.png",
+		"name": "korea",
+		"title": "YTN사이언스",
+		"uris": ["https://ytns-mcdn.tving.com/ytns/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00551.png",
+		"name": "korea",
+		"title": "TVN",
+		"uris": ["https://tvn-mcdn.tving.com/tvn/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
 		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C06941.png",
 		"name": "korea",
 		"title": "투니버스",
 		"uris": ["https://tooni-mcdn.tving.com/tooni/live2000.smil/chunklist_b2128000.m3u8"],
 		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90b29uaS1tY2RuLnR2aW5nLmNvbS90b29uaS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjM3MTQzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=INUzuWGrSF2NOJMo5jo9m7t8sEk17Hgo2wSYdYv0WhlfP8Zp~E9gn8C7W8yovv3hHMirp0vFzmC3ts~aoRy7G1FVG8ET0xcflPa5uyBrfndS2gc00XffFDml~Lf6qjZl~6kWaAFfBnScClzmpknnWHNJHjbyilfgtxqH2P8GVxHr6BrUH56xtGAq9shYEQEVpR4fyBsLO-M-at~nD2dh0Jji1tu-Y~Ujvb9QOMlJV4QwZJRe0iF3zriE8ZhaNedF8jDd70u5HtG2L87zfS5R~ZVIm7ENtZ-SbqUDsFlmEuY3qKMZQvMD-c5Hv4XLatlWpDZVoKBlFJyUwSF8eKqgUA__; ",
+			"cookie": "",
 			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01723.png",
+		"name": "korea",
+		"title": "연합뉴스",
+		"uris": ["https://yonhap-mcdn.tving.com/yonhap/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01141.png",
+		"name": "korea",
+		"title": "TVN Show",
+		"uris": ["https://tvnshow-mcdn.tving.com/tvnshowsll/live2000.smil/chunklist_b3128000.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": "ozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
+
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS",
+		"uris": ["https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1716623893&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTY2MjM4OTN9fX1dfQ__&Signature=k7L~T4hbHv0yC3NoSOL3sj-XvEFTLiRmLmbhmFnw8ZnCiCYPm3dUk7ZSWXUcA8ATqYAJflnnKPtYl-bMXuk4TWXGOD5Jsj8hP1jWdHGzQ138l3aQ8wY6LSdisEprZHs3wpmXXXbbA8g6ftFiHVl99VOFIqi1r0bILJD6hZnp4AMb2kY1lMiOd3t2DgkRMsv4lGorL502X00iYmHVYx6d9OQSinYIzreSTdX3hNTAfsU1TymGj3cfANIAalllwrdG9Cdfxsui4YMv~TZ1OX8DuSyZYhhKJlS9VYfdAQd1t4bDm3uXVR~MFK201d9J71jrHO4coGoSqWNwGBzMONaZ2Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS2",
+		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1716623980&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTY2MjM5ODB9fX1dfQ__&Signature=dbqQEcixOCDSw65F661svuAthKXdJqqeDYA9e-bTF0TcJ3xQ1Xk4XbpRiq0Dt7YNhfT9wQsOKjE-1yPjrnmInssGVN6QWKNU5Z2OOFDzFIo~9TKXQ7Dp67~YzcXloMx12Nu8lmnQdJsrh03CgYniKzYGuuXZ47j6-4TdCtZ1ZpSk3NQi5-IChlvQ7TUgcLh3A-EMzRAfJUdqnIEefwjhrUja~IDttz3PF6jlXQl38cpgFU7yFDp2kMTt1TSCXr5M740pD3ChO28B5NtmxiRLFKfz9zbbi1wREpu7zvLmXe0DkBPuT52ZJTFYgEKMHHfRZ6OzhryqyNGFDBUgAYDTJA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS드라마",
+		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1716623921&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzkyMX19fV19&Signature=hrAuNHSREhCsGjMMcvrdyPPKYmMV~GUrBxj2iG-K62iCNqLV9FyJzyEV-eXMlIsdewUoXGoaftxTOJMDfnzqlm8TEI3NkfkmLJ8QGQATbwQBC4ZeYgTXTemv-nHYHHFEM9cQkaRs9iknrVv4T6muTZYcfvJGuuWJgxZ5hKy0zz2J0zE7Er2aeElW~LDmKnQglsWWeipYAaI-mhMV-BF2avGp1Ly7zIOfdNJvuBxtSpYJtj~tfi-WwNAsclG-aFGn9a-gTbgNncKCsjEf1BAW4QvwKs6LFNztlW3KddXP1EDwg2mpfErJiIrcawFJeF7Ex8ED9VKb9xJQi~RLz2njpA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS Joy",
+		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1716623968&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzk2OH19fV19&Signature=RmolRNHGFSGEg71zhs9tg6F9lnnCxf7kDj1qkKHSREmOh1MX6ihTY7ECa2VgKBaH1gHtO7gLxhX3ipp9wovVd9Fm06ajTOkQBQYDorENiU1p-LUye-HAEJOShyn-29e4Mxlb8z4KbC08ee4Y83cQ19KIqUrosD5Cx96eZK1NLQxSIwhyGoTVmCyURjZUZs9OqMhoM1Ro0HBtKAgHb3v4kh1dbQg3EznuoLCaflCDTUmRy74fEy42ao6Oy0rgiTY4oEYJQqGdNPHCfc~BSv9d2nF23EHED4XEvhRZRQpxtiFOigl3jOCdDBEHpdn34QQX5LjuG4z9i569GRN4Rfdqxg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS Kids",
+		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1716623979&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzk3OX19fV19&Signature=Ba4fuFi4Vb7Y7ti7zEEG4J4U3TidQesb2~tZphLLsax~Ygc8eTeHzB-zQMtAO0KfGhzBUD028FEx2iY2jVPj8b4nY952gn1B~fk7OSWDeGhNXo60F6cmSjWByOWNfJwk11CMWP3Qyu1yy8zymHiGiECOBoVHoop6w1qXEGWlVW7Hw8QhmaFsLqE6TEe3yjHoKKm7rsi8meHaMHq5lO5zZRyCS1tFicUZ8HUzt2ldBm2dDN~2lBMtFauxdGWaSDxX9F8NdpPivxby1x0vmQDdXsuHnGMdZLvc2vzH2YgYncwXJ1hX-eIgf8fmB04yNFuNsDsVvQbJsxWQDDLNnblN9A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS Life",
+		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1716623958&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzk1OH19fV19&Signature=NA2MMjukXePFlTPw60Xjt0gnL~ujZfJLiBZeEEYYMfzzeng~~FOMte~0x-3azbbCp8hlG0pC39BaF3Ixm3xG8E0-J1t2pxp9IcyyhfHZIVOgQ~otST0IZPqRO9ABgYaijGDsBg6TKaJ5N6Yx1PONq0wOvskEZyJJnuzv5Po0mq9YlbbXg-Snkfv4r-kEv7S53T-MWVhMeU84WzEy25ECb1iuomjOTxRKOtm9R9-lWypCoYVJzzqYnf0RNAO7hUIp-86KEndjhULr8B-3MM~wKSu-T1Xvia2SHBw2CXUgqDIYIDQ6UEAfhgsC3cpBRVqQSptI7R~OuHTJKU2sMDwL7A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS Story",
+		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1716623958&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzk1OH19fV19&Signature=A7StUF5294JRRoZ2bTT80SbGc3JK~3vMLeA~HhRUn092Qg-YlTgphIB7KOHiInmeYzGTSMWJdxUfcGaXulLEep3kJqgXHbOiyaz7vQyUxAmeiMVLbw7eXv~KAZqWK9gPLVC1twT-4ilRQuuV5ftz0ZCif0rsOj3T2MlUMxnrzoZ1kowFTPKRHD4BLWk9hnyw39RoPKC5qiWGVIULZ5CMNqAlqAd9dCRhKD3IEoPHSkXaGiq-WCcwbToxOITptvGrVEKg9cO-UmHW20TdpY~hhNDWpnB1OE0ZYbWtSQ1VgEA9njY1qTYGE1~0vrFjTPhby3a015rwC~FrIDMJj0nqvw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS World",
+		"uris": ["https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Expires=1716623927&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvd29ybGQtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzkyN319fV19&Signature=YFIN-SbzgwkAvUZGssWibe4WAs510i83eNDUUAppG9mGk5EU4StLx~vSj6sBKHMzlWdjnaB1mKiDl~GooXYo9xpCpXE1pFEHsTEUExUFf8BHPGV3dDB9W0UuqpBSGXgucCmnaRAcmUWCqhllsJCB0cB19JlkyUIgPP~VUsbk7ImahlSUSk-Vl-ecYj8UIoB0C2sH~ocx1acv6Nd6YnAYH5GqJ9xiIUyk7GGtiRKy1hC6F09oulbnY~ZKFIHEi89A2d1Ja1CxN97FC~knDbQt6I0WN01wzB9VqRyeDkxSO4cV5pYPTN2JPu~npjzk6nZ1OailcDfA1zNjN82XMP38Jg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "KBS뉴스",
+		"uris": ["https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1716623980&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxNjYyMzk4MH19fV19&Signature=hcxa-Mtg8U97YPl7TBfLtecP6gEnogG9vb0lCRrGz3imo1tyuqoOFxwJga1SbIM0ikUWPC5x5kDy6Cruulldp71BCWhcJA6rVE4HXg1VDcYebzHxrywUfSOhY3GWU6TNjCEhiItZ8XysJ8Xj-hMqsmY38-JeBqnZ1rjcsjCRy-I7uYe7hdMsdXYoMyV6PiWkA~lajv-9DVbjC7TErvuzmisqCWWQtVlgyThSq1fG0-0a-p8UrWfqDxGnMqhTuK72OWyjXrtjKm-QH1lKguxryG7MRdGULaX~oQpfbp4vNK3H1pFAemw7BLjL4h7VNR6JiVySTgNs-61Z8UQhUB9pSA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC",
+		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6BA12F1A13333974EA4D65053991E94A65063B558B04D200394019a0F64E37067BaDD39938B28A4070243B617Fb0D120A4FC0CDD2CB1E917C8F83094A24591DF2A6A60DBC2F7362EE89EA4AE8073134F906AE03D9116227F7AE2786534911F0E17CC36509FE7F7C24E423409060DAB0893C31916F27A3EC1B4E788DF5D08ACAE&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC드라마",
+		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6DD1C215637232A4AD4FF5ED34716746D5C03175AE0D62EB309058a3E6BE37269Fa7937039A2F74C405A3ED131b4C1E187EF1D544CD810F67AB8736BB1E67852FEEA5B53FB6C2F3BEE70BB45D3001B2F7657A63C97CFDD79485F4E8FAD65287D49BCB5F35C29C239B1EF24EB33EF5F8AA05B0DF94F3D74B387969006BC9674BD&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC Every1",
+		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=61F1451153883404E946A5003FC1A24855B33E25100C622731C0C1aDE68936C601aAE32D32F2DB42C0A439F17Cb3C18ED110F3F97967105838C581050CE82AD1210750E216223E363E2F840C2C7939AEE230CE50A6F72190A0E61350168F2C91010B8CA845487E56EAB8AC4F6694E88FB06614AE3F1061A2093BC5AE9BEC7840&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC On",
+		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6121EB18730834C4C44BC5313E61704115E835B5E50BE241363096aA46703EB6F9a8C3F43F729541208D353129b98184195B82CD2DC0F93577AB948FDE26E51EF7BC0AF1007735C812053622F0DEDF89050762768D8326639D0E7F8C2D0F0A9A7067069E4755EF4F391BB69DF9017D7241BD09AF906373A9C6E2CD4DA218A658&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC Net",
+		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/playlist.m3u8?_lsu_sa_=6FC1441213E83FE4E94895DB3351BA4ED58439950E06F2CA3DD0E0a9D6493536FDaD63463E92554D40DE3C81E5bF3137A3AC81A8C569FC5B1E3E5AAC294C01DA59C4FAE213402CBA630BDFE1D595AB0E2C1ED42BCB9C6AC613C3CA240FB4281B29FBDE29C4F8B88EC00A0DAA378198CD6E74F3A0399BFAEE4ED3C2F4C2F0A4D8&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS",
+		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTIsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjhiMmM4Y2M1LTJjYmQtNDk2OC1iNmE3LTRhNWM0MDM5YTE1MiIsImlhdCI6MTcxNjQ1MTI5Mn0.n7eOJSionCFxRGhI66mzMgc86tbNcWrN-1tgBSgrL60&solsessionid=51238da10555826fc99ac6a8a116f133"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS Plus",
+		"uris": ["https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTMsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxZTZkNjNiZi03MzU2LTQyMzktODlmNi0yN2NiZTI0ZjEwMDciLCJpYXQiOjE3MTY0NTEyOTN9.j3MWDgnOGss4zJDw-qMbDfjrz9BYH6_RqDU4glmPjJA&solsessionid=f294ff6e70716c404892bb4f778139ce"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS Fune",
+		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTYsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImVkMzgwZGFjLTI4NWEtNDI5MC1hOTdkLTc3ODhlNmZlMTE4ZCIsImlhdCI6MTcxNjQ1MTI5Nn0.5mVPJT5L0DOOYbaWRCG2kGmY6GJwR6qASkIWzEGd55Y&solsessionid=2169469dbe9319db0c222f8600aa7da1"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS MTV",
+		"uris": ["https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTgsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijg3YmRmOGE2LTE4MjQtNDhhZS1iYTNiLTVhYWYwNjNlZGIzMCIsImlhdCI6MTcxNjQ1MTI5OH0.3qqE4fWPYD99zbXG6mxyDmEFJnEwDlnrLZTSnlB0HlU&solsessionid=7376acd95b14e3a9b8c28bafbf7d3393"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS Golf",
+		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTcsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3OTdkNzFhMS04MjBlLTQ4YzMtYmFjMy0yYjdhMDFhNGNlOTQiLCJpYXQiOjE3MTY0NTEyOTd9.ayxKklpq2NzzecNH8g49G232t9jdysMxgo7EWtHEICM&solsessionid=ae0d9fb3e5e0d17d0fed155fcc05cdcd"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS Biz",
+		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTY0NTg0OTQsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJiMTY2NmY4Ny02YjcyLTRhOWYtYTJjNC1hMzI5NTdiYzdiNjkiLCJpYXQiOjE3MTY0NTEyOTR9.PB9PDX2oNdlkts5SdAr8dg9BTJUI83QG11nsj1NDG4M&solsessionid=a3e01a5d25be703c54a4927f4501c731"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
 		}
 	}
 ]
