@@ -378,6 +378,17 @@
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "korea",
+		"title": "MBC",
+		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6531F919A34137B4C34815553DD1D24CE5E13FF56F08528137E05Da1E6F83D06FCaFB3AF3FC28C45606834419Ab0319757AEC3AA1E169C638FE3CA490B68C3BE160CC91134A1588E5DE31B5A8F71FD7C3FEB136B8574BE8E4F64F28BA134924BDF860A13BD9BFE11CE29DDDB8E97B2908852CB43D62149051709596B687AFAD7&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
 		"title": "MBC드라마",
 		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=68F11D1C739E3614494E35AE3A310546855835C5380EE2AF3CE0A3aC8610372690aBD34F3352974C306C3EE178b9612FD6AB393BC0F3A2BCFCD49F6FF7F51623C7C6F4A1055182B554F64682C5718F7CAA835B342B84E1E552215F62D0F0C06E662176D2BB7C9338E64350C0CDAA983000F71F5C2FD5813A60C9A60BFC353E59&v=3"],
 		"headers": {
@@ -413,6 +424,21 @@
 		"name": "korea",
 		"title": "MBC Net",
 		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/playlist.m3u8?_lsu_sa_=6AC1A01203A73CF4804735B035110B4CE5793A150F0742D23CD014a9165632C66Ba7E30536D2A24410643E6195b941923B0A85268FCD75AADE822A3F3EBF9ADE6C94FD051DF256E87475848B030A6B87CE80D7751F4FEF6B7B7991FB76D9D523FF20F9252A61DA0BD6404DB27C95B0939366F17C8848AF3A0E49D531A137DFA0&v=3"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "MBC뉴스",
+		"uris": ["[Naver:live] Extracting URL: https://tv.naver.com/l/152710
+[Naver:live] 152710: Downloading JSON metadata
+ERROR: [Naver:live] 152710: Stream is offline.
+/usr/lib/python3/dist-packages/requests/__init__.py:78: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({0}) or chardet ({1}) doesn't match a supported ""],
 		"headers": {
 			"cookie": "",
 			"user-agent": ""
@@ -479,6 +505,21 @@
 		"name": "korea",
 		"title": "SBS Biz",
 		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MTg2MjU3MDEsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxZWViYTRiMS0zOGQ2LTRiMDQtYTJiZS00NGZmMDhhYjY5YjIiLCJpYXQiOjE3MTg2MTg1MDF9.B_QXr0frqjDgKUBp0PCN7toKozlTHQ8eui_5XvzriuU&solsessionid=1eefffd46d13d2c4d2d98a50dcc3feec"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
+		"title": "SBS뉴스",
+		"uris": ["[Naver:live] Extracting URL: https://tv.naver.com/l/152686
+[Naver:live] 152686: Downloading JSON metadata
+ERROR: [Naver:live] 152686: Stream is offline.
+/usr/lib/python3/dist-packages/requests/__init__.py:78: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({0}) or chardet ({1}) doesn't match a supported ""],
 		"headers": {
 			"cookie": "",
 			"user-agent": ""
@@ -609,6 +650,17 @@
 		"group": "한국-기타",
 		"logo": "",
 		"name": "korea",
+		"title": "스크린골프",
+		"uris": ["https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmMjAzOTAzMCYmMzg1NzM4MyYmMjAzOTAzMDM4NTczODNEMCYmZg/1080/hdntl=exp=1717171296~acl=*%2Fentry%2F*~data=hdntl~hmac=0554f8aaae423665391edfc3da9c5667728b0e51376500f3cf6d92588cc26284/chunklist.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "korea",
 		"title": "방송대학",
 		"uris": ["https://live.knou.ac.kr/knou1/live1/playlist.m3u8"],
 		"headers": {
@@ -688,6 +740,21 @@
 		"name": "korea",
 		"title": "한국경제",
 		"uris": ["https://livecloud-slit.pstatic.net/navertv/kr2/entry/djEuMCYmRU5UUlkmJjcxZWQ2NTUzLTRjMGItNDM4My04MTgwLTE5ZjM0NjU4NjU5NSYmMzEyODE4JiYzMjkyMTI5JiYzMTI4MTgzMjkyMTI5RDAmJmY/1080/hdntl=exp=1718650967~acl=*%2Fentry%2F*~data=hdntl~hmac=6f98d4642c5db393cb785d092add432e93ebe3c34121902b1c411a8072cfa657/chunklist.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "korea",
+		"title": "토마토증권",
+		"uris": ["[Naver:live] Extracting URL: https://tv.naver.com/l/149655
+[Naver:live] 149655: Downloading JSON metadata
+ERROR: [Naver:live] 149655: Stream is offline.
+/usr/lib/python3/dist-packages/requests/__init__.py:78: RequestsDependencyWarning: urllib3 (2.2.1) or chardet (3.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({0}) or chardet ({1}) doesn't match a supported ""],
 		"headers": {
 			"cookie": "",
 			"user-agent": ""
@@ -1192,6 +1259,39 @@
 		"group": "中国-港臺",
 		"logo": "",
 		"name": "korea",
+		"title": "凤凰卫视HD",
+		"uris": ["https://cdn.ggapk.net/live/tv?id=a8fa7dVSlaeZbbCEQ_-fzA1WXP8ONFEIUJgyDjUCljq5YKw4HtFgCdQndEGNr6UURD_YtC8prKjdV9Qv253IBSJpGSUGvrqeboHpd1M-b4H0BXNItOnptTmMOmsfQ0zZTcSMJvoZp_d6TJr37WsrhH_HK3Or9UKO2PE&idp=eeebXn6SStebhoelEZuv_R7wZ3pk31tO507u8gaMEVsbbtOEmjQncLlK"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "中国-港臺",
+		"logo": "",
+		"name": "korea",
+		"title": "凤凰资讯",
+		"uris": ["https://cdn.ggapk.net/live/tv?id=c90852BYGRWLAJYmrkZIo6aW7deB6EIPUzUdNGsqMoKBrOePka10d3MtwoJz1O8PSQG4JW1Du-zyFruRQcjIz9eIQMSQn8O2G9bkUXXmSKrS9XXSa4Xm3F2p79e5IQ2kMNGD5umFBuMqAJEmPA3Dd9_rKAsBFCCL-X0&idp=011dfYq79BVyjlW1QHgK0zSZYGuWO76Meom3h0BH8J3fU1sNExxKjPhO"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "中国-港臺",
+		"logo": "",
+		"name": "korea",
+		"title": "凤凰香港",
+		"uris": ["https://cdn.ggapk.net/live/tv?id=f2e3kGnIqvyH9lQ-6zONOFBQmYPhDnYLwW45N8bv_iJdRlx7X_loNsymJFT1jeMU_gHn7dQp0MkdIQq6KN11Csy_V65idzMzSScqDzoa6OL6WJ-kgFqTxxMEt2Wtuc3AgU0U45B0jWsTxMTqyRi9UbnXdwL9C-ss-eo&idp=24f2WVD2EnkCK6O_hrjFm1jEbL7qK7Q9fDwzabf5d6JrEXkk7Li-i7eF"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "中国-港臺",
+		"logo": "",
+		"name": "korea",
 		"title": "澳亚卫视",
 		"uris": ["https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8"],
 		"headers": {
@@ -1260,6 +1360,17 @@
 		"name": "korea",
 		"title": "香港衛視",
 		"uris": ["http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "ENGLISH",
+		"logo": "",
+		"name": "korea",
+		"title": "CNN",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8"],
 		"headers": {
 			"cookie": "",
 			"user-agent": ""
