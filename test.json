@@ -1,277 +1,1234 @@
 [
 	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00593.png",
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png",
 		"name": "korea",
-		"title": "YTN",
-		"uris": ["https://ytn-mcdn.tving.com/ytn/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG4tbWNkbi50dmluZy5jb20veXRuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjU4MDkzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=DMqxyeHbKnWlqifJvYStGV~r0HGhj115yjMUTChd8wHhmNJCFSws-BTeMj0CjG7Y-OCGrjXZ3Mf9F9u~ZVf5b6Mc6geyYdEiiVP5A8iEfZesN8frUPag00TV0uuoVZwBGNucM9J3KmAxJsSi2p5zLIWWEJoRU8MmJj0N-7BiAJss72q~V8Xk4D2PwSYcQ4DOFrrlDx3~d4aoEKg~zWW8VpdX70claVO~sheHp4wmmZ2WzJ5zMRS0gQVcc8hS4PoR43rOho-ocDg~eWa8-2hVPf0Yv25c3Vnfx11TNqrHBtLm~IusDLSKOc8R1oPCd-o8xRdPedecGxDSyY6Jm5kn-A__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01101.png",
-		"name": "korea",
-		"title": "YTN2",
-		"uris": ["https://ytnw-mcdn.tving.com/ytnw/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG53LW1jZG4udHZpbmcuY29tL3l0bncvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NTgyMzl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=AOmLtiSX1p3NFntU6DfclQYzmuftZf2TVnxCnk8Q7EvERpA7vUCID6NBqgvKD9EMRJ~fX7uFIAGHLBhygE9XLH1EeN46D5FyLy4aHnzLqcohS9er63eH1XhfVMDSR8dGNJIPnr7FrZvsIKJ2aLYr3cxyywwKn5rZTAp1MmAp8v4j-YyXkogLScOmu-S6KMYaDe3Dg2l5Qq73mwav48Y0NAIF2j71iDwXVc7VdqTxpr22fsBihA0k3jiK6tWIFDBJq4YZa~r4wCkvcqrtNqHwwb31q~h0EHVsduGzpC36GqGzfNQYRVinIghb2hApK9nZghbYa6GYDPpEGzSDxWK0XA__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15347.png",
-		"name": "korea",
-		"title": "YTN사이언스",
-		"uris": ["https://ytns-mcdn.tving.com/ytns/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95dG5zLW1jZG4udHZpbmcuY29tL3l0bnMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NTgzODZ9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=Jcwwe6zBbawGvPfXedcYYhEWIp4Zkl4-xGse-TKrreMiZTM5-IdujPuSfsgzTWAk02ZZCM0Vxs1pR8MzzbabRI7azizgZ2mWEHciIp4WvwZk5cirsZ~VPdzysb3MEUh0E~-chvgD3yDg5CjyFe6lL0eOnmHlOfYyvfaMiT2h~aGcakuAJPYdqAXFSCt1ttL5TIPTxW1niVX37lbwpJYn0Z3hzbmhaM14qcSfgiePh~6~yMAGf7ZGwUqD9iMWCXiOofgVq1HtODPEx-MOIgXNY1310sAtQ6b0JwhLrDdSDrBISHk0UJgIDv9iKDPI2eY5g~twmwO~DS3pafMTje5l7A__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01723.png",
-		"name": "korea",
-		"title": "연합뉴스",
-		"uris": ["https://yonhap-mcdn.tving.com/yonhap/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly95b25oYXAtbWNkbi50dmluZy5jb20veW9uaGFwL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjU4NTMxfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=ZivVd02vRhK4-3mZfv6WiUAwSGALUoRWK6BQRJqsur1DEALeMi5MZh1bH9xiJqImr-MR8CJY2kAcuxu7-3LgSJH4diSpyqwvj2-Se8f9~FiycnIvG-gy6glc-Fmq6-ZnGyK21uXVZrm~tfsBft7XVlqwV~D2P2Bd-N~uQ9ICQjNFueEWWNVnW448frpb73uV2eP1675GlGepbqLIWYSrUiIJCli~XwO1QSBvjtuaphcOhIewCpXq1SR7I6wlB5mZOAHqgapmaBCy4ZK5HXHivRA25FvkoOG1T-CuVqil3FzJnPi31NB1pxTigP-8fvfvyc5eYD6kEYupNKecgUzU7A__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01582.png",
-		"name": "korea",
-		"title": "JTBC",
-		"uris": ["https://jtbc-mcdn.tving.com/jtbc/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjLW1jZG4udHZpbmcuY29tL2p0YmMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NTg2ODB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=cy94Hi~2eQzh3kwRFlACmILj0oYmPhqmK1GGJp8Py2ZwLY7sE8sUclPIcwnx0GfGipf3xzHWpxvYzPUzL4Z7FGyncFFyoUsDy9KXpg2j8HJSXjvTvCFjba4iGq3JWllM~gzBJX6h1X14d-Qn-D2ssa02PyW81CVEE5k0QAuLX~Gn-1eIOCKHCKpBPPyHffOhN8kXu6z8Lf7~GTMrsqC4ILtgPoAxBo~pwEL5s0jHxcBneJZSGE3Em7DtLcqtyNjazwEyo1J85EUnHWn4De7XhNaXKbMU9RGo1n2hinNXxctUk56naoos4zmZkUWaCnvpWyvdHvDeYKIUBFBahE~wag__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C15741.png",
-		"name": "korea",
-		"title": "JTBC2",
-		"uris": ["https://jtbc2-mcdn.tving.com/jtbc2/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjMi1tY2RuLnR2aW5nLmNvbS9qdGJjMi9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODY1ODgyM30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=NB7ImrMgEOPaNc0vDUYg1ptO3GXl3T0mn-889506RLXygVAJUFOesjmDY6FXYzGebZ7MRjhs34ry8x~JKbDwcspvppKnHPqBHFnc-IgGLW2dLUNgllxRtc6JSrdAoVHBToOlIcSwjIuiXsUXpOc4xvPgXRhqFFsIeKWyvk2d7CcUKuylBjrv2s9I-vy7maIrZ-UbIW5Bv8NeUG9WLnSdC7ciKr~7cfnLYUVUCXTxdsOHzP9mvKq8DmRLUk8yPrdlqhAzGMa~fXUoCpQJYkxIcdSjt5ks~T4MO6qk~xZikDl-8lhFwmlrSt56oBgUc~9wYPxChMDc4imzB3Cs1wm1nw__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C22041.png",
-		"name": "korea",
-		"title": "JTBC4",
-		"uris": ["https://jtbc4-mcdn.tving.com/jtbc4/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9qdGJjNC1tY2RuLnR2aW5nLmNvbS9qdGJjNC9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODY1ODk3MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=GHEsJkbuUHCZcCgNAAxLUx2nX4SWhv0GcH7Ao37ALNiJlm2mDmAKXu-jh9V16z6NZs2aCgvj4ZUQwp6mPqFwkkNnPJ~qFZBYyVJEbULoAp0F5cXLYTc2e40nM2R2or9D8RJslyk9zzbgys8T4~QLDNUBauHYEiNeS2XdDYe43v-NEKZSCqx-6Ft2o65gpzfYGU2ZlEe9mfJw20LfoGcrPgkErPaArTcd6Y3UHNV-qoBbzELJPYbZGXcQ~5atoopCyYP8VEIUcTyYc1rRtzaBacQvlzMpaXPMgpGAVn8urbvV7D1NgFvhvhdVbXsrvxA6gfu0k4K7rs4H~wd3jsDufg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00551.png",
-		"name": "korea",
-		"title": "TVN",
-		"uris": ["https://tvn-mcdn.tving.com/tvn/live2000.smil/chunklist_b2128000.m3u8"],
+		"title": " 연합뉴스TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8"],
 		"headers": {
 			"cookie": "",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+			"user-agent": ""
 		}
 	},
 	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01141.png",
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20240403T030123SQUARE.png",
 		"name": "korea",
-		"title": "TVN Show",
-		"uris": ["https://tvnshow-mcdn.tving.com/tvnshowsll/live2000.smil/chunklist_b3128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zaG93LW1jZG4udHZpbmcuY29tL3R2bnNob3dzbGwvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NTkyNjN9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=lbyY6hZeURUGxOiqbAK79CvHQOtC2YyOtDtXVQXpMl2S-amYPW37FjgI4sDzUQrqpQ2II~0V-95o4VYmIfeQZj8U6WEMr-TCVW~LDNk4ao-vQR0KKFVq3ys29-JTk85ENHsVqZokqGYHVFYB2O0Y5lblnhEwDdEq-k8VOGsjxRIbIHG9uFd2Ub3~JzLCdetqV2Yxx42aW9Jm1Dvn6OjJxqylYdW1lhQVWc64GnYdSPXXT2T8t5Pszr0zrkCOai0CsAlkghypgYPY-ASrxZqyC0nntrIvpzQ8oVaaFGS7GysYYciiduL1mzXWRYa0x6-cksDgTPQAD1g7ECH7sXRxQA__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01143.png",
-		"name": "korea",
-		"title": "TVN드라마",
-		"uris": ["https://tvndrama-mcdn.tving.com/tvndrama/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5kcmFtYS1tY2RuLnR2aW5nLmNvbS90dm5kcmFtYS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODY1OTQwOH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=RAIKWyQmVy2LOBM6uV7K2UdLGEIfgpigzmHo6vWnx5UVKQcvnOeFlSvcE0j8iTyUH7muDMyMX1C4A74uj-mN9rx50YnwRbi5NSZuwOCrgr35e2Gba~bkTzebbIo85Y7WAUB~oGdxNWwvwGihM59hp5CT1DmAUMvL-c-APW0Yf-kJCvQadqcade2tEKBSZGiD7kYh5nBgyP172YHWsvImVOw00ql9Ssa6XnSXxCoL13xbp9N2aza~1WEgdx1IA1ng2g9TeNiiyJODni52dyES5xhrhEtNKQumR-MG1vvply-NFYrrpfMwZ1-OzIvlY1gVLbk--UNxIvtdd9~BlhNALg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C51258.png",
-		"name": "korea",
-		"title": "TVN Story",
-		"uris": ["https://tvnstory-mcdn.tving.com/tvnstory/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90dm5zdG9yeS1tY2RuLnR2aW5nLmNvbS90dm5zdG9yeS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxODY1OTU1Nn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=BNSejitvYfbqmpffI7tqFoDLqvDd6FImHbkE7i2EkYkjT79n5ZoL0cB4Ep4y9yVA~rdo~BmeSSGH2SiKnnii0B-FS8K0i-wk34anyJ5yIbU087B1h2XUlBavYYnK7cMXHXIJqBqlEWsU4wNHn79-O1oaDnOs2DtXfMdf9ffaKzxt8s2xas9eGWbBTxkj80lNhDapya3xaS9Q4PVAzmZHYuDLgHwMzc7JpPcDoxnT5qPGce5vm9hDzFQcGu1PBzy3D~MSo8~IGw7nQ6pmcdYgPLDky8Q-vvVvBMuejAV6suiLt23~~Hq~bYBNzD-2KeWgy64h8SVgipdlKZLuCIDfSw__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01583.png",
-		"name": "korea",
-		"title": "채널A",
-		"uris": ["https://cha-mcdn.tving.com/cha/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGEtbWNkbi50dmluZy5jb20vY2hhL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjU5NzAyfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=W9h~1sFPQFCz6MyY8kow4l~zqhqX8Oebx1C9oYfR-N~guqgBb782YCDDja9MtNXJ9Iv07kyDFatuaXkSthfEyDvOzlUXgPfhgdTsG8KVQ0zKzbXw0HiczA4r0I1iu3xJN~tBPBBZ1ZphEEowQBTJUEZ0kROPzYpt3xX4-cda3gNE2Ee5niES1onhAdf0jXn2o6VDlPsCYhc-isplPdhZvdYd1luepbp542pyi7jTQ~1vqgZrkvnZYH-hBE48Wx2kS5LN7AN7PrxX17Gg8lV3Ka7kbf2GGj1EEiH4YS~iVU-6NBba7KKqfgG8J45Uk1jzk0u3ybs8hQ85g8jEX-HY7w__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17141.png",
-		"name": "korea",
-		"title": "채널A+",
-		"uris": ["https://chaplus-mcdn.tving.com/chaplus/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaGFwbHVzLW1jZG4udHZpbmcuY29tL2NoYXBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NTk4NDl9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=GUeQeKaJEKQ4NfPZ9-DWrXD3fiBaaLW~c2WoCVbvAKd~CWeFoV9drX0G~v0FpVTRHFId3mSfeN4ZKTIToQb~TftZOkOOUV0CRsO9hAAgWnDVEsWgYVS8-zE3jADwIVxnADb6Jm09XVLx5ByEspZRi0SkTZv3L0UXcFa0we~hMy5qbe~qMjtkHZnldd2u~2mb4Q1~nTzm~E5iis8kArLTEEdYyJ-~iebbSZe1e7d4IdOW0P1HJtm1nwd05V~WCPtvg54XlPHaE6PPr5GHGM6ZOBUwnYHcqX2UY3hbIWnVpmUDL7DFDz3YtQ8bUUsvn~m8uogPx4Ma8~jo7EwEgQSzjg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C01581.png",
-		"name": "korea",
-		"title": "TV조선",
-		"uris": ["https://chosun-mcdn.tving.com/chosun/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4tbWNkbi50dmluZy5jb20vY2hvc3VuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjU5OTk3fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=KDa6rfhm8WW1a7dNa77cnkNZFNv667FUSnHb~c0UNe~5WQ4JHyMdTHjWpGZGgqSPM67hOu3xgkz4E~OomAZo6l2Kk4qZ~XJbImXVXnJTUAQIRwzazGb2XGMUpqrtw71m5ZE~fgpHRJJPYWUh6h25aBgIJiLyPrx29L0AWaa0pjnppBrKq5-bTdnbzSNeZulXfD881YdLhEjXbLIXKAocKN3gb9uoejXJ4gAMSHs14iViHRDBRmmtkPwtGdgl9EInSlq86x4XCzWRiLFdcBGup-w8wpGejX0JwGsMinbnfjF4Cy~z0joS-gFY2r4AE4spyLTaZYIaZZCRX~E~3K8LSA__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00585.png",
-		"name": "korea",
-		"title": "TV조선2",
-		"uris": ["https://chosun2-mcdn.tving.com/chosun2/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9jaG9zdW4yLW1jZG4udHZpbmcuY29tL2Nob3N1bjIvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjAxNDF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=H0PzwFyW7DaJrwagi3yk9ZSkD0P4pF4q~7YJgisM3M5EGoA5OxRRJQEZuSSjLNxczpColn1~UAdjktXAb--lUjwqSTN8hYp0GKgM4Z~vBwPfJu2FNHiELJrj5LqmtDSTZ5tBjViU-MTo78j5jixITahBnDCxKpjCOemGwKE2pH6H23cw3BOLpbkD~8fE4XfOJT1moeayVZsoOPuKa~f47Og~V0IdeejVBhhKyPck~2MAMk6NSivj-v0ZcxCoziI66Fy0fvj7SQo3QfIJOZ2XdqL2eiTJYH3ATJm7IvHpNrqy3x35eZwu2BO9ZvHE8IHlG6PxPDI-G2h7V1jl77VF5g__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00579.png",
-		"name": "korea",
-		"title": "MNET",
-		"uris": ["https://mnet-mcdn.tving.com/mnet/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tbmV0LW1jZG4udHZpbmcuY29tL21uZXQvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjAyODd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=ACRRcqOnk3iigqhgxf0e2IHvTD7R2lCwJ5cvXP5ZX~K35A15pWNQU5LDFCKmJlEwx~Vb9k9gSDUFPQeP2vHbro54pH0JfPaQtR9jD3FEnbJ~dcS4uM9m0eTy8JtU-H07Mr8qygVly~r7cUrB0Ux~UhLF0ORoYL1vJ-J478ipWJ2tBf6ZO~Imqh~Xts2l4mnmNutbgwWhG~npvgsVRNrFRgyxEm~7fN3x-d0fKHevnD-ElQ-tk57hd6yMxXQZWO3U9NApEcn6iikiCdH2px6RXAEAVR84BMUaJd-uwBFJyxqg7VSmY3Xed3SBj7CYht~LIegg0OQL8X1vJOpcPB7rSg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00708.png",
-		"name": "korea",
-		"title": "MBN",
-		"uris": ["https://mbn-mcdn.tving.com/mbn/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm4tbWNkbi50dmluZy5jb20vbWJuL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjYwNDM1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=gXmwJsxNvq9rYd~7c-oU-2alLa47aXxq9z8RinrYRM3nMXQK48FsukrcyX8dByaGD5GJ1i0sZ8TStP15iYgFbsbQvcj2150mf0kG6hiBdYYmxVlRuV9JZ-tcW2E5bVguSyUM7mwl0islXF1ntaiKLNr0Oh-OwIPyYs1DjZajFiURhHDLqlM02wNlAOX-ax7-G9xKhVDf1Qe8tgufYTFGSHLWPUPCE37Lm0GQ4D8DM00nKxNmsJLd7DzgtFD3LMHfGvsL889KCzugAUSOyz-APgLcHoDmfTSAp1WNde3~ZzOKINtBl~q5MGeBynMNF~5F0-sUnLu0VpmqqDQeemihfw__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17142.png",
-		"name": "korea",
-		"title": "MBN+",
-		"uris": ["https://mbnplus-mcdn.tving.com/mbnplus/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9tYm5wbHVzLW1jZG4udHZpbmcuY29tL21ibnBsdXMvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjA1ODF9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=PFcZ10KzgBfDqFKTdeEwcGdWRV9Pxze8gbPV8kO8-u~1lJvj5FD3mUQ04ie4c7scQUZ-dALQ6JjolJ6u0~gw0SNn7mtQK0xxRmdqTI9exkhBKLwcoJMpbUXhvGRgHPCyLZWDNnm4R210YxirHhmJpIc6eJ5uSV3SwDuofC2bGzClosV8Sv1m8LJeRrpVXwGktFwoc9viTsx-O5qJ1VjoCVAe-cvPFAc006ByR-I9-zydopfWiILfEG0bOCgUUsMcTpKk8mkWIFUnVCeMIW-InqpLQmUgz4o7P8W8xcM~bGssn6coTPUeCIyvsE5JUwNsT~91Snbt8bGQdFtJYk-Wsw__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00544.png",
-		"name": "korea",
-		"title": "중화TV",
-		"uris": ["https://zhtv-mcdn.tving.com/zhtv/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly96aHR2LW1jZG4udHZpbmcuY29tL3podHYvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjA3Mjd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=fbbOq7CYdhjl4gM0RAJP2tWzV3vzSqnPRYT3AbeqiijcgySY1kFrgvSMpmRsuzK2p9SAMkLdZFgQA4wxFSgChrCm~VgN8mvoKhiM11ONoblhN5hBuEZvC36EsUo52fjlkdUD~5tKJaxS4U4O2smkKYkWUwroIiBx~MpN5jGvrovP3sYz3Y-Eu3lKBnWIqwFVgi4e9SC9lpuj3rE5ayfXTMSkxA9JhKcnyKtpeSyHtGwv-onQOPGcrDdhE5UJQRp3JxuynnBaYMaup413LnsYFSlPpxWgQb8MtQ9u2E7okWJfynKOpHiKJgErP308Z4q4lILuelV2Uzys4rPjLOHfMA__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C17341.png",
-		"name": "korea",
-		"title": "히스토리",
-		"uris": ["https://history-mcdn.tving.com/history/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9oaXN0b3J5LW1jZG4udHZpbmcuY29tL2hpc3RvcnkvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjA4NzR9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=SzMtk1mSw4nTqLG~7M5C~X8vgJmuA2zLyAHoqGqgJifBOjKDaKDwLjZ26Kf1TfwFXJx25KQWnMEINgy74eSA2xUZGi58AkQExqA2VIy44wQQUsDsD90IflnIoP5A-SGOn6ARbdHufzeoRQYP6I~plVKZnIiK2bp3LS1DpY~JuNAx~p7hocYDZFx~WohM7FUiFwKSp5d2d1AUKP7rU5JhIJT4WI49zhVj7iF4GrkXZVo4Dg9NPJGS1rWHIdzaYIHEuAA9-3ULtiNsJxmg905AJJyrEEhGc20VLSn0JsGAmTo2vwuEFyHK9PV-FK-j7Kd0R32XiDm-v4qvjWc6xf3AEw__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C00772.png",
-		"name": "korea",
-		"title": "EBS1",
-		"uris": ["https://ebs-mcdn.tving.com/ebs/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9lYnMtbWNkbi50dmluZy5jb20vZWJzL2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjYxMDIwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=Zk2FJB6xjKPLkgLIxIjI1cmxnppkoxOWwHeWqeAUGI42mzp-u9gF3AK97rwPBtlV8~1XtclgNb-FqBqXBFgfh~y5X-bMlm4KMtCENK5L9BiyyYYbxfFWGA7C4QeMoK4KceFNzud1duc7Mv1D4Kifi8UrjR1FF8xO-3YFv7i-Utv1C69RxdZN7ze~KPM1ypWdJNpXxQyqEQjIHpxrT70b91J5piujhyfUhG1WuKF5ju1nT55Ln59Y~uM3Y~0bGddkh8Ci2oqQ0FDbiXi3fO9~KNgPaJoTXaLJIvTjlhrdt3MyLYKzYZ6MjtLeYqElQjZagL9lYKP2hLLI2ZC8Qb0OAA__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C51263.png",
-		"name": "korea",
-		"title": "국회방송",
-		"uris": ["https://natv-mcdn.tving.com/natv/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9uYXR2LW1jZG4udHZpbmcuY29tL25hdHYvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MTg2NjExNjd9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19; CloudFront-Signature=MatwrYL6~J67bQG-BT63m4qTO3ssGPQRbFu2ZvydRHH7lxRxZM9fJSv1a79bSVXsISWeg7zJEp83~djYux34-rzHEjNGF1IRsGLHbUfZScuhWGvCy3YMNpIwlfx-mHNmbXN1k09n6XGoGH0lnFyA5HL0uvlSrwZsYbZ1u~qW1cqpLIqHOLmlu4CjLGhyeTZlp31RjAzOlku0lWysBfIEDAdztRn5PlXHQdvetaytGQW1-kgcOwqfzw--yr1vV14Shz0uJKyQv2QzX6Hxr4B3hxAkL715Q1PitTOXWRZKRdQMgZIvvug8vygmz67~CPWs0N8hgAEJnkBl8locOWg3Fg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C05441.png",
-		"name": "korea",
-		"title": "ANIBOX",
-		"uris": ["https://anibox-mcdn.tving.com/anibox/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmlib3gtbWNkbi50dmluZy5jb20vYW5pYm94L2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjYxMzE0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=YXbU9DzTR03mNtR~Qy45lSAtp5swQZYKSEhwu0ubX0jcPPyWbBz4uEaUM6X1grH2Vu2Rjv9AEzp7Z3R4CP857zvhDcJwjKz6OzkCJaYNwQsHc70jNdUDzK25tEeS-Y-6MZNL0eVQG5AlrSmcfTPms1QIfI38tgz2b9ASMduscZKA3cb72cpsWCYH48IKX87pKHkvtky~T6nJ-0QiqyQLiXNNZIQqXxK7WzGbuToA0wyIjnByTVbyvu9zDRwrFzlk8V97NvCVb2BKjaVeb2hyRZiX4Xat8nd2w8ChJqRqok9t~C7wbC-S8zPnxuVFEcecIz9HGnWg4VN4XNcUSdLLdg__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C04042.png",
-		"name": "korea",
-		"title": "ANIMAX",
-		"uris": ["https://animax-mcdn.tving.com/animax/live2000.smil/chunklist_b2128000.m3u8"],
-		"headers": {
-			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmltYXgtbWNkbi50dmluZy5jb20vYW5pbWF4L2xpdmUyMDAwLnNtaWwqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE4NjYxNDU5fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__; CloudFront-Signature=X6H4R2SJrH10L-iuj55WX6LzDQBdQZw-bSVRj47H5W3a4apafYP0DPFlUNVK-bJaBZVlOlzQ1g8T8vfeWrTWYSxMrI84NRoUZ7-aP3sUkK3ICqSUrAH64oX3FSNi9-FL6ZJ4mUf5r3~SZBoLeDUeuh0hhzw3~69Pq-sjL-lYYLqhGOzjEv9V0S9ffOKr7Tfj3djgC0UCja4VP6T8z324uJs0AxgRxojTB-CeDMY7QTbODXZKg-SaU4d8~XqqiFN8Wb72k99z4YDsnIc6MFoYvpb0lTTbTrfKMS25mv1XxsJxnxACcCIj659TFqs3k2-1BP9Vtz-YiA~84qw5RIfU6w__; ",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
-		}
-	},
-	{
-		"group": "한국-종합편성",
-		"logo": "https://image.tving.com/upload/cms/caic/CAIC2300/C06941.png",
-		"name": "korea",
-		"title": "투니버스",
-		"uris": ["https://tooni-mcdn.tving.com/tooni/live2000.smil/chunklist_b2128000.m3u8"],
+		"title": " YTN",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8"],
 		"headers": {
 			"cookie": "",
-			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20240612T014305SQUARE.png",
+		"name": "korea",
+		"title": " tvN 인급동",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200031KO.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png",
+		"name": "korea",
+		"title": " MBC 무한도전",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20240612T014256SQUARE.png",
+		"name": "korea",
+		"title": " KBS 태양의 후예",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20230823T005021SQUARE.png_20230823005022.png",
+		"name": "korea",
+		"title": " MBC 나혼자산다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20240417T022408SQUARE.png",
+		"name": "korea",
+		"title": " tvN 서진이네",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230913T010343SQUARE.png_20230913010344.png",
+		"name": "korea",
+		"title": " SBS TV 동물농장",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20240522T015331SQUARE.png",
+		"name": "korea",
+		"title": " 투니버스 명탐정 코난 (자막)",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20240612T014454SQUARE.png",
+		"name": "korea",
+		"title": " MBC 전지적 참견 시점",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20240319T050806SQUARE.png",
+		"name": "korea",
+		"title": " SBS 천원짜리변호사",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "음악",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20240522T015315SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 비긴어게인 - 오픈마이크",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20240612T014452SQUARE.png",
+		"name": "korea",
+		"title": " MBC 놀면 뭐하니",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300003MW_20240131T031230SQUARE.png_20240131031230.png",
+		"name": "korea",
+		"title": " JTBC 냉장고를 부탁해",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20240404T033805SQUARE.png",
+		"name": "korea",
+		"title": " 서울경제TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR7000044K.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20240612T014302SQUARE.png",
+		"name": "korea",
+		"title": " tvN 미스터 션샤인",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20231114T070142SQUARE.png_20231114070143.png",
+		"name": "korea",
+		"title": " KBS 1박2일 시즌1",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20240319T050713SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 한문철의 블랙박스리뷰",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR40000410_20240522T015320SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 캠핑클럽",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR40000410.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "음악",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4300001RQ_20240612T014258SQUARE.png",
+		"name": "korea",
+		"title": " essential; by Bugs",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR120000391_20240424T021600SQUARE.png",
+		"name": "korea",
+		"title": " Kids time",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR120000391.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20240522T015324SQUARE.png",
+		"name": "korea",
+		"title": " tvN 사랑의 불시착",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20240417T022356SQUARE.png",
+		"name": "korea",
+		"title": " Mnet I-LAND",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20230926T013851SQUARE.png_20230926013852.png",
+		"name": "korea",
+		"title": " tvN 유 퀴즈 온 더 블럭 HOT CLIP",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png",
+		"name": "korea",
+		"title": " Animax 반지의 비밀일기",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200003O2_20240522T015313SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 비정상회담",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD5200003O2.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20240522T015303SQUARE.png",
+		"name": "korea",
+		"title": " Mnet 커플팰리스",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230913T010346SQUARE.png_20230913010347.png",
+		"name": "korea",
+		"title": " SBS 궁금한 이야기 Y",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20240228T041001SQUARE.png_20240228041001.png",
+		"name": "korea",
+		"title": " JTBC 톡파원25시",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20240508T020801SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 청춘시대1",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR400003IP.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230913T010349SQUARE.png_20230913010350.png",
+		"name": "korea",
+		"title": " SBS 나는 솔로",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20240319T050715SQUARE.png",
+		"name": "korea",
+		"title": " TV조선 사랑의 콜센타",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20240403T030121SQUARE.png",
+		"name": "korea",
+		"title": " KBS 고백부부",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20240319T050752SQUARE.png",
+		"name": "korea",
+		"title": " KBS 추노",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR700003L9.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20231206T031613SQUARE.png_20231206031615.png",
+		"name": "korea",
+		"title": " TV조선 우리 이혼했어요",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20230913T010401SQUARE.png_20230913010402.png",
+		"name": "korea",
+		"title": " TV조선 골프왕",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20240612T014246SQUARE.png",
+		"name": "korea",
+		"title": " SBS 피고인",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20240403T030118SQUARE.png",
+		"name": "korea",
+		"title": " SBS 웬만해선 그들을 막을 수 없다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20230913T010330SQUARE.png_20230913010331.png",
+		"name": "korea",
+		"title": " MBC 지붕뚫고 하이킥",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230913T010324SQUARE.png_20230913010325.png",
+		"name": "korea",
+		"title": " MBC 거침없이 하이킥",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png",
+		"name": "korea",
+		"title": " MBC 심야괴담회",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20240508T020814SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 효리네 민박1&2",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD5200001G8.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20230913T010358SQUARE.png_20230913010359.png",
+		"name": "korea",
+		"title": " SBS 정글의 법칙",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20230913T010427SQUARE.png_20230913010428.png",
+		"name": "korea",
+		"title": " 맛있는 녀석들",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20240508T020759SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 내 아이디는 강남미인",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR4000020F.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230913T010434SQUARE.png_20230913010435.png",
+		"name": "korea",
+		"title": " 채널A 이제 만나러 갑니다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20230913T010430SQUARE.png_20230913010431.png",
+		"name": "korea",
+		"title": " 전우치",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20240522T015317SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 세계 다크투어",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20240417T022354SQUARE.png",
+		"name": "korea",
+		"title": " tvN STORY 회장님네 사람들",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20240522T015322SQUARE.png",
+		"name": "korea",
+		"title": " SBS 미추리",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20240228T040946SQUARE.png_20240228040947.png",
+		"name": "korea",
+		"title": " tvN 벌거벗은 세계사 요약.zip",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20240417T022427SQUARE.png",
+		"name": "korea",
+		"title": " tvN 환혼: 빛과 그림자",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20240319T050719SQUARE.png",
+		"name": "korea",
+		"title": " tvN 대탈출 전 시즌",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230809T021325SQUARE.png_20230809021327.png",
+		"name": "korea",
+		"title": " MBN 나는 자연인이다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20230809T021443SQUARE.png_20230809021444.png",
+		"name": "korea",
+		"title": " ch.핑크퐁",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230809T021344SQUARE.png_20230809021345.png",
+		"name": "korea",
+		"title": " SBS 그것이 알고싶다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230809T021500SQUARE.png_20230809021501.png",
+		"name": "korea",
+		"title": " 고독한 미식가",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230809T021301SQUARE.png_20230809021302.png",
+		"name": "korea",
+		"title": " MBC every1 어서와 한국은 처음이지?",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230809T021521SQUARE.png_20230809021522.png",
+		"name": "korea",
+		"title": " 채널A 나만 믿고 따라와 도시어부",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20230809T021433SQUARE.png_20230809021434.png",
+		"name": "korea",
+		"title": " TV CHOSUN 국가가 부른다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png",
+		"name": "korea",
+		"title": " 도라마코리아",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20240228T040955SQUARE.png_20240228040956.png",
+		"name": "korea",
+		"title": " JTBC 뉴스",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500020AF_20240417T022349SQUARE.png",
+		"name": "korea",
+		"title": " BABY SHARK TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20240228T040944SQUARE.png_20240228040945.png",
+		"name": "korea",
+		"title": " SBS 내남자의여자",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20240522T015305SQUARE.png",
+		"name": "korea",
+		"title": " MBC 해를 품은 달",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20240417T022419SQUARE.png",
+		"name": "korea",
+		"title": " 뽀요TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR900001U5.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png",
+		"name": "korea",
+		"title": " MBC 안싸우면 다행이야",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20240508T020754SQUARE.png",
+		"name": "korea",
+		"title": " SBS 야인시대",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20240403T030130SQUARE.png",
+		"name": "korea",
+		"title": " Animax 역시 내 청춘의 러브 코미디는 잘못됐다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "TV 시리즈",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png",
+		"name": "korea",
+		"title": " MBC every1 별순검",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "음악",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20240417T022347SQUARE.png",
+		"name": "korea",
+		"title": " K-ASMR",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20230809T021352SQUARE.png_20230809021353.png",
+		"name": "korea",
+		"title": " SBS 런닝맨",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20230809T021355SQUARE.png_20230809021356.png",
+		"name": "korea",
+		"title": " SBS 미운 우리 새끼",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20231114T070134SQUARE.png_20231114070135.png",
+		"name": "korea",
+		"title": " 코코비TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20240612T014254SQUARE.png",
+		"name": "korea",
+		"title": " MBC 오은영리포트 결혼지옥",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20230809T021441SQUARE.png_20230809021441.png",
+		"name": "korea",
+		"title": " TV CHOSUN 식객 허영만의 백반기행",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20240228T040919SQUARE.png_20240228040919.png",
+		"name": "korea",
+		"title": " SBS 신발 벗고 돌싱포맨",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20230809T021358SQUARE.png_20230809021359.png",
+		"name": "korea",
+		"title": " SBS 백종원의 골목식당",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20230809T021401SQUARE.png_20230809021402.png",
+		"name": "korea",
+		"title": " SBS 불타는 청춘",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "어린이",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png",
+		"name": "korea",
+		"title": " 로보카폴리 TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20230809T021445SQUARE.png_20230809021446.png",
+		"name": "korea",
+		"title": " iHQ 돈쭐내러 왔습니다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230809T021240SQUARE.png_20230809021241.png",
+		"name": "korea",
+		"title": " E채널 토요일은 밥이 좋아",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230809T021254SQUARE.png_20230809021254.png",
+		"name": "korea",
+		"title": " KBS Joy 연애의 참견",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230809T021251SQUARE.png_20230809021252.png",
+		"name": "korea",
+		"title": " KBS Joy 무엇이든 물어보살",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20230809T021331SQUARE.png_20230809021332.png",
+		"name": "korea",
+		"title": " MBN 속풀이쇼 동치미",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230809T021410SQUARE.png_20230809021411.png",
+		"name": "korea",
+		"title": " SBS 순간포착 세상에 이런일이",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20240612T014249SQUARE.png",
+		"name": "korea",
+		"title": " SBS 생활의 달인",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230809T021334SQUARE.png_20230809021335.png",
+		"name": "korea",
+		"title": " MBN 휴먼다큐 사노라면",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "쇼핑",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20240131T032147SQUARE.png_20240131032148.png",
+		"name": "korea",
+		"title": " 현대홈쇼핑",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "라이프스타일",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2200001QD_20240403T030127SQUARE.png",
+		"name": "korea",
+		"title": " 우리의식탁",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "쇼핑",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD4400001QO_20231206T031628SQUARE.png_20231206031629.png",
+		"name": "korea",
+		"title": " 인포벨 홈쇼핑",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "쇼핑",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20240131T032149SQUARE.png_20240131032150.png",
+		"name": "korea",
+		"title": " 현대홈쇼핑+Shop",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "기술/게임/과학",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png",
+		"name": "korea",
+		"title": " OGN 스타리그",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20240612T014244SQUARE.png",
+		"name": "korea",
+		"title": " KBS 슈퍼맨이 돌아왔다",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "영화",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20240131T031212SQUARE.png_20240131031213.png",
+		"name": "korea",
+		"title": " 씨네21+",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "영화",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700007S0_20240319T050801SQUARE.png",
+		"name": "korea",
+		"title": " PLAYY 영화",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "영화",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700008TZ_20240612T014252SQUARE.png",
+		"name": "korea",
+		"title": " PLAYY 전쟁영화 특집",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "영화",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20240319T050757SQUARE.png",
+		"name": "korea",
+		"title": " NEW MOVIES",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "시사/교양",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD370000134_20240319T050809SQUARE.png",
+		"name": "korea",
+		"title": " TED",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20240522T015232SQUARE.png",
+		"name": "korea",
+		"title": " Bloomberg TV+ UHD",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20240319T050634SQUARE.png",
+		"name": "korea",
+		"title": " Bloomberg Originals",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "뉴스",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100006X4_20240319T050813SQUARE.png",
+		"name": "korea",
+		"title": " 글로벌 뉴스 by LeadStory",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "라이프스타일",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD44000025L_20240319T050738SQUARE.png",
+		"name": "korea",
+		"title": " Fireplace 4K",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20240508T020818SQUARE.png",
+		"name": "korea",
+		"title": " World Billiards TV",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800015MH_20240508T020819SQUARE.png",
+		"name": "korea",
+		"title": " tvN SPORTS",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20240508T020803SQUARE.png",
+		"name": "korea",
+		"title": " FIFA+",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png",
+		"name": "korea",
+		"title": " PGA Tour",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "엔터테인먼트",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20240612T014450SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 뭉쳐야 뜬다1",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR400006MW.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20240508T020809SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 뭉쳐야찬다3",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20240508T020821SQUARE.png",
+		"name": "korea",
+		"title": " 초록뱀미디어 K-STAR 골프",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20240508T020805SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 골프",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KRBD5200002XY.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
+		}
+	},
+	{
+		"group": "스포츠",
+		"logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400005KB_20240508T020812SQUARE.png",
+		"name": "korea",
+		"title": " JTBC 최강야구",
+		"uris": ["https://i.mjh.nz/SamsungTVPlus/KR400005KB.m3u8"],
+		"headers": {
+			"cookie": "",
+			"user-agent": ""
 		}
 	}
 ]
