@@ -2,4 +2,4 @@
 
 [PJY TV App Download](https://kenpark76.github.io/PJYTV.apk)
 
-Only for test. Commericial use is not allowed.
+Only for test. Commercial use is not allowed.
