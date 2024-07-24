@@ -279,22 +279,22 @@
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "korea",
+		"title": "KBS Story",
+		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1721973617&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMTk3MzYxN319fV19&Signature=cw9zQyGJ77M0RvxbQuOdBg5nhfHGnIP7ysO-69eCNMVTBOr1SHtRiMLmQTVpMysNrkBON6dqEiatqlqqasNCcRlRcEyu7U304ZQgE-haOS-B1W~ApIQKTqlt0se68EiAEl~aZHfz7YVZ3JlX-7oyJrZhoQCkyKiPTENxFqeT1Z2ecFieAvmpaucCxeI-G~JD25mORNgPzl7V9YOpeaep6IcceM0nI9AaotRSC1HCIsaW8q0oLb4O7pW4p3l-uXgjpRx-2TEOyGEBVEA7xNAfWCDAAeYke5avIyYmwyObZxpsJOVfmPiOnR8PSlAIshZE4bakYa5RT8w1ovV5KR1ReA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "korea",
 		"title": "SBS",
-		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE4MDQ1MzEsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImI2ZWFmNDZjLTA3OTEtNDRhNy04OTE2LTdmNTE4MmUyZGIxYSIsImlhdCI6MTcyMTc5NzMzMX0.cMFRmsoSGtcMpJAkOqva9mVlUL6cKKwkMoCEqr5B6zk&solsessionid=6ce518844c367217367cfae1e3b917c1"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "korea",
 		"title": "SBS Fune",
-		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE4MDQ1NDMsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImFmYWU0YzdkLWU5OGItNDgxZi1hYzFjLTVkYTdjM2RhYzRkYiIsImlhdCI6MTcyMTc5NzM0M30.bMfn3m1AHUEP5y-I0FZ4Xer13TxE_iJURDyyJ1fW3og&solsessionid=95a40fee6e78ef2ab5b5b78a12e3fb9e"]
-	},
-	{
-		"group": "한국-지상파",
-		"logo": "",
-		"name": "korea",
-		"title": "SBS Golf",
-		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE4MDQ1NDQsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI5Nzk3M2ViYS0yYjA4LTRhMzYtOGUxMS1jODZhOGFjNTY1NTQiLCJpYXQiOjE3MjE3OTczNDR9.uTFpUZigIV29ejI_Bb2FeQphQ0hZAHLiEPZ40YzdjzE&solsessionid=5b70a54e1fa6ed9b55f9cd8a36173fb3"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjE4MDgxNDEsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImIwNjZkYTIxLWU4ZDctNDBlZi05ZjBjLTZhMDgyZmIzN2I5NSIsImlhdCI6MTcyMTgwMDk0MX0.Xn2D_eELluZGzZe2k01_Nm-cme4aTbxUQDM25rwAP6I&solsessionid=213eafbe61c6f8a027e7ae1c67237344"]
 	},
 	{
 		"group": "한국-지상파",
@@ -307,15 +307,8 @@
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "korea",
-		"title": "MBC드라마",
-		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6E512F16134333043B42750D3E416A4E858B3885610D727D304013a986C0375641a453EF3812284E803E3EA119b3A145E4BABC137DF0CD7CF371F1F217F2010A3E97A5006713C98491A2CA2284FD984E9FF7FCB8114E293A33B1674B76498CD93824269A48625B2F5D89E8C580E4F1B6E2B31B29563363918A63BF7E0FEE805D&v=3"]
-	},
-	{
-		"group": "한국-지상파",
-		"logo": "",
-		"name": "korea",
-		"title": "MBC On",
-		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6F515D13933635345C4DA5883971014195A030A5030EF2823A6079a9263531A6E1a353133EE2ED4ED0DA3761EBb6013C6867F115FD1C8D19CDD203F74577C8F6B9D35EBAA32A6F41A004A2D3A439B77E70E3DD5C44B4EDDB4FA827FAED93A58E7496274B28B24318631CB0C65B9D697C9594446CD2CDAAFFA7EABDB8582B66D0&v=3"]
+		"title": "MBC Every1",
+		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6221471913773C348240F5A73DD1A644754F3E45EF0BE26F3CD01DaB8651368647a5A34331D2744480AB307153bF812CBE05E209C3D0926C9CD33D5578BC0AACE0F9F6548C3AB59645F1217706757524C5B3264F507676B0A3CF053450F61060F9FA9282677004F2491F62F37006EFD9F1BD57AB1B224EF1E548B50AB4A28B07&v=3"]
 	},
 
 	{
@@ -1145,39 +1138,18 @@
 		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"]
 	},
 	{
-		"group": "한국-영화",
+		"group": "한국-기타",
 		"logo": "",
 		"name": "korea",
-		"title": "한국영화3",
-		"uris": ["https://stream.ads.ottera.tv/playlist.m3u8?network_id=742"]
+		"title": "농협TV",
+		"uris": ["http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8"]
 	},
 	{
 		"group": "한국-기타",
 		"logo": "",
 		"name": "korea",
-		"title": "아리랑",
-		"uris": ["https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8"]
-	},
-	{
-		"group": "한국-기타",
-		"logo": "",
-		"name": "korea",
-		"title": "서울TV",
-		"uris": ["https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"]
-	},
-	{
-		"group": "한국-기타",
-		"logo": "",
-		"name": "korea",
-		"title": "ABN",
-		"uris": ["https://vod2.abn.co.kr/IPHONE/abn.m3u8"]
-	},
-	{
-		"group": "한국-기타",
-		"logo": "",
-		"name": "korea",
-		"title": "국민방송",
-		"uris": ["https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8"]
+		"title": "국회방송",
+		"uris": ["https://m.webcast.go.kr/live/smil:natv_720p.smil/playlist.m3u8"]
 	},
 	{
 		"group": "한국-기타",
@@ -1185,6 +1157,20 @@
 		"name": "korea",
 		"title": "K-POP",
 		"uris": ["https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "korea",
+		"title": "방송대학",
+		"uris": ["https://live.knou.ac.kr/knou1/live1/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "korea",
+		"title": "EBS1",
+		"uris": ["https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8"]
 	},
 	{
 		"group": "한국-기타",
