@@ -278,135 +278,149 @@
 	{
 		"group": "한국-지상파",
 		"logo": "",
+		"name": "KBS1",
+		"title": "KBS1",
+		"uris": ["https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1726401513&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjY0MDE1MTN9fX1dfQ__&Signature=EtovS~2gda7d~lxhZDlKfBtkyv7pskgCbSMO5QRuOIQK0QP8-TMvXZ~E0EDn~I7mER6xN2~umhixidozEk-XGNchxHJkDkR4es0XUHtMvkqSFgoAZXrmOT5MONn23JTPCLO6E4mX2B1dUONtNcJiS~4QH3T8ULddiP-BoaY5DYMBAQHpYfEM-hy62g12Lu6szgdypBftrSEprH499NqK9dAHkauk3Ez326aKh2qcm-pxNe9TEpJCWJZQoWUhbN3XNv9o8BFsuqoXS1-Vb6ELQtcIAhFl99uOl5wKgczMapAEYPrNHMFtvNjVX0oBTDORdw~eXHYtdDsK~oHXvewU5g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
 		"name": "KBS2",
 		"title": "KBS2",
-		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1726397953&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjYzOTc5NTN9fX1dfQ__&Signature=inX0uiGWbVWk4ZuChDCOQQeKd01rhkF~mIr2fx4sAS70saTaVGYFU2QZcpytpvvYDDvLrDr39UEJ-as2lnsRqxF38bkoC7ln3S2pI4I9Ik2DvSBa3nQ4AeficSJhMGWTWmijzqZhNl-79Kkr2JZhLaXbDt8Cl0Q8YEHpSKKr7lFG-qeOSpYC6uEhq8wRyegxAeyHAq1caGQzriQU9yPUZihVhjG4dlzYfb7-M~NjFCgOhVYqRMyUDIWwPzC0n9knKvoDv0j~6D6~OVCJUzm-AXU6QWmkKPoWZ3eDw-teyvtaCCQ0FoIwP6sBkJR8dq9hz6qTsrh072mAmCwPCDSe~A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1726401579&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjY0MDE1Nzl9fX1dfQ__&Signature=Ls6jE5WFfWAqEmqwNbGtn-Dui8h-b8V6COKw4nN9l7vfe-ST09~9HlaVl~0Y94NrdykyLW8SSvA6pLgQFW-O7R-sFeb7RBkjFGvbSnYZG96yi~6k0LC0o1~kN~8469c1LvWlSc5Xp7dYip8bP6XV2~MVYrfCYzvnM6PqMoEiUl6n01m-9bx7fmQiEiP~l6aCrsjVfRLLcUp-0OUhshpMB2EChejpgmQPNmjPY3HUXj48Ql5BlzbyFlP9gCH5DWTo7cz6QuiJL~yZhHblL0dGpVfyqYViSGii2a4jbq1qS2l6hY9EUtGR-uZZgGuryE1ectHKXAJO1kwjggcsP1ZaLQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS Drama",
 		"title": "KBS Drama",
-		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1726397944&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk0NH19fV19&Signature=SEvKb9UH9J0f3qIm90FNHqCfzxAjrD4lnpiCc2ypH~lqS8cwlkHKqcdcWWcikeZ7vf-Y7SOKskWHOJxF8HQqE5gB0TQ8qub~V95ZU2kFMwwnOTYceFA1El1qOma4Y7OB1itHKs08bu6qkHIgEojZag4FrgUuEGpKRJepRWjT9MzOaSdKkHxIN~isUknvLYUMzvMtzZO~5TFInrua7p-6cq7yAKU52DcORhHeEzK75YguDQmoQTmiGwWqVOI-2yQ8WOCKOjnJSAhL~Jj9W2C2mDlozrKZtUFj~qKzX16DZNLRckhKBs22N3pt5Pr83ADiZgrb9tt4lFRgXDWzo~EdUw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1726401550&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU1MH19fV19&Signature=TXwICKYwLdjw-Q7O3ARQ3hcVfL-TzzSfIT0h46dRiJUZrpXu9L6FgcB5WjfBptQB1DvOGND3adESpolxewP0blPMVr8ThYIbFtZOA44wI0zCz1js754mv-znsz~5vF84vHk2XNwcNu35PSXqgbCK5PHI-IHl5qyKawGyxuqom3kHZp4klO5pZNXBzhbOk6o7HLGN460RCRUPDSpSLe2VBOpwa~Aa23beZ32VVMs9R9BD1qNyke0RcPCfpDvEdmzBy8gVy7LeiRLuzijuP9CG8ufzOiM6ErYMXQj3ZWjGfRrgkBVg8U~oEB6uJwHWp3~XQHJWABzeWFGcOzuNvXNrFA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS Joy",
 		"title": "KBS Joy",
-		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1726397960&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk2MH19fV19&Signature=eJbCtc~i8zOg2dA7ShvU8Zt8vnJTvUvS0qpjMWpJ8u9XAdL0aCJ-8vuKbm~hUovu4LjV8Oj0ZH6nqfD1sq0d8ssYaclAxEN8Ta-Q0-UfT8BaMib3JUjce6eaFZ9MNvFQ0A3WwuiSmKN5FIyOGuBI7ZD1a1ilyZLiMqMj7L23hTLExkvr0uujTWlskIFhkhDvArlt6DIzsjtJ20gTw8Gxgt00b-KiunEHBvKePm8ORlPDdM7ZsMIgiZwcqEuj~tOdzjxYfBPx1-OZXNwQ8V1898lxk-146TxSVmIYY9YE5FsNmJkOKDGYf2-SenCMqIDbIOgPkgGih32qU4l4QkmXNA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1726401569&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU2OX19fV19&Signature=nzsYKdxkvgp5eK4Pj-paDI92vxgTbL0sPqDKgLMU9Bon9jLySjAjsCMcu6DGwvVMY~vkTODaLzr~rNOuyMozjuzi6RAJzWqSBwZ4unBUdmkianQHfr~gS8HOFoDsjzhA0q1s4PO~M-In6xaxP9oJ~JeNuB-TrVV5BYrO9vG~gyJ8FiU0Acs~tlXmqv0rhSUkZ~5khpBPctyZlle255XOGZcpUZiBQ3pcM5OYbRNXs921LSXOuHBXuVtJX-MPYP~NLsOznAwPcg3U6BrsC-uWeXvir1HozQ043vMuDkw0Y9fcke8Y3CXxCcUWUq8Ty72W9S3FFbX70PElIXePoNcbVQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS Kids",
 		"title": "KBS Kids",
-		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1726397963&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk2M319fV19&Signature=E1P-a-1a55BZYxgYynyohhXWeVg30CBDm7Ls6NKiV1kUA0HwuQuPI4ruW6bVN0fHKU9PBCFVjYNAKGyl8~mIgCKNUf7rRfWF5gFvQAWlh2x4tkNoSEiBB2YNfTW7n9KHHUnkTMDpSqo43K9wMOr0phiac45YOmurTlPDD~amM0nQCiuj0wLFrlpVbqv41lM0OVcB4k7Sde3ZfHOaAE-81ta4CfEjEzLIExiX2y2zJt8kmJ2cg2EQCr-tdD0DoKln0C~QTXUPgbnZ~LwLT-P~WAvULNXbOiQ-P02UxigHpOkdaACgi38yuOG1kCdq6xu6Vc2o2FNdTQjtKf0c-964lQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1726401570&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU3MH19fV19&Signature=d-VPZQZ5ySeH95T2JOWtHteZT6IzGcRriIfPbC7KffeSYx~oXv3CxACjtXTF7ykpYkL6CFM-uFqsUp-659Ginxb7MM6nSLdx5073r-XO0zMcVvCvrHLEO3oCzKeQ0aZoIlJRiFmv6lLmQ9VGMzKf0ymOWxokrgYbdDHFOu8GfPy-XMcXf-hK1fkY7inKwKUYbP9ZiebKtsZcHTdY~HD0z-U9oyXhmI8FYAAIKn8eAIuEHT03Xve3QbBLnUiUFAB3Riwdvrf2Q5KJgceFp63zAzltzBt9hgCzNce~INaf98Fs6J7YiL9oqjlhXu6Yw7X~XCyXSWpyG8Sq14gp6QBQAQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS LIFE",
 		"title": "KBS LIFE",
-		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1726397959&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk1OX19fV19&Signature=LgPmo1L83CJTUFVR~ww-Z1tL7difPoso0BIZV7HyLGzvd0A4LCUsz-xXrA4CYomOsTiu9Kl13cwgUQkGDdEX7CmZ6KFXn-DWKxbHxnT9iSjCiq2M-Uv9nKI8LxW0LeNjUAoCDo1FVXrMRLNTe7d6k8TJl6gwJNlffEnpgOmLKSZmLbhNJWB9QfjB-RDq2UoudeWAFq9NbyYKOVQFdFicr4yEmdoaVHa3UVyvCGjYJevckzkCe206vLJL41HrMT-8oDH2YTXeM5qE92Rt7FOLd1qT~7MQBRJ1BjtTKpFQ63U3EK-VGnkHZKy8xMXKcs8qs2kb6zRHGI9joyAbEzP7Gg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1726401565&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU2NX19fV19&Signature=A3PIiNDE4QDrfqWpTJyk0rP56tsoUos3VzitklHtLXQ2boaVl5iTQxz9DgE0zN49CNiBBl0Hw6MBRQ12FrL9zzYMGj0PR9FiK4fEcCWLfH8yVmCyrJN1qnrCaJ287iPHJRvKOFql9qgC9ohZidEIr0Eg1TIjbfNui2HWP4vc9o0r8BAgVig-HBtAqfKMzGUe5pV~9N~fLwFref5pn66wtzWuwIV48vV12YLQl~4z1soyh7b4NEqCPhsZY6F9DJgqKnoqXQgpaKKEMaQ7oR3h~gQK3wp2Amrf~yZkYxcgIlzJxQfglhGXDItDzFZuYg1GMOTnKM7FAPNbzzXE82z0CA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS Story",
 		"title": "KBS Story",
-		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1726397959&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk1OX19fV19&Signature=hebRlkGU~mTWByVu79jtfsC38b8bawRNmkELBQcYZvHs4FWFPqDaSzTL8lzFhslDw8e0cLb50YURqtSgTW0o3EqHOd4DbXGvFRiENwrr4ndX7EbVuCqYWv2HkcAKsypiP5drECICjWEBB4uOrofIJjs8SgiG8zeov3HYXBGtpUrXCgDBrN8O7M9C3ruLsBeJWHKVpMFjvLjUSnZja8vJp1bFvEnIv8gV1Ja0WxOXWFSgd1NyjpT9uY9vhhr2Y4Y8gPtrkcJhWQO1Ury5jNHs7-wutct9mK7O6r8qHxXiMFEpiTBM1uiit3vg4Z9RvjrOYKjrtdaSuB4tQaGEGWe6KQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Expires=1726401568&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEva2JzbnctMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU2OH19fV19&Signature=NqzPCI~9ar~zWWR1DjsMOZ34Rd0xzYHkSpyb6D2u-hLx3CiI5~XVRs6LOe4E62-Ey61bUlM3-uDQ9dV62Eudh6KEnfKVs5fU1ywu-HK7b9vAckmxiXQbI2mdveeBL2Ln2dXfJkiS4ONBrggU5aYl4bfTEfL1V9JtypkxpUXkTZOvx9mO7~ndDPXuAYO56xR3vCMaj1XADJrxfI8NhvaeHxvmwVK3rIi~oEDhnpfuVEwVf8AvmRzk~W1M-HFomu3NrwZvPJisMOqaoicXR4QVI~0fWntylZ8F0TteilYCAI5D8QBK3Eutqwj97SbtBH8QCbzY2Zp0DKSmuPHlQH1W7g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS WORLD",
 		"title": "KBS WORLD",
-		"uris": ["https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Expires=1726397954&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvd29ybGQtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk1NH19fV19&Signature=NnpMs8RKoOWN4OP-YkDvagOG3gx47NVHazEvE7kmIYWmEBeyHGhKSFo1IpHinxpCdyj2ll5NFC8-WjEFs4FIHe5nG6lKOn6xhbKHITl1Sja~RLq1BgGRyuZtUJt3rSD0zChlnHAKBIlcTbUmcfoK6V0oXFA74DguzDU7wv9Km1JXzprVYSo3AV-DObbYZNfYqWNky55877aMrTDjqk5OyqvYbh~DJqpEHEpkoQI715NAYRtXuhrCuzL9w-T7W~9CnCQ-Ejw7zTaJWF9hsiOVXR3Fsx5GRv-8X9mrHMHcTFXqVzS~iSjDiGLCdMxBdV75788X9OZkdBGSNqzWPN9~zg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Expires=1726401568&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvd29ybGQtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU2OH19fV19&Signature=QybD4ycbHXsHMXKkvVhsjVsVC3Uz7vDr30Xo-hReBpMQBzptlRs2ueVFZHAuwE6EH7Qf~TJj974JgFRWQG9Jc1YYaJ9SbqtTxmEzIHhspCdzAgerzNaRw3ajH~yBmITmQIE-I9PqBDmuqKTC60pZ2xciDUZUzR-mVYBAes7byyR73jqDI0hKu39h1Pfcyi-hz0x0nJJ6rFtcLzQt9aL-EYrgg38orSOghsRlkN0fngXZuDh~gV6ewQQNatE4ZPPoLXIWTgIYysENRDhs~PRjECcbmDYMq1jJYnptbUBmKg~rcD4Ne1gfVOiZCaagkTfjxuFAvi0N6R~4POhZG73aSA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "KBS뉴스",
 		"title": "KBS뉴스",
-		"uris": ["https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1726397992&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjM5Nzk5Mn19fV19&Signature=DNmq~pAqZ5kestmS2zwDKfS2lDfeK118LV5q1It4XlSofUknrsRyKnMlg~6DVvFF177ZZ7vjUL1T4Fj5Cjcj1HtFW81xsoDuCqv~w80uetNXf8uKYwYrNeE2TiiLYRHVFBHrxfJCmXwdS-xhu~xZhwWGnYOLaMvsUGksoOVMTUp-fPxowvCDU~83IwcEbjzQyYjrWiGMqj1NeA3P5shzdjmMhLgkOVitH~lL7V~98ntnPEqQkc0lNeeQPHzf~DJenZIuphuz0gDV7fajPnv0J4jaFSkTIyyGLDxCV5O85mFIEmRkQkBD533MhW96fyf11L7KvF4FU26bF2uAxUTztg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://news24.gscdn.kbs.co.kr/news24-01/news24-01_hd.m3u8?Expires=1726401543&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMS9uZXdzMjQtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNjQwMTU0M319fV19&Signature=Y4lgjjZDjly0fQ~9uizk3m4LmgDCsVOOVa4DVA4OgjtEGe1nBKcj4wUWfkRncgAK8SnMpeY39uNfzpS~ALCImyt~cv3ZxE9wxdqMqL7JH6jc039JOhFmCYvuddvMl6yPhwkOL2BpH0D5TcQS~PcrZcUdRcarkciDYp-8gi-KARLrawUjfnNuVrzMjz~sNJHTvwCPDIvZoXCk0imQG794NXMQWOEL0gx2STjO8vzjfRxVOjdxUsDuM0a3NZWUEsyibs~ruGC8LYBoU8XagsrrUIicrY9rioM1nmR7UO2rP28EdsWmo~6G1rhCajZegcRITskrj03eFYVupryy~YkGfA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBS",
 		"title": "SBS",
-		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzI0OTEsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjRlM2EyNGFlLTljYzktNDliMC1hYTgzLWIyYjlkZmE1MDU4ZiIsImlhdCI6MTcyNjIyNTI5MX0.hwa6MpiOxsVIAMxMOunJzs7QPbLm9_Xrz7q3ZwuRCYo&solsessionid=6a0e67ead72b5f549d79017cb4c088a7"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYwOTQsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjQzODM4MTU0LTkzNTEtNGM2Mi04MzdjLTkwMWZkY2MzNmU4YyIsImlhdCI6MTcyNjIyODg5NH0.Ag5SBEHUbi9B-LdqF-33I9V0Zq_xVRm0efE1O-BRPG0&solsessionid=ca8431513802bd4f921ac40fea4d0a73"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBS Plus",
 		"title": "SBS Plus",
-		"uris": ["https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/"]
+		"uris": ["https://tvlive.sbs.co.kr/sbspluspc/sbsplus2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYwOTUsInBhdGgiOiIvc2JzcGx1czIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIwYjdjYmQ4OS1jZTdkLTRlODAtOGI2OS0yNGIxOGFlMDhhNzYiLCJpYXQiOjE3MjYyMjg4OTV9.KI_0c6lkI5LOSB_ceqoy9La0Qs9MvNC-Ng8MTgf9Bng&solsessionid=13c8e4b71aa26b71977a422b9c02ea45"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBS funE",
 		"title": "SBS funE",
-		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzI0OTQsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJmOGQxMjBiLTQxYjYtNGVmMi04YTkxLWY4ZDUwY2NlNTFmMyIsImlhdCI6MTcyNjIyNTI5NH0.cOJVaANzwWWnsBQzdGRVG9nd3GLQHeEZVoB_2AbOl_A&solsessionid=4e8bcf9529cdd5e4a64609af6c45ffb4"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYwOTcsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImJkNTg3MGY3LTExODAtNDM5NS04NjgwLTdhNjAyNTI3NTM3ZCIsImlhdCI6MTcyNjIyODg5N30.BNSawHsonNECaI9ZT_x65It_2uS-u6zyZpVtoS2uSRA&solsessionid=f2adc0765b852a73b2ba6b383c5588f5"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBS M",
 		"title": "SBS M",
-		"uris": ["https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzI0OTYsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijk3NjZlNDMwLTkyOGUtNDE1Yi04M2E1LTBlYTU0ZGRjOTY4NyIsImlhdCI6MTcyNjIyNTI5Nn0.Hj9Tu056LuYwrhiEzlYfCT5jd456L5yMBnabr6J9enQ&solsessionid=586c8de34b1e4d8b0d539b21289f6b69"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYxMDEsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6Ijg2ZDNkNWQ0LTI0MjktNGYyMS04M2M4LTFjZTUwYzlmYTUyMSIsImlhdCI6MTcyNjIyODkwMX0.MNxIARtowa7CqtvaFRZdgyC34mu-ofqCsFfbUAcEjbM&solsessionid=5093326997e7681f56bf5d4351b27249"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBSGOLF",
 		"title": "SBSGOLF",
-		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzI0OTUsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI0ZDBmMmMxMi03NzhhLTQ0ODgtOGM4Zi1iOTg5MDU0ZGQzYzAiLCJpYXQiOjE3MjYyMjUyOTV9.GeLVFSs8oCPbW3D9Kdzh9ditKslk1Rj2kMRdNJIneak&solsessionid=44c1d453789a80114cc45daf1d879886"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYwOTksInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIxYmYwZjYzNS04YzU0LTRjMDEtYWYwYi1hNGIxYjRhMjNhZDkiLCJpYXQiOjE3MjYyMjg4OTl9.HYHfZij4puXSzdE3PdlCxid4jrJQkAys79VL5Zpv9Qc&solsessionid=b27b314b10f0483b415ec61e48d86c5f"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "SBS Biz",
 		"title": "SBS Biz",
-		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzI0OTMsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI2MTllMTRlNy00ZDEwLTQyMjUtOWIyNy1jNjgyODg2NTFlODYiLCJpYXQiOjE3MjYyMjUyOTN9.30jTtQCylai5v9c53uWgSoyWU0Zh_JEe7rLRY0DTquM&solsessionid=cea60efc0ed2a87a88d2e758fb8aba07"]
+		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMzYwOTYsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1MWVmZmM4OC0wM2NlLTQ0OTYtYWE2OS04ZjYxMWI2OTM5MmQiLCJpYXQiOjE3MjYyMjg4OTZ9.Q5coKye-jCANHQ8KC61Ph7mSohZfa6yyQrAgMcmJV7E&solsessionid=c7c22fa8fd85b133c2ed8d8106e9df03"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "MBC",
 		"title": "MBC",
-		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6251E01273B33A247A4235A63B51114865DF32D57F0AB2D937C0F5aCC669322654a4E3D939F2CE48003939A1A4bFE1D8E5D4528698DBEE13EA0F6B5870C43A4822313A7770F1DD8E9107019F15A25A87DC730FD5CF281135DBB8F63890FC36D4236ADBC532C5F7D44562098EC3F0ADD91D3669A650FC79E98F886CAA1D04839B&v=3"]
+		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=69313919034131A4BE45254B3461C34D758C3A15D40DB29B3E800CaCB688341644a333693A02BF4FF0783101A2bFD1A83D8CD77AF621563FCED140ECE4D67C3AA6B4F18F21593FE9E6A3B2047559E2EB93F6337E5315C5BFDB3F4D9C800BD12B38E3F92AAA405643C2804176699E24519481B5F8915BD44314634AD52B05075A&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "MBC Dramanet",
 		"title": "MBC Dramanet",
-		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6721611AF35C3204D64E35123461E141658C3AF59A00128832C070aD462B300684aED3603DE2624DE0923D315CbE91D6D4C1318E97602711FE0736DEC648B628F554567CAB22D7D4504571E4D71D4FD32A1F4948FBDFA2EF32463F8FA4BAB16C6C94441FFA876E0421989CEEF79FE948C2C7B251FD777020B6D1E152288A51C4&v=3"]
+		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6211821C73053004BC4685C137413F4545573445C207527A3D4045a966233F66C3aFB3E731821A47103436B155bE11BBE40AFEE0C2F76DE781CFB1F0B2502E7876B3B372906679B4593E07FECF8BEA20DCBBE6BD04634154ECA7FA39E616DBE00B57DF54C4E563093C561E37C17B16376A7D9604038CF75054D8E4AAA265D58D&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "MBC Every1",
 		"title": "MBC Every1",
-		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=61B19E1173893D04774D250E34A13F47C5033FA5DD00C2C6323035a96657347685a093EC3CA28744009030F1B9b121D91AA504C7B6389DCDF255024E8B61CE4D4DC88B9490755B308EC990959C7039F2CE5862E7C1976ADB13CD5EA771F7D5727B9081DE09249BAC4BD997D969536D86596563CEAE6AA5A80544738D3584F66E&v=3"]
+		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=68A19A14B3CD3F347F4B15FA3F311940D54234054808D2BC3730F3aEC6EB3C1676a6D35F32C20A48400735A144bD4157DAA5B3991641C558C552FF75CC69317D61180B6CA2EC0DADFA85311BB47A67FCF7EFF625620AE530D0854370467C3E0A364A5A3E1F9290FA2B7CD7783FE2DF1515FF119E2F6EAA6533E8C51B98C22FE2&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "MBC M",
 		"title": "MBC M",
-		"uris": ["https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6081CD1853483464D543256E33018044757E3E552501F22B3E90B1a9866036D626aE53E637421D4360323B61CFb7B15CEFD99833702141E76490015EE25006BA4419D924B000954445D570896BF5A5EC9F1FCE027AE053EC4832657149008755779FC284A2D5FC81A1B1885E7AB39220&v=3"]
+		"uris": ["https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6F91FF1A234E3B344548D58734210F4475C53195340E625D3AF0DFa636F9337603aA93AF3BA299424046333187bF416B5703BF3734887E59D44C2B5BB9F9DE9B251F6F0EF11D4EA7DCEFBFD8D25E2E622BE88D36A8796A2706A05030348D9911C7E07723C913CFF936174DA768ABC773&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "",
 		"name": "MBC ON",
 		"title": "MBC ON",
-		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6F213810F34639340147953E3FD14C4145813AE5650162733B7005a1561935D60CaB13FB3282D64B606F3591CFbA912C21F49A062B615573EE4AE17F69013AF31E3B41D8BBE1A173F7F1934376DD9E970EF679981DB7F2D7238FEF9B0A42F2589399F64AAF2B7B93ED6B627EF8A028729A9AB37A9C51CB259E82B71B76E928CE&v=3"]
+		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=65F16B1DF3263534564B85AA33417A4045633E459E0B627F376071aC86BC31D65BaA33503132FA4930B938C1B7bB31258754B8323B669753052CAD5C52A4795546A08CA936063AB506F46673D358D29ABEF9F44D3B5CEDCFACE95752E7F24ED29D397247EB8537F2D171855639E4D827A63C021FFC9D2B1C0153DCF2752688F3&v=3"]
+	},
+	{
+		"group": "한국-지상파",
+		"logo": "",
+		"name": "MBC NET",
+		"title": "MBC NET",
+		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/playlist.m3u8?_lsu_sa_=6C11FC17B37331C4A14925653681D64BD5D53365BC0C424E37D058aE6681324607aE23753F72F149D09F39D184b18105B53BF5064408E830933F295D484EF8CFEEE16C907AA8130463A1A3F91BC61C7A490E303F6DB5DE9BA734289082A5759F4C67CF9B9FE1A9B6ED1EAFED9F9140483B38BA77883E94427D3CA98EEACF1ACE&v=3"]
 	},
 	{
 		"group": "한국-영화",
@@ -439,6 +453,13 @@
 	{
 		"group": "한국-기타",
 		"logo": "",
+		"name": "TBS TV",
+		"title": "TBS TV",
+		"uris": ["https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
 		"name": "ABN",
 		"title": "ABN",
 		"uris": ["https://vod2.abn.co.kr/IPHONE/abn.m3u8"]
@@ -449,6 +470,20 @@
 		"name": "복지TV",
 		"title": "복지TV",
 		"uris": ["https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "국민방송",
+		"title": "국민방송",
+		"uris": ["https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8"]
+	},
+	{
+		"group": "한국-기타",
+		"logo": "",
+		"name": "K-POP",
+		"title": "K-POP",
+		"uris": ["https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8"]
 	},
 	{
 		"group": "한국-기타",
