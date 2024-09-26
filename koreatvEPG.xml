@@ -80,6 +80,9 @@
   <channel id="C22041.tving">
     <display-name>JTBC4</display-name>
   </channel>
+  <channel id="5.kt">
+    <display-name>SBS</display-name>
+  </channel>
   <channel id="7.kt">
     <display-name>KBS2</display-name>
   </channel>
@@ -1854,7 +1857,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20240926233000 +0900" stop="20240927000000 +0900" channel="C15347.tving">
+  <programme start="20240926233000 +0900" stop="20240927000100 +0900" channel="C15347.tving">
     <title lang="ko">YTN 사이언스 포럼 (366회)</title>
     <episode-num system="onscreen">366</episode-num>
     <rating system="KMRB">
@@ -2355,7 +2358,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20240926230000 +0900" stop="20240927000000 +0900" channel="C01101.tving">
+  <programme start="20240926230000 +0900" stop="20240927000200 +0900" channel="C01101.tving">
     <title lang="ko">극한 직업 (690회)</title>
     <episode-num system="onscreen">690</episode-num>
     <rating system="KMRB">
@@ -3068,7 +3071,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20240926235000 +0900" stop="20240927015000 +0900" channel="C51258.tving">
+  <programme start="20240926235000 +0900" stop="20240927013000 +0900" channel="C51258.tving">
     <title lang="ko">엄마친구아들 (12회)</title>
     <episode-num system="onscreen">12</episode-num>
     <rating system="KMRB">
@@ -3155,6 +3158,201 @@
   <programme start="20240926235400 +0900" stop="20240927014300 +0900" channel="C22041.tving">
     <title lang="ko">[범죄의 현장으로] 세계 다크투어 (32회)</title>
     <episode-num system="onscreen">32</episode-num>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926000000 +0900" stop="20240926003000 +0900" channel="5.kt">
+    <title lang="ko">나이트라인</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926003000 +0900" stop="20240926010000 +0900" channel="5.kt">
+    <title lang="ko">세상에서 가장 아름다운 여행 스페셜</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926010000 +0900" stop="20240926020000 +0900" channel="5.kt">
+    <title lang="ko">열린TV 시청자 세상</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926020000 +0900" stop="20240926050000 +0900" channel="5.kt">
+    <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926050000 +0900" stop="20240926060000 +0900" channel="5.kt">
+    <title lang="ko">생방송 투데이</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926060000 +0900" stop="20240926062500 +0900" channel="5.kt">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">1부</sub-title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926062500 +0900" stop="20240926074000 +0900" channel="5.kt">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">2부</sub-title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926074000 +0900" stop="20240926084000 +0900" channel="5.kt">
+    <title lang="ko">모닝와이드</title>
+    <sub-title lang="ko">3부</sub-title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926084000 +0900" stop="20240926085000 +0900" channel="5.kt">
+    <title lang="ko">맨 인 블랙박스 스페셜</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926085000 +0900" stop="20240926095500 +0900" channel="5.kt">
+    <title lang="ko">좋은아침</title>
+    <category lang="ko">연예/오락</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926095500 +0900" stop="20240926103000 +0900" channel="5.kt">
+    <title lang="ko">SBS 10 뉴스</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926103000 +0900" stop="20240926113000 +0900" channel="5.kt">
+    <title lang="ko">열린TV 시청자 세상</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926113000 +0900" stop="20240926120000 +0900" channel="5.kt">
+    <title lang="ko">애니갤러리</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926120000 +0900" stop="20240926125000 +0900" channel="5.kt">
+    <title lang="ko">SBS 12 뉴스</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926125000 +0900" stop="20240926140000 +0900" channel="5.kt">
+    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926140000 +0900" stop="20240926160000 +0900" channel="5.kt">
+    <title lang="ko">뉴스브리핑</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926160000 +0900" stop="20240926170000 +0900" channel="5.kt">
+    <title lang="ko">좋은아침 스페셜</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926170000 +0900" stop="20240926175000 +0900" channel="5.kt">
+    <title lang="ko">SBS 오뉴스</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926175000 +0900" stop="20240926180500 +0900" channel="5.kt">
+    <title lang="ko">위시캣</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926180500 +0900" stop="20240926182000 +0900" channel="5.kt">
+    <title lang="ko">위시캣</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926182000 +0900" stop="20240926185000 +0900" channel="5.kt">
+    <title lang="ko">접속! 무비월드 스페셜</title>
+    <category lang="ko">연예/오락</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926185000 +0900" stop="20240926195000 +0900" channel="5.kt">
+    <title lang="ko">생방송 투데이</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926195000 +0900" stop="20240926210000 +0900" channel="5.kt">
+    <title lang="ko">SBS 8 뉴스</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926210000 +0900" stop="20240926222000 +0900" channel="5.kt">
+    <title lang="ko">과몰입 인생사 2</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926222000 +0900" stop="20240926235000 +0900" channel="5.kt">
+    <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20240926235000 +0900" stop="20240927000000 +0900" channel="5.kt">
+    <title lang="ko">나이트라인</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
