@@ -179,6 +179,9 @@
   <channel id="179.lg">
     <display-name>방송대학TV</display-name>
   </channel>
+  <channel id="케이블 KBS WORLD.daum">
+    <display-name>KBS WORLD</display-name>
+  </channel>
   <programme start="20241211171500 +0900" stop="20241211190000 +0900" channel="C00551.tving">
     <title lang="ko">핸썸가이즈 (2회)</title>
     <episode-num system="onscreen">2</episode-num>
@@ -6322,21 +6325,21 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211000000 +0900" stop="20241211005000 +0900" channel="5.kt">
+  <programme start="20241211000000 +0900" stop="20241211010000 +0900" channel="5.kt">
     <title lang="ko">중계방송 한강 노벨문학상 시상식</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211005000 +0900" stop="20241211022000 +0900" channel="5.kt">
+  <programme start="20241211010000 +0900" stop="20241211023000 +0900" channel="5.kt">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211022000 +0900" stop="20241211050000 +0900" channel="5.kt">
+  <programme start="20241211023000 +0900" stop="20241211050000 +0900" channel="5.kt">
     <title lang="ko">방송 시간이 아닙니다(5시부터 방송 예정)</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
@@ -6388,38 +6391,15 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211095500 +0900" stop="20241211103000 +0900" channel="5.kt">
-    <title lang="ko">SBS 10 뉴스</title>
+  <programme start="20241211095500 +0900" stop="20241211121500 +0900" channel="5.kt">
+    <title lang="ko">SBS 뉴스특보</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211103000 +0900" stop="20241211110000 +0900" channel="5.kt">
-    <title lang="ko">잘 먹고 잘 사는 법 플러스</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211110000 +0900" stop="20241211113000 +0900" channel="5.kt">
-    <title lang="ko">애니갤러리</title>
-    <category lang="ko">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211113000 +0900" stop="20241211120000 +0900" channel="5.kt">
-    <title lang="ko">용이 산다</title>
-    <category lang="ko">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211120000 +0900" stop="20241211125000 +0900" channel="5.kt">
+  <programme start="20241211121500 +0900" stop="20241211125000 +0900" channel="5.kt">
     <title lang="ko">SBS 12 뉴스</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -6434,45 +6414,31 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211140000 +0900" stop="20241211160000 +0900" channel="5.kt">
-    <title lang="ko">뉴스브리핑</title>
+  <programme start="20241211140000 +0900" stop="20241211170000 +0900" channel="5.kt">
+    <title lang="ko">특집 뉴스브리핑</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211160000 +0900" stop="20241211170000 +0900" channel="5.kt">
-    <title lang="ko">좋은아침 스페셜</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>12세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211170000 +0900" stop="20241211175000 +0900" channel="5.kt">
-    <title lang="ko">SBS 오뉴스</title>
+  <programme start="20241211170000 +0900" stop="20241211180000 +0900" channel="5.kt">
+    <title lang="ko">특집 SBS 오뉴스</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211175000 +0900" stop="20241211185000 +0900" channel="5.kt">
+  <programme start="20241211180000 +0900" stop="20241211190000 +0900" channel="5.kt">
     <title lang="ko">김원희의 원더랜드</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211185000 +0900" stop="20241211195000 +0900" channel="5.kt">
-    <title lang="ko">생방송 투데이</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211195000 +0900" stop="20241211210000 +0900" channel="5.kt">
-    <title lang="ko">SBS 8 뉴스</title>
+  <programme start="20241211190000 +0900" stop="20241211210000 +0900" channel="5.kt">
+    <title lang="ko">특집 SBS 8 뉴스</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
@@ -6480,7 +6446,7 @@
     </rating>
   </programme>
   <programme start="20241211210000 +0900" stop="20241211230500 +0900" channel="5.kt">
-    <title lang="ko">골 때리는 그녀들-세계관의 확장</title>
+    <title lang="ko">골 때리는 그녀들</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
@@ -6644,10 +6610,11 @@
     </rating>
   </programme>
   <programme start="20241212182000 +0900" stop="20241212185000 +0900" channel="5.kt">
-    <title lang="ko">접속! 무비월드 스페셜</title>
-    <category lang="ko">연예/오락</category>
+    <title lang="ko">용이 산다</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>12세 이상 관람가</value>
     </rating>
   </programme>
   <programme start="20241212185000 +0900" stop="20241212195000 +0900" channel="5.kt">
@@ -7268,26 +7235,10 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211140000 +0900" stop="20241211141000 +0900" channel="9.kt">
-    <title lang="ko">KBS 뉴스</title>
+  <programme start="20241211140000 +0900" stop="20241211154000 +0900" channel="9.kt">
+    <title lang="ko">중계방송 국회 본회의 비상계엄 긴급 현안질의</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211141000 +0900" stop="20241211151000 +0900" channel="9.kt">
-    <title lang="ko">열린채널</title>
-    <category lang="ko">시사/다큐</category>
-    <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211151000 +0900" stop="20241211154000 +0900" channel="9.kt">
-    <title lang="ko">방과 후 초능력</title>
-    <category lang="ko">교육</category>
-    <category lang="en">Education / Science / Factual topics</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -7300,68 +7251,47 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211170000 +0900" stop="20241211173000 +0900" channel="9.kt">
-    <title lang="ko">KBS 뉴스 5</title>
+  <programme start="20241211170000 +0900" stop="20241211180000 +0900" channel="9.kt">
+    <title lang="ko">특집 KBS 뉴스 5</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211173000 +0900" stop="20241211180000 +0900" channel="9.kt">
-    <title lang="ko">동물의 왕국</title>
+  <programme start="20241211180000 +0900" stop="20241211190000 +0900" channel="9.kt">
+    <title lang="ko">KBS 뉴스특보</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211190000 +0900" stop="20241211200000 +0900" channel="9.kt">
+    <title lang="ko">특집 KBS 뉴스 7</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211200000 +0900" stop="20241211220000 +0900" channel="9.kt">
+    <title lang="ko">특집 KBS 뉴스 9</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211220000 +0900" stop="20241211230000 +0900" channel="9.kt">
+    <title lang="ko">긴급진단 요동치는 탄핵정국</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211180000 +0900" stop="20241211190000 +0900" channel="9.kt">
-    <title lang="ko">6시 내고향</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211190000 +0900" stop="20241211194000 +0900" channel="9.kt">
-    <title lang="ko">KBS 뉴스 7</title>
-    <category lang="ko">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211194000 +0900" stop="20241211203000 +0900" channel="9.kt">
-    <title lang="ko">우리 집 금송아지</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211203000 +0900" stop="20241211210000 +0900" channel="9.kt">
-    <title lang="ko">일일연속극 결혼하자 맹꽁아!</title>
-    <category lang="ko">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211210000 +0900" stop="20241211220000 +0900" channel="9.kt">
-    <title lang="ko">KBS 뉴스 9</title>
-    <category lang="ko">뉴스</category>
-    <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211220000 +0900" stop="20241211225000 +0900" channel="9.kt">
-    <title lang="ko">생로병사의 비밀</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211225000 +0900" stop="20241211233000 +0900" channel="9.kt">
+  <programme start="20241211230000 +0900" stop="20241211234000 +0900" channel="9.kt">
     <title lang="ko">KBS 뉴스라인W</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -7369,31 +7299,24 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211233000 +0900" stop="20241212000000 +0900" channel="9.kt">
+  <programme start="20241211234000 +0900" stop="20241212001000 +0900" channel="9.kt">
     <title lang="ko">이슈 픽 쌤과 함께 스페셜</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212000000 +0900" stop="20241212011000 +0900" channel="9.kt">
+  <programme start="20241212001000 +0900" stop="20241212012000 +0900" channel="9.kt">
     <title lang="ko">KBS 중계석</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212011000 +0900" stop="20241212014000 +0900" channel="9.kt">
+  <programme start="20241212012000 +0900" stop="20241212015000 +0900" channel="9.kt">
     <title lang="ko">트레킹노트 세상을 걷다 스페셜</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212014000 +0900" stop="20241212015000 +0900" channel="9.kt">
-    <title lang="ko">생활의 발견 스페셜</title>
-    <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -7664,25 +7587,10 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211103000 +0900" stop="20241211122500 +0900" channel="11.kt">
+  <programme start="20241211103000 +0900" stop="20241211132500 +0900" channel="11.kt">
     <title lang="ko">MBC 뉴스특보</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211122500 +0900" stop="20241211130500 +0900" channel="11.kt">
-    <title lang="ko">장애 인식 개선 프로젝트 희망 노트</title>
-    <category lang="ko">교양/정보</category>
-    <rating system="KMRB">
-      <value>전체 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241211130500 +0900" stop="20241211132500 +0900" channel="11.kt">
-    <title lang="ko">주니토니 이야기</title>
-    <category lang="ko">교육</category>
-    <category lang="en">Education / Science / Factual topics</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -7695,7 +7603,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211135500 +0900" stop="20241211160000 +0900" channel="11.kt">
+  <programme start="20241211135500 +0900" stop="20241211153000 +0900" channel="11.kt">
     <title lang="ko">MBC 뉴스특보</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -7703,7 +7611,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211160000 +0900" stop="20241211180500 +0900" channel="11.kt">
+  <programme start="20241211153000 +0900" stop="20241211170000 +0900" channel="11.kt">
     <title lang="ko">MBC 뉴스특보</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -7711,22 +7619,22 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211180500 +0900" stop="20241211190500 +0900" channel="11.kt">
+  <programme start="20241211170000 +0900" stop="20241211180000 +0900" channel="11.kt">
     <title lang="ko">오늘N</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211190500 +0900" stop="20241211194000 +0900" channel="11.kt">
-    <title lang="ko">친절한 선주씨</title>
-    <category lang="ko">드라마</category>
-    <category lang="en">Movie / Drama</category>
+  <programme start="20241211180000 +0900" stop="20241211190000 +0900" channel="11.kt">
+    <title lang="ko">MBC 뉴스특보</title>
+    <category lang="ko">뉴스</category>
+    <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
-      <value>15세 이상 관람가</value>
+      <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211194000 +0900" stop="20241211210000 +0900" channel="11.kt">
+  <programme start="20241211190000 +0900" stop="20241211210000 +0900" channel="11.kt">
     <title lang="ko">특집 MBC 뉴스데스크</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -7810,16 +7718,15 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212122500 +0900" stop="20241212125500 +0900" channel="11.kt">
-    <title lang="ko">한글용사 아이야</title>
-    <category lang="ko">교육</category>
-    <category lang="en">Education / Science / Factual topics</category>
+  <programme start="20241212122500 +0900" stop="20241212130500 +0900" channel="11.kt">
+    <title lang="ko">장애 인식 개선 프로젝트 희망 노트</title>
+    <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212125500 +0900" stop="20241212132500 +0900" channel="11.kt">
-    <title lang="ko">뽀뽀뽀 좋아좋아 스페셜</title>
+  <programme start="20241212130500 +0900" stop="20241212132500 +0900" channel="11.kt">
+    <title lang="ko">주니토니 이야기</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
     <rating system="KMRB">
@@ -9720,7 +9627,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212035400 +0900" stop="20241212050000 +0900" channel="31.kt">
+  <programme start="20241212035400 +0900" stop="20241212050600 +0900" channel="31.kt">
     <title lang="ko">백설공주에게 죽음을</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -9728,21 +9635,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212053000 +0900" channel="31.kt">
+  <programme start="20241212050600 +0900" stop="20241212054100 +0900" channel="31.kt">
     <title lang="ko">인생은 항구다</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212053000 +0900" stop="20241212060000 +0900" channel="31.kt">
+  <programme start="20241212054100 +0900" stop="20241212061600 +0900" channel="31.kt">
     <title lang="ko">쇼킹 받는 차트 스페셜</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212060000 +0900" stop="20241212064500 +0900" channel="31.kt">
+  <programme start="20241212061600 +0900" stop="20241212064500 +0900" channel="31.kt">
     <title lang="ko">친절한 선주씨</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -9750,7 +9657,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212064500 +0900" stop="20241212073000 +0900" channel="31.kt">
+  <programme start="20241212064500 +0900" stop="20241212072300 +0900" channel="31.kt">
     <title lang="ko">친절한 선주씨</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -9758,15 +9665,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212073000 +0900" stop="20241212080000 +0900" channel="31.kt">
-    <title lang="ko">친절한 선주씨</title>
-    <category lang="ko">드라마</category>
-    <category lang="en">Movie / Drama</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212080000 +0900" stop="20241212090000 +0900" channel="31.kt">
+  <programme start="20241212072300 +0900" stop="20241212082600 +0900" channel="31.kt">
     <title lang="ko">트롯 챔피언</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -9774,78 +9673,71 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212090000 +0900" stop="20241212095000 +0900" channel="31.kt">
+  <programme start="20241212082600 +0900" stop="20241212091900 +0900" channel="31.kt">
     <title lang="ko">나 혼자 산다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212095000 +0900" stop="20241212104000 +0900" channel="31.kt">
+  <programme start="20241212091900 +0900" stop="20241212102400 +0900" channel="31.kt">
     <title lang="ko">나 혼자 산다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212104000 +0900" stop="20241212121000 +0900" channel="31.kt">
+  <programme start="20241212102400 +0900" stop="20241212115600 +0900" channel="31.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212121000 +0900" stop="20241212135000 +0900" channel="31.kt">
+  <programme start="20241212115600 +0900" stop="20241212134900 +0900" channel="31.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212135000 +0900" stop="20241212153000 +0900" channel="31.kt">
+  <programme start="20241212134900 +0900" stop="20241212153700 +0900" channel="31.kt">
     <title lang="ko">히든 아이</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212153000 +0900" stop="20241212171000 +0900" channel="31.kt">
+  <programme start="20241212153700 +0900" stop="20241212172200 +0900" channel="31.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212171000 +0900" stop="20241212184000 +0900" channel="31.kt">
+  <programme start="20241212172200 +0900" stop="20241212185600 +0900" channel="31.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212184000 +0900" stop="20241212202000 +0900" channel="31.kt">
+  <programme start="20241212185600 +0900" stop="20241212204200 +0900" channel="31.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212202000 +0900" stop="20241212215000 +0900" channel="31.kt">
+  <programme start="20241212204200 +0900" stop="20241212221200 +0900" channel="31.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212215000 +0900" stop="20241212233000 +0900" channel="31.kt">
+  <programme start="20241212221200 +0900" stop="20241213000000 +0900" channel="31.kt">
     <title lang="ko">라디오스타</title>
-    <category lang="ko">연예/오락</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212233000 +0900" stop="20241213000000 +0900" channel="31.kt">
-    <title lang="ko">어서와 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
@@ -10059,7 +9951,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212035000 +0900" stop="20241212050000 +0900" channel="35.kt">
+  <programme start="20241212035000 +0900" stop="20241212045500 +0900" channel="35.kt">
     <title lang="ko">걸어서 세계속으로</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -10067,7 +9959,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212053000 +0900" channel="35.kt">
+  <programme start="20241212045500 +0900" stop="20241212052000 +0900" channel="35.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10075,7 +9967,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212053000 +0900" stop="20241212061000 +0900" channel="35.kt">
+  <programme start="20241212052000 +0900" stop="20241212060000 +0900" channel="35.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10083,7 +9975,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212061000 +0900" stop="20241212064000 +0900" channel="35.kt">
+  <programme start="20241212060000 +0900" stop="20241212063000 +0900" channel="35.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10091,7 +9983,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212064000 +0900" stop="20241212072000 +0900" channel="35.kt">
+  <programme start="20241212063000 +0900" stop="20241212071000 +0900" channel="35.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10099,7 +9991,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212072000 +0900" stop="20241212080000 +0900" channel="35.kt">
+  <programme start="20241212071000 +0900" stop="20241212074500 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10107,7 +9999,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212080000 +0900" stop="20241212084000 +0900" channel="35.kt">
+  <programme start="20241212074500 +0900" stop="20241212083000 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10115,7 +10007,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212084000 +0900" stop="20241212092000 +0900" channel="35.kt">
+  <programme start="20241212083000 +0900" stop="20241212090500 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10123,7 +10015,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212092000 +0900" stop="20241212100000 +0900" channel="35.kt">
+  <programme start="20241212090500 +0900" stop="20241212095500 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10131,21 +10023,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212112000 +0900" channel="35.kt">
+  <programme start="20241212095500 +0900" stop="20241212111500 +0900" channel="35.kt">
     <title lang="ko">신상출시 편스토랑 특급 레시피</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212112000 +0900" stop="20241212124000 +0900" channel="35.kt">
+  <programme start="20241212111500 +0900" stop="20241212123500 +0900" channel="35.kt">
     <title lang="ko">살림하는 남자들 2</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212124000 +0900" stop="20241212132000 +0900" channel="35.kt">
+  <programme start="20241212123500 +0900" stop="20241212131000 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10153,7 +10045,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212132000 +0900" stop="20241212140000 +0900" channel="35.kt">
+  <programme start="20241212131000 +0900" stop="20241212140000 +0900" channel="35.kt">
     <title lang="ko">신데렐라 게임</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10177,21 +10069,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212164000 +0900" stop="20241212180000 +0900" channel="35.kt">
+  <programme start="20241212164000 +0900" stop="20241212175500 +0900" channel="35.kt">
     <title lang="ko">무엇이든 물어보살</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212180000 +0900" stop="20241212191000 +0900" channel="35.kt">
+  <programme start="20241212175500 +0900" stop="20241212190000 +0900" channel="35.kt">
     <title lang="ko">차트를 달리는 남자</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212191000 +0900" stop="20241212202000 +0900" channel="35.kt">
+  <programme start="20241212190000 +0900" stop="20241212202000 +0900" channel="35.kt">
     <title lang="ko">1박 2일 시즌4</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -10206,14 +10098,14 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212214000 +0900" stop="20241212225000 +0900" channel="35.kt">
+  <programme start="20241212214000 +0900" stop="20241212225500 +0900" channel="35.kt">
     <title lang="ko">동물은 훌륭하다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212225000 +0900" stop="20241213000000 +0900" channel="35.kt">
+  <programme start="20241212225500 +0900" stop="20241213000000 +0900" channel="35.kt">
     <title lang="ko">나라는 가수 인 독일</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -10340,28 +10232,28 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212032700 +0900" stop="20241212040000 +0900" channel="37.kt">
+  <programme start="20241212032700 +0900" stop="20241212041400 +0900" channel="37.kt">
     <title lang="ko">TV 동물농장</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212040000 +0900" stop="20241212043000 +0900" channel="37.kt">
+  <programme start="20241212041400 +0900" stop="20241212044000 +0900" channel="37.kt">
     <title lang="ko">접속! 무비월드</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212043000 +0900" stop="20241212060000 +0900" channel="37.kt">
+  <programme start="20241212044000 +0900" stop="20241212055500 +0900" channel="37.kt">
     <title lang="ko">신발 벗고 돌싱포맨</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212060000 +0900" stop="20241212075000 +0900" channel="37.kt">
+  <programme start="20241212055500 +0900" stop="20241212075000 +0900" channel="37.kt">
     <title lang="ko">미운 우리 새끼</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -10376,63 +10268,63 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212092000 +0900" stop="20241212113000 +0900" channel="37.kt">
+  <programme start="20241212092000 +0900" stop="20241212113100 +0900" channel="37.kt">
     <title lang="ko">틈만나면</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212113000 +0900" stop="20241212132000 +0900" channel="37.kt">
+  <programme start="20241212113100 +0900" stop="20241212131500 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212132000 +0900" stop="20241212152000 +0900" channel="37.kt">
+  <programme start="20241212131500 +0900" stop="20241212152000 +0900" channel="37.kt">
     <title lang="ko">미운 우리 새끼</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212152000 +0900" stop="20241212172000 +0900" channel="37.kt">
+  <programme start="20241212152000 +0900" stop="20241212171600 +0900" channel="37.kt">
     <title lang="ko">솔로라서</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212172000 +0900" stop="20241212192000 +0900" channel="37.kt">
+  <programme start="20241212171600 +0900" stop="20241212192100 +0900" channel="37.kt">
     <title lang="ko">동상이몽2 너는 내 운명</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212192000 +0900" stop="20241212210000 +0900" channel="37.kt">
+  <programme start="20241212192100 +0900" stop="20241212210200 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212210000 +0900" stop="20241212223000 +0900" channel="37.kt">
+  <programme start="20241212210200 +0900" stop="20241212223000 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO, 그 후 사랑은 계속된다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212223000 +0900" stop="20241212235000 +0900" channel="37.kt">
+  <programme start="20241212223000 +0900" stop="20241212235400 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO, 그 후 사랑은 계속된다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212235000 +0900" stop="20241213000000 +0900" channel="37.kt">
+  <programme start="20241212235400 +0900" stop="20241213000000 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO, 그 후 사랑은 계속된다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -10676,7 +10568,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212035000 +0900" stop="20241212050000 +0900" channel="80.kt">
+  <programme start="20241212035000 +0900" stop="20241212050400 +0900" channel="80.kt">
     <title lang="ko">60분 드라마</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10684,7 +10576,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212061000 +0900" channel="80.kt">
+  <programme start="20241212050400 +0900" stop="20241212062000 +0900" channel="80.kt">
     <title lang="ko">별순검 시즌2</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10692,7 +10584,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212061000 +0900" stop="20241212072000 +0900" channel="80.kt">
+  <programme start="20241212062000 +0900" stop="20241212073400 +0900" channel="80.kt">
     <title lang="ko">별순검 시즌2</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10700,7 +10592,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212072000 +0900" stop="20241212080000 +0900" channel="80.kt">
+  <programme start="20241212073400 +0900" stop="20241212080500 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10708,7 +10600,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212080000 +0900" stop="20241212084000 +0900" channel="80.kt">
+  <programme start="20241212080500 +0900" stop="20241212084700 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10716,7 +10608,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212084000 +0900" stop="20241212092000 +0900" channel="80.kt">
+  <programme start="20241212084700 +0900" stop="20241212091800 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10724,7 +10616,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212092000 +0900" stop="20241212100000 +0900" channel="80.kt">
+  <programme start="20241212091800 +0900" stop="20241212100100 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10732,7 +10624,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212112000 +0900" channel="80.kt">
+  <programme start="20241212100100 +0900" stop="20241212112400 +0900" channel="80.kt">
     <title lang="ko">불어라 미풍아</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10740,7 +10632,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212112000 +0900" stop="20241212124000 +0900" channel="80.kt">
+  <programme start="20241212112400 +0900" stop="20241212124200 +0900" channel="80.kt">
     <title lang="ko">불어라 미풍아</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10748,7 +10640,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212124000 +0900" stop="20241212134000 +0900" channel="80.kt">
+  <programme start="20241212124200 +0900" stop="20241212134200 +0900" channel="80.kt">
     <title lang="ko">사랑이 뭐길래</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10756,7 +10648,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212134000 +0900" stop="20241212144000 +0900" channel="80.kt">
+  <programme start="20241212134200 +0900" stop="20241212144400 +0900" channel="80.kt">
     <title lang="ko">사랑이 뭐길래</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10764,7 +10656,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212144000 +0900" stop="20241212160000 +0900" channel="80.kt">
+  <programme start="20241212144400 +0900" stop="20241212160500 +0900" channel="80.kt">
     <title lang="ko">화려한 유혹</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10772,7 +10664,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212160000 +0900" stop="20241212172000 +0900" channel="80.kt">
+  <programme start="20241212160500 +0900" stop="20241212172500 +0900" channel="80.kt">
     <title lang="ko">화려한 유혹</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10780,7 +10672,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212172000 +0900" stop="20241212180000 +0900" channel="80.kt">
+  <programme start="20241212172500 +0900" stop="20241212175500 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10788,7 +10680,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212180000 +0900" stop="20241212184000 +0900" channel="80.kt">
+  <programme start="20241212175500 +0900" stop="20241212183700 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10796,7 +10688,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212184000 +0900" stop="20241212192000 +0900" channel="80.kt">
+  <programme start="20241212183700 +0900" stop="20241212190800 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10804,7 +10696,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212192000 +0900" stop="20241212200000 +0900" channel="80.kt">
+  <programme start="20241212190800 +0900" stop="20241212195000 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10812,7 +10704,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212210000 +0900" channel="80.kt">
+  <programme start="20241212195000 +0900" stop="20241212205500 +0900" channel="80.kt">
     <title lang="ko">트롯 챔피언</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -10820,7 +10712,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212210000 +0900" stop="20241212220000 +0900" channel="80.kt">
+  <programme start="20241212205500 +0900" stop="20241212215500 +0900" channel="80.kt">
     <title lang="ko">전원일기</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10828,7 +10720,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212220000 +0900" stop="20241212230000 +0900" channel="80.kt">
+  <programme start="20241212215500 +0900" stop="20241212225200 +0900" channel="80.kt">
     <title lang="ko">전원일기</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -10836,10 +10728,17 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212230000 +0900" stop="20241213000000 +0900" channel="80.kt">
+  <programme start="20241212225200 +0900" stop="20241212235600 +0900" channel="80.kt">
     <title lang="ko">전원일기</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212235600 +0900" stop="20241213000000 +0900" channel="80.kt">
+    <title lang="ko">푹 쉬면 다행이야</title>
+    <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
@@ -11107,7 +11006,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212084000 +0900" stop="20241212094500 +0900" channel="83.kt">
+  <programme start="20241212084000 +0900" stop="20241212094000 +0900" channel="83.kt">
     <title lang="ko">불멸의 이순신</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -11115,7 +11014,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212094500 +0900" stop="20241212101500 +0900" channel="83.kt">
+  <programme start="20241212094000 +0900" stop="20241212101000 +0900" channel="83.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -11123,7 +11022,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212101500 +0900" stop="20241212105500 +0900" channel="83.kt">
+  <programme start="20241212101000 +0900" stop="20241212105500 +0900" channel="83.kt">
     <title lang="ko">결혼하자 맹꽁아!</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -11362,84 +11261,84 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212032900 +0900" stop="20241212050000 +0900" channel="29.kt">
+  <programme start="20241212032900 +0900" stop="20241212050400 +0900" channel="29.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212063000 +0900" channel="29.kt">
+  <programme start="20241212050400 +0900" stop="20241212063700 +0900" channel="29.kt">
     <title lang="ko">장미의 전쟁</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212063000 +0900" stop="20241212082000 +0900" channel="29.kt">
+  <programme start="20241212063700 +0900" stop="20241212081700 +0900" channel="29.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212082000 +0900" stop="20241212100000 +0900" channel="29.kt">
+  <programme start="20241212081700 +0900" stop="20241212100000 +0900" channel="29.kt">
     <title lang="ko">심장을 울려라 강연자들</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212120000 +0900" channel="29.kt">
+  <programme start="20241212100000 +0900" stop="20241212114600 +0900" channel="29.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212120000 +0900" stop="20241212133000 +0900" channel="29.kt">
+  <programme start="20241212114600 +0900" stop="20241212131900 +0900" channel="29.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212133000 +0900" stop="20241212152000 +0900" channel="29.kt">
+  <programme start="20241212131900 +0900" stop="20241212150200 +0900" channel="29.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212152000 +0900" stop="20241212163000 +0900" channel="29.kt">
+  <programme start="20241212150200 +0900" stop="20241212162800 +0900" channel="29.kt">
     <title lang="ko">나 혼자 산다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212163000 +0900" stop="20241212183000 +0900" channel="29.kt">
+  <programme start="20241212162800 +0900" stop="20241212181400 +0900" channel="29.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212183000 +0900" stop="20241212200000 +0900" channel="29.kt">
+  <programme start="20241212181400 +0900" stop="20241212200000 +0900" channel="29.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212220000 +0900" channel="29.kt">
+  <programme start="20241212200000 +0900" stop="20241212220300 +0900" channel="29.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212220000 +0900" stop="20241213000000 +0900" channel="29.kt">
+  <programme start="20241212220300 +0900" stop="20241213000000 +0900" channel="29.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -11596,7 +11495,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212040500 +0900" stop="20241212050000 +0900" channel="41.kt">
+  <programme start="20241212040500 +0900" stop="20241212045500 +0900" channel="41.kt">
     <title lang="ko">걸어서 세계속으로</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -11604,35 +11503,35 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212062000 +0900" channel="41.kt">
+  <programme start="20241212045500 +0900" stop="20241212061000 +0900" channel="41.kt">
     <title lang="ko">사장님 귀는 당나귀 귀</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212062000 +0900" stop="20241212074000 +0900" channel="41.kt">
+  <programme start="20241212061000 +0900" stop="20241212073500 +0900" channel="41.kt">
     <title lang="ko">신상출시 편스토랑</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212074000 +0900" stop="20241212090000 +0900" channel="41.kt">
+  <programme start="20241212073500 +0900" stop="20241212090000 +0900" channel="41.kt">
     <title lang="ko">연애의 참견 3</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212090000 +0900" stop="20241212103000 +0900" channel="41.kt">
+  <programme start="20241212090000 +0900" stop="20241212102500 +0900" channel="41.kt">
     <title lang="ko">1박 2일 시즌4</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212103000 +0900" stop="20241212115000 +0900" channel="41.kt">
+  <programme start="20241212102500 +0900" stop="20241212114500 +0900" channel="41.kt">
     <title lang="ko">이십세기 힛-트쏭</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -11640,21 +11539,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212115000 +0900" stop="20241212131000 +0900" channel="41.kt">
+  <programme start="20241212114500 +0900" stop="20241212131500 +0900" channel="41.kt">
     <title lang="ko">개그 콘서트</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212131000 +0900" stop="20241212143000 +0900" channel="41.kt">
+  <programme start="20241212131500 +0900" stop="20241212144000 +0900" channel="41.kt">
     <title lang="ko">슈퍼맨이 돌아왔다</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212143000 +0900" stop="20241212162000 +0900" channel="41.kt">
+  <programme start="20241212144000 +0900" stop="20241212162000 +0900" channel="41.kt">
     <title lang="ko">차트를 달리는 남자 스페셜</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -11690,7 +11589,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212221000 +0900" stop="20241212232000 +0900" channel="41.kt">
+  <programme start="20241212221000 +0900" stop="20241212232500 +0900" channel="41.kt">
     <title lang="ko">오늘도 지송합니다</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -11698,7 +11597,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212232000 +0900" stop="20241213000000 +0900" channel="41.kt">
+  <programme start="20241212232500 +0900" stop="20241213000000 +0900" channel="41.kt">
     <title lang="ko">차트를 달리는 남자 Dark edition</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -11817,84 +11716,84 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212031800 +0900" stop="20241212040000 +0900" channel="43.kt">
+  <programme start="20241212031800 +0900" stop="20241212041000 +0900" channel="43.kt">
     <title lang="ko">TV 동물농장</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212040000 +0900" stop="20241212052000 +0900" channel="43.kt">
+  <programme start="20241212041000 +0900" stop="20241212052400 +0900" channel="43.kt">
     <title lang="ko">먹고 보는 형제들</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212052000 +0900" stop="20241212063000 +0900" channel="43.kt">
+  <programme start="20241212052400 +0900" stop="20241212064000 +0900" channel="43.kt">
     <title lang="ko">접속! 무비월드</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212063000 +0900" stop="20241212083000 +0900" channel="43.kt">
+  <programme start="20241212064000 +0900" stop="20241212083900 +0900" channel="43.kt">
     <title lang="ko">동상이몽 2 너는 내 운명</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083000 +0900" stop="20241212101000 +0900" channel="43.kt">
+  <programme start="20241212083900 +0900" stop="20241212102200 +0900" channel="43.kt">
     <title lang="ko">나는 SOLO</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212101000 +0900" stop="20241212122000 +0900" channel="43.kt">
-    <title lang="ko">골 때리는 그녀들-세계관의 확장</title>
+  <programme start="20241212102200 +0900" stop="20241212123400 +0900" channel="43.kt">
+    <title lang="ko">골 때리는 그녀들</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212122000 +0900" stop="20241212141000 +0900" channel="43.kt">
+  <programme start="20241212123400 +0900" stop="20241212142700 +0900" channel="43.kt">
     <title lang="ko">솔로라서</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212141000 +0900" stop="20241212161000 +0900" channel="43.kt">
+  <programme start="20241212142700 +0900" stop="20241212163100 +0900" channel="43.kt">
     <title lang="ko">동상이몽 2 너는 내 운명</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212161000 +0900" stop="20241212183000 +0900" channel="43.kt">
+  <programme start="20241212163100 +0900" stop="20241212184300 +0900" channel="43.kt">
     <title lang="ko">틈만 나면</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212183000 +0900" stop="20241212203000 +0900" channel="43.kt">
+  <programme start="20241212184300 +0900" stop="20241212203900 +0900" channel="43.kt">
     <title lang="ko">솔로라서</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212203000 +0900" stop="20241212223000 +0900" channel="43.kt">
+  <programme start="20241212203900 +0900" stop="20241212223900 +0900" channel="43.kt">
     <title lang="ko">미운 우리 새끼</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212223000 +0900" stop="20241213000000 +0900" channel="43.kt">
+  <programme start="20241212223900 +0900" stop="20241213000000 +0900" channel="43.kt">
     <title lang="ko">신발 벗고 돌싱포맨</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -12068,42 +11967,42 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212025300 +0900" stop="20241212040000 +0900" channel="66.kt">
+  <programme start="20241212025300 +0900" stop="20241212040700 +0900" channel="66.kt">
     <title lang="ko">와! 진짜? 세상에 이런일이</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212040000 +0900" stop="20241212051000 +0900" channel="66.kt">
+  <programme start="20241212040700 +0900" stop="20241212050700 +0900" channel="66.kt">
     <title lang="ko">홈데렐라</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212051000 +0900" stop="20241212061000 +0900" channel="66.kt">
+  <programme start="20241212050700 +0900" stop="20241212061300 +0900" channel="66.kt">
     <title lang="ko">빵카로드 2</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212061000 +0900" stop="20241212073000 +0900" channel="66.kt">
+  <programme start="20241212061300 +0900" stop="20241212073000 +0900" channel="66.kt">
     <title lang="ko">TV 동물농장</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212073000 +0900" stop="20241212083000 +0900" channel="66.kt">
+  <programme start="20241212073000 +0900" stop="20241212082900 +0900" channel="66.kt">
     <title lang="ko">TV 애니멀봐</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083000 +0900" stop="20241212100000 +0900" channel="66.kt">
+  <programme start="20241212082900 +0900" stop="20241212095500 +0900" channel="66.kt">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 시즌2</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -12111,21 +12010,21 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212112000 +0900" channel="66.kt">
+  <programme start="20241212095500 +0900" stop="20241212112000 +0900" channel="66.kt">
     <title lang="ko">와! 진짜? 세상에 이런일이</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212112000 +0900" stop="20241212122000 +0900" channel="66.kt">
+  <programme start="20241212112000 +0900" stop="20241212121300 +0900" channel="66.kt">
     <title lang="ko">여기가 딱이네</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212122000 +0900" stop="20241212134000 +0900" channel="66.kt">
+  <programme start="20241212121300 +0900" stop="20241212132700 +0900" channel="66.kt">
     <title lang="ko">낭만닥터 김사부</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -12133,7 +12032,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212134000 +0900" stop="20241212150000 +0900" channel="66.kt">
+  <programme start="20241212132700 +0900" stop="20241212144100 +0900" channel="66.kt">
     <title lang="ko">낭만닥터 김사부</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -12141,14 +12040,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212150000 +0900" stop="20241212170000 +0900" channel="66.kt">
-    <title lang="ko">미운 우리 새끼</title>
-    <category lang="ko">연예/오락</category>
-    <rating system="KMRB">
-      <value>15세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212170000 +0900" stop="20241212184000 +0900" channel="66.kt">
+  <programme start="20241212144100 +0900" stop="20241212162000 +0900" channel="66.kt">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 시즌3</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -12156,28 +12048,35 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212184000 +0900" stop="20241212204000 +0900" channel="66.kt">
+  <programme start="20241212162000 +0900" stop="20241212182700 +0900" channel="66.kt">
+    <title lang="ko">미운 우리 새끼</title>
+    <category lang="ko">연예/오락</category>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212182700 +0900" stop="20241212203500 +0900" channel="66.kt">
     <title lang="ko">틈만나면</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212204000 +0900" stop="20241212213000 +0900" channel="66.kt">
+  <programme start="20241212203500 +0900" stop="20241212212800 +0900" channel="66.kt">
     <title lang="ko">여기가 딱이네</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212213000 +0900" stop="20241212233000 +0900" channel="66.kt">
+  <programme start="20241212212800 +0900" stop="20241212232500 +0900" channel="66.kt">
     <title lang="ko">동상이몽 2 너는 내 운명</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212233000 +0900" stop="20241213000000 +0900" channel="66.kt">
+  <programme start="20241212232500 +0900" stop="20241213000000 +0900" channel="66.kt">
     <title lang="ko">TV 동물농장</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
@@ -12355,7 +12254,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212053000 +0900" stop="20241212070000 +0900" channel="136.kt">
+  <programme start="20241212053000 +0900" stop="20241212065800 +0900" channel="136.kt">
     <title lang="ko">더 트롯 쇼</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -12363,21 +12262,21 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212070000 +0900" stop="20241212080000 +0900" channel="136.kt">
+  <programme start="20241212065800 +0900" stop="20241212075900 +0900" channel="136.kt">
     <title lang="ko">좋은아침</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212080000 +0900" stop="20241212090000 +0900" channel="136.kt">
+  <programme start="20241212075900 +0900" stop="20241212085800 +0900" channel="136.kt">
     <title lang="ko">생방송 투데이</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212090000 +0900" stop="20241212101000 +0900" channel="136.kt">
+  <programme start="20241212085800 +0900" stop="20241212100300 +0900" channel="136.kt">
     <title lang="ko">사랑의 불시착</title>
     <category lang="ko">드라마</category>
     <category lang="en">Movie / Drama</category>
@@ -12385,7 +12284,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212101000 +0900" stop="20241212112000 +0900" channel="136.kt">
+  <programme start="20241212100300 +0900" stop="20241212111800 +0900" channel="136.kt">
     <title lang="ko">휴먼크로니클</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -12393,35 +12292,35 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212112000 +0900" stop="20241212122000 +0900" channel="136.kt">
+  <programme start="20241212111800 +0900" stop="20241212121800 +0900" channel="136.kt">
     <title lang="ko">여기가 딱이네</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212122000 +0900" stop="20241212132000 +0900" channel="136.kt">
+  <programme start="20241212121800 +0900" stop="20241212131800 +0900" channel="136.kt">
     <title lang="ko">오픈런</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212132000 +0900" stop="20241212142000 +0900" channel="136.kt">
+  <programme start="20241212131800 +0900" stop="20241212141800 +0900" channel="136.kt">
     <title lang="ko">오픈런</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212142000 +0900" stop="20241212155000 +0900" channel="136.kt">
+  <programme start="20241212141800 +0900" stop="20241212154800 +0900" channel="136.kt">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 3</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212155000 +0900" stop="20241212163000 +0900" channel="136.kt">
+  <programme start="20241212154800 +0900" stop="20241212163000 +0900" channel="136.kt">
     <title lang="ko">HITS : K-POP</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -12429,35 +12328,35 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212163000 +0900" stop="20241212171000 +0900" channel="136.kt">
+  <programme start="20241212163000 +0900" stop="20241212170800 +0900" channel="136.kt">
     <title lang="ko">비하인드 더 쇼</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212171000 +0900" stop="20241212184000 +0900" channel="136.kt">
+  <programme start="20241212170800 +0900" stop="20241212183700 +0900" channel="136.kt">
     <title lang="ko">신발 벗고 돌싱포맨</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212184000 +0900" stop="20241212201000 +0900" channel="136.kt">
+  <programme start="20241212183700 +0900" stop="20241212200800 +0900" channel="136.kt">
     <title lang="ko">손대면 핫플! 동네멋집2</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212201000 +0900" stop="20241212212000 +0900" channel="136.kt">
+  <programme start="20241212200800 +0900" stop="20241212211800 +0900" channel="136.kt">
     <title lang="ko">순간포착 세상에 이런일이</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212212000 +0900" stop="20241212224000 +0900" channel="136.kt">
+  <programme start="20241212211800 +0900" stop="20241212224000 +0900" channel="136.kt">
     <title lang="ko">생활의 달인</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
@@ -12635,28 +12534,28 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212043000 +0900" stop="20241212050000 +0900" channel="137.kt">
+  <programme start="20241212043000 +0900" stop="20241212050300 +0900" channel="137.kt">
     <title lang="ko">쇼킹 받는 차트 스페셜</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212062000 +0900" channel="137.kt">
+  <programme start="20241212050300 +0900" stop="20241212061600 +0900" channel="137.kt">
     <title lang="ko">선을 넘는 클래스</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212062000 +0900" stop="20241212074000 +0900" channel="137.kt">
+  <programme start="20241212061600 +0900" stop="20241212074000 +0900" channel="137.kt">
     <title lang="ko">놀면 뭐하니?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212074000 +0900" stop="20241212084000 +0900" channel="137.kt">
+  <programme start="20241212074000 +0900" stop="20241212083600 +0900" channel="137.kt">
     <title lang="ko">실화탐사대</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -12664,70 +12563,70 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212084000 +0900" stop="20241212094000 +0900" channel="137.kt">
+  <programme start="20241212083600 +0900" stop="20241212095000 +0900" channel="137.kt">
     <title lang="ko">쇼킹 받는 차트 스페셜</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212094000 +0900" stop="20241212113000 +0900" channel="137.kt">
+  <programme start="20241212095000 +0900" stop="20241212113400 +0900" channel="137.kt">
     <title lang="ko">히든 아이</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212113000 +0900" stop="20241212132000 +0900" channel="137.kt">
+  <programme start="20241212113400 +0900" stop="20241212131200 +0900" channel="137.kt">
     <title lang="ko">어서와 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212132000 +0900" stop="20241212145000 +0900" channel="137.kt">
+  <programme start="20241212131200 +0900" stop="20241212144800 +0900" channel="137.kt">
     <title lang="ko">장미의 전쟁</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212145000 +0900" stop="20241212164000 +0900" channel="137.kt">
+  <programme start="20241212144800 +0900" stop="20241212162900 +0900" channel="137.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212164000 +0900" stop="20241212182000 +0900" channel="137.kt">
+  <programme start="20241212162900 +0900" stop="20241212181200 +0900" channel="137.kt">
     <title lang="ko">히든 아이</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212182000 +0900" stop="20241212195000 +0900" channel="137.kt">
+  <programme start="20241212181200 +0900" stop="20241212194400 +0900" channel="137.kt">
     <title lang="ko">시골마을 이장우</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212195000 +0900" stop="20241212214000 +0900" channel="137.kt">
+  <programme start="20241212194400 +0900" stop="20241212212400 +0900" channel="137.kt">
     <title lang="ko">라디오스타</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212214000 +0900" stop="20241212232000 +0900" channel="137.kt">
+  <programme start="20241212212400 +0900" stop="20241212230600 +0900" channel="137.kt">
     <title lang="ko">히든 아이</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212232000 +0900" stop="20241213000000 +0900" channel="137.kt">
+  <programme start="20241212230600 +0900" stop="20241213000000 +0900" channel="137.kt">
     <title lang="ko">선을 넘는 클래스</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -12910,7 +12809,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212023000 +0900" stop="20241212040000 +0900" channel="57.kt">
+  <programme start="20241212023000 +0900" stop="20241212041000 +0900" channel="57.kt">
     <title lang="ko">제11회 그랜드CC배 KPGA 시니어 오픈</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12918,7 +12817,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212040000 +0900" stop="20241212050000 +0900" channel="57.kt">
+  <programme start="20241212041000 +0900" stop="20241212051000 +0900" channel="57.kt">
     <title lang="ko">2024 벤제프 클럽 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12926,7 +12825,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212060000 +0900" channel="57.kt">
+  <programme start="20241212051000 +0900" stop="20241212061000 +0900" channel="57.kt">
     <title lang="ko">2024 벤제프 클럽 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12934,7 +12833,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212060000 +0900" stop="20241212083000 +0900" channel="57.kt">
+  <programme start="20241212061000 +0900" stop="20241212084000 +0900" channel="57.kt">
     <title lang="ko">KLPGA 2024 무안CC 올포유 드림투어</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12942,7 +12841,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083000 +0900" stop="20241212093000 +0900" channel="57.kt">
+  <programme start="20241212084000 +0900" stop="20241212095000 +0900" channel="57.kt">
     <title lang="ko">SBS골프 아카데미</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12950,7 +12849,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212093000 +0900" stop="20241212103000 +0900" channel="57.kt">
+  <programme start="20241212095000 +0900" stop="20241212105000 +0900" channel="57.kt">
     <title lang="ko">2024 벤제프 클럽 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12958,7 +12857,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212103000 +0900" stop="20241212113000 +0900" channel="57.kt">
+  <programme start="20241212105000 +0900" stop="20241212115000 +0900" channel="57.kt">
     <title lang="ko">2024 벤제프 클럽 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12966,7 +12865,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212113000 +0900" stop="20241212140000 +0900" channel="57.kt">
+  <programme start="20241212115000 +0900" stop="20241212140000 +0900" channel="57.kt">
     <title lang="ko">2023 KLPGA 하나금융그룹 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12974,7 +12873,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212140000 +0900" stop="20241212153000 +0900" channel="57.kt">
+  <programme start="20241212140000 +0900" stop="20241212152000 +0900" channel="57.kt">
     <title lang="ko">2024 프랭크버거배 미드아마 클래식</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -12982,7 +12881,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212153000 +0900" stop="20241212160000 +0900" channel="57.kt">
+  <programme start="20241212152000 +0900" stop="20241212160000 +0900" channel="57.kt">
     <title lang="ko">TOP CLASS</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -13038,7 +12937,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212223000 +0900" stop="20241212233000 +0900" channel="57.kt">
+  <programme start="20241212223000 +0900" stop="20241212232000 +0900" channel="57.kt">
     <title lang="ko">2024 벤제프 클럽 챔피언십</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -13046,7 +12945,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212233000 +0900" stop="20241213000000 +0900" channel="57.kt">
+  <programme start="20241212232000 +0900" stop="20241213000000 +0900" channel="57.kt">
     <title lang="ko">레슨 팩토리</title>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
@@ -13795,7 +13694,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212044000 +0900" stop="20241212050000 +0900" channel="984.kt">
+  <programme start="20241212044000 +0900" stop="20241212045500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 시즌12 붐바</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13803,7 +13702,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212060000 +0900" channel="984.kt">
+  <programme start="20241212045500 +0900" stop="20241212055000 +0900" channel="984.kt">
     <title lang="ko">누가누가 잘하나</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -13811,7 +13710,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212060000 +0900" stop="20241212063000 +0900" channel="984.kt">
+  <programme start="20241212055000 +0900" stop="20241212062500 +0900" channel="984.kt">
     <title lang="ko">TV 유치원</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
@@ -13819,7 +13718,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212063000 +0900" stop="20241212070000 +0900" channel="984.kt">
+  <programme start="20241212062500 +0900" stop="20241212065500 +0900" channel="984.kt">
     <title lang="ko">TV 유치원</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
@@ -13827,7 +13726,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212070000 +0900" stop="20241212070500 +0900" channel="984.kt">
+  <programme start="20241212065500 +0900" stop="20241212070500 +0900" channel="984.kt">
     <title lang="ko">도레미 프렌즈</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
@@ -13843,7 +13742,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212071000 +0900" stop="20241212072000 +0900" channel="984.kt">
+  <programme start="20241212071000 +0900" stop="20241212071500 +0900" channel="984.kt">
     <title lang="ko">도레미 프렌즈</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
@@ -13851,7 +13750,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212072000 +0900" stop="20241212073000 +0900" channel="984.kt">
+  <programme start="20241212071500 +0900" stop="20241212072500 +0900" channel="984.kt">
     <title lang="ko">도레미 프렌즈</title>
     <category lang="ko">교육</category>
     <category lang="en">Education / Science / Factual topics</category>
@@ -13859,7 +13758,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212073000 +0900" stop="20241212080000 +0900" channel="984.kt">
+  <programme start="20241212072500 +0900" stop="20241212075500 +0900" channel="984.kt">
     <title lang="ko">퍼피 구조대 시즌7</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13867,7 +13766,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212080000 +0900" stop="20241212081500 +0900" channel="984.kt">
+  <programme start="20241212075500 +0900" stop="20241212081000 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 올스타전</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13875,7 +13774,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212081500 +0900" stop="20241212083000 +0900" channel="984.kt">
+  <programme start="20241212081000 +0900" stop="20241212082500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 올스타전</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13883,7 +13782,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083000 +0900" stop="20241212084500 +0900" channel="984.kt">
+  <programme start="20241212082500 +0900" stop="20241212084000 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 올스타전</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13891,7 +13790,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212084500 +0900" stop="20241212090000 +0900" channel="984.kt">
+  <programme start="20241212084000 +0900" stop="20241212085500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 올스타전</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13899,7 +13798,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212090000 +0900" stop="20241212091500 +0900" channel="984.kt">
+  <programme start="20241212085500 +0900" stop="20241212091000 +0900" channel="984.kt">
     <title lang="ko">버블호텔2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13907,7 +13806,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212091500 +0900" stop="20241212093000 +0900" channel="984.kt">
+  <programme start="20241212091000 +0900" stop="20241212092500 +0900" channel="984.kt">
     <title lang="ko">버블호텔2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13915,7 +13814,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212093000 +0900" stop="20241212094500 +0900" channel="984.kt">
+  <programme start="20241212092500 +0900" stop="20241212094000 +0900" channel="984.kt">
     <title lang="ko">버블호텔</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13923,7 +13822,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212094500 +0900" stop="20241212100000 +0900" channel="984.kt">
+  <programme start="20241212094000 +0900" stop="20241212095500 +0900" channel="984.kt">
     <title lang="ko">버블호텔</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13931,7 +13830,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212101500 +0900" channel="984.kt">
+  <programme start="20241212095500 +0900" stop="20241212101500 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13939,7 +13838,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212101500 +0900" stop="20241212103000 +0900" channel="984.kt">
+  <programme start="20241212101500 +0900" stop="20241212102500 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13947,7 +13846,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212103000 +0900" stop="20241212104500 +0900" channel="984.kt">
+  <programme start="20241212102500 +0900" stop="20241212104000 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13955,7 +13854,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212104500 +0900" stop="20241212110000 +0900" channel="984.kt">
+  <programme start="20241212104000 +0900" stop="20241212105000 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13963,7 +13862,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212110000 +0900" stop="20241212111500 +0900" channel="984.kt">
+  <programme start="20241212105000 +0900" stop="20241212110000 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13971,7 +13870,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212111500 +0900" stop="20241212113000 +0900" channel="984.kt">
+  <programme start="20241212110000 +0900" stop="20241212112000 +0900" channel="984.kt">
     <title lang="ko">새콤달콤 캐치! 티니핑</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13979,7 +13878,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212113000 +0900" stop="20241212114500 +0900" channel="984.kt">
+  <programme start="20241212112000 +0900" stop="20241212114000 +0900" channel="984.kt">
     <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -13987,7 +13886,15 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212114500 +0900" stop="20241212120000 +0900" channel="984.kt">
+  <programme start="20241212114000 +0900" stop="20241212115000 +0900" channel="984.kt">
+    <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212115000 +0900" stop="20241212120000 +0900" channel="984.kt">
     <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14003,7 +13910,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212121500 +0900" stop="20241212123000 +0900" channel="984.kt">
+  <programme start="20241212121500 +0900" stop="20241212122500 +0900" channel="984.kt">
     <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14011,7 +13918,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212123000 +0900" stop="20241212124500 +0900" channel="984.kt">
+  <programme start="20241212122500 +0900" stop="20241212125000 +0900" channel="984.kt">
     <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14019,43 +13926,35 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212124500 +0900" stop="20241212130000 +0900" channel="984.kt">
-    <title lang="ko">시크릿 쥬쥬 별의 보석 시즌2</title>
-    <category lang="ko">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212130000 +0900" stop="20241212131500 +0900" channel="984.kt">
+  <programme start="20241212125000 +0900" stop="20241212131000 +0900" channel="984.kt">
     <title lang="ko">호기심 천꾹이 시즌3</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212131500 +0900" stop="20241212133000 +0900" channel="984.kt">
+  <programme start="20241212131000 +0900" stop="20241212132000 +0900" channel="984.kt">
     <title lang="ko">호기심 천꾹이 시즌3</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212133000 +0900" stop="20241212134500 +0900" channel="984.kt">
+  <programme start="20241212132000 +0900" stop="20241212133500 +0900" channel="984.kt">
     <title lang="ko">호기심 천꾹이 시즌3</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212134500 +0900" stop="20241212140000 +0900" channel="984.kt">
+  <programme start="20241212133500 +0900" stop="20241212135000 +0900" channel="984.kt">
     <title lang="ko">호기심 천꾹이 시즌3</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212140000 +0900" stop="20241212141500 +0900" channel="984.kt">
+  <programme start="20241212135000 +0900" stop="20241212141000 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 시즌14 X</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14063,7 +13962,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212141500 +0900" stop="20241212143000 +0900" channel="984.kt">
+  <programme start="20241212141000 +0900" stop="20241212142500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 시즌14 X</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14071,7 +13970,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212143000 +0900" stop="20241212144500 +0900" channel="984.kt">
+  <programme start="20241212142500 +0900" stop="20241212143500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 시즌14 X</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14079,7 +13978,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212144500 +0900" stop="20241212150000 +0900" channel="984.kt">
+  <programme start="20241212143500 +0900" stop="20241212145000 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 시즌14 X</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14087,7 +13986,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212150000 +0900" stop="20241212153000 +0900" channel="984.kt">
+  <programme start="20241212145000 +0900" stop="20241212152000 +0900" channel="984.kt">
     <title lang="ko">마음의 소리 시즌1</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14095,7 +13994,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212153000 +0900" stop="20241212160000 +0900" channel="984.kt">
+  <programme start="20241212152000 +0900" stop="20241212155500 +0900" channel="984.kt">
     <title lang="ko">마음의 소리 시즌1</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14103,7 +14002,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212160000 +0900" stop="20241212163000 +0900" channel="984.kt">
+  <programme start="20241212155500 +0900" stop="20241212162500 +0900" channel="984.kt">
     <title lang="ko">베이블레이드X</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14111,7 +14010,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212163000 +0900" stop="20241212164500 +0900" channel="984.kt">
+  <programme start="20241212162500 +0900" stop="20241212164000 +0900" channel="984.kt">
     <title lang="ko">또봇: 대도시의 영웅들 시즌2 파트3</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14119,7 +14018,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212164500 +0900" stop="20241212170000 +0900" channel="984.kt">
+  <programme start="20241212164000 +0900" stop="20241212165500 +0900" channel="984.kt">
     <title lang="ko">또봇: 대도시의 영웅들 시즌2 파트3</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14127,7 +14026,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212170000 +0900" stop="20241212171500 +0900" channel="984.kt">
+  <programme start="20241212165500 +0900" stop="20241212171000 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 스타가디언</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14135,7 +14034,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212171500 +0900" stop="20241212173000 +0900" channel="984.kt">
+  <programme start="20241212171000 +0900" stop="20241212172500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 스타가디언</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14143,7 +14042,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212173000 +0900" stop="20241212174500 +0900" channel="984.kt">
+  <programme start="20241212172500 +0900" stop="20241212173500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 스타가디언</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14151,7 +14050,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212174500 +0900" stop="20241212180000 +0900" channel="984.kt">
+  <programme start="20241212173500 +0900" stop="20241212175500 +0900" channel="984.kt">
     <title lang="ko">헬로카봇 스타가디언</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14159,7 +14058,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212180000 +0900" stop="20241212181500 +0900" channel="984.kt">
+  <programme start="20241212175500 +0900" stop="20241212181000 +0900" channel="984.kt">
     <title lang="ko">듀얼몬스터카</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14167,7 +14066,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212181500 +0900" stop="20241212183000 +0900" channel="984.kt">
+  <programme start="20241212181000 +0900" stop="20241212182500 +0900" channel="984.kt">
     <title lang="ko">듀얼몬스터카</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14175,7 +14074,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212183000 +0900" stop="20241212190000 +0900" channel="984.kt">
+  <programme start="20241212182500 +0900" stop="20241212185000 +0900" channel="984.kt">
     <title lang="ko">원더풀 프리큐어!</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14183,7 +14082,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212190000 +0900" stop="20241212193000 +0900" channel="984.kt">
+  <programme start="20241212185000 +0900" stop="20241212192000 +0900" channel="984.kt">
     <title lang="ko">원더풀 프리큐어!</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14191,7 +14090,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212193000 +0900" stop="20241212194500 +0900" channel="984.kt">
+  <programme start="20241212192000 +0900" stop="20241212194000 +0900" channel="984.kt">
     <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14199,7 +14098,15 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212194500 +0900" stop="20241212200000 +0900" channel="984.kt">
+  <programme start="20241212194000 +0900" stop="20241212195000 +0900" channel="984.kt">
+    <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
+    <category lang="ko">만화</category>
+    <category lang="en">Cartoons / Puppets</category>
+    <rating system="KMRB">
+      <value>7세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212195000 +0900" stop="20241212200000 +0900" channel="984.kt">
     <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14215,7 +14122,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212201500 +0900" stop="20241212203000 +0900" channel="984.kt">
+  <programme start="20241212201500 +0900" stop="20241212202500 +0900" channel="984.kt">
     <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14223,7 +14130,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212203000 +0900" stop="20241212204500 +0900" channel="984.kt">
+  <programme start="20241212202500 +0900" stop="20241212205000 +0900" channel="984.kt">
     <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14231,15 +14138,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212204500 +0900" stop="20241212210000 +0900" channel="984.kt">
-    <title lang="ko">또봇:대도시의 영웅들 시즌2 파트2</title>
-    <category lang="ko">만화</category>
-    <category lang="en">Cartoons / Puppets</category>
-    <rating system="KMRB">
-      <value>7세 이상 관람가</value>
-    </rating>
-  </programme>
-  <programme start="20241212210000 +0900" stop="20241212211500 +0900" channel="984.kt">
+  <programme start="20241212205000 +0900" stop="20241212211000 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14247,7 +14146,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212211500 +0900" stop="20241212213000 +0900" channel="984.kt">
+  <programme start="20241212211000 +0900" stop="20241212212500 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14255,7 +14154,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212213000 +0900" stop="20241212214500 +0900" channel="984.kt">
+  <programme start="20241212212500 +0900" stop="20241212214000 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14263,7 +14162,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212214500 +0900" stop="20241212220000 +0900" channel="984.kt">
+  <programme start="20241212214000 +0900" stop="20241212215500 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14271,7 +14170,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212220000 +0900" stop="20241212221500 +0900" channel="984.kt">
+  <programme start="20241212215500 +0900" stop="20241212220500 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14279,7 +14178,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212221500 +0900" stop="20241212223000 +0900" channel="984.kt">
+  <programme start="20241212220500 +0900" stop="20241212222500 +0900" channel="984.kt">
     <title lang="ko">마카앤로니</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14287,7 +14186,7 @@
       <value>7세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212223000 +0900" stop="20241212230000 +0900" channel="984.kt">
+  <programme start="20241212222500 +0900" stop="20241212225500 +0900" channel="984.kt">
     <title lang="ko">마음의 소리 시즌4</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14295,7 +14194,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212230000 +0900" stop="20241212233000 +0900" channel="984.kt">
+  <programme start="20241212225500 +0900" stop="20241212231500 +0900" channel="984.kt">
     <title lang="ko">마음의 소리 시즌4</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
@@ -14303,12 +14202,19 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212233000 +0900" stop="20241213000000 +0900" channel="984.kt">
+  <programme start="20241212231500 +0900" stop="20241212235000 +0900" channel="984.kt">
     <title lang="ko">마음의 소리 시즌4</title>
     <category lang="ko">만화</category>
     <category lang="en">Cartoons / Puppets</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212235000 +0900" stop="20241213000000 +0900" channel="984.kt">
+    <title lang="ko">동물극장 단짝</title>
+    <category lang="ko">교양/정보</category>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
     </rating>
   </programme>
   <programme start="20241211000000 +0900" stop="20241211001000 +0900" channel="971.kt">
@@ -16761,7 +16667,7 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212042500 +0900" stop="20241212050000 +0900" channel="158.kt">
+  <programme start="20241212042500 +0900" stop="20241212050500 +0900" channel="158.kt">
     <title lang="ko">환경을 푸는 언박싱</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16769,14 +16675,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212060000 +0900" channel="158.kt">
+  <programme start="20241212050500 +0900" stop="20241212060500 +0900" channel="158.kt">
     <title lang="ko">KBS네트워크특선 지명수배</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212060000 +0900" stop="20241212074000 +0900" channel="158.kt">
+  <programme start="20241212060500 +0900" stop="20241212075000 +0900" channel="158.kt">
     <title lang="ko">인간극장</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16784,7 +16690,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212074000 +0900" stop="20241212090000 +0900" channel="158.kt">
+  <programme start="20241212075000 +0900" stop="20241212090500 +0900" channel="158.kt">
     <title lang="ko">인간극장</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16792,49 +16698,49 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212090000 +0900" stop="20241212100000 +0900" channel="158.kt">
+  <programme start="20241212090500 +0900" stop="20241212100500 +0900" channel="158.kt">
     <title lang="ko">한국인의 밥상</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212100000 +0900" stop="20241212110000 +0900" channel="158.kt">
+  <programme start="20241212100500 +0900" stop="20241212110000 +0900" channel="158.kt">
     <title lang="ko">경제 스포트라이트</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212110000 +0900" stop="20241212123000 +0900" channel="158.kt">
+  <programme start="20241212110000 +0900" stop="20241212122000 +0900" channel="158.kt">
     <title lang="ko">재난안전119</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212123000 +0900" stop="20241212130000 +0900" channel="158.kt">
+  <programme start="20241212122000 +0900" stop="20241212125000 +0900" channel="158.kt">
     <title lang="ko">우리들의 지식살롱</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212130000 +0900" stop="20241212140000 +0900" channel="158.kt">
+  <programme start="20241212125000 +0900" stop="20241212135000 +0900" channel="158.kt">
     <title lang="ko">무엇이든 물어보세요</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212140000 +0900" stop="20241212150000 +0900" channel="158.kt">
+  <programme start="20241212135000 +0900" stop="20241212145000 +0900" channel="158.kt">
     <title lang="ko">이슈 픽 쌤과 함께</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212150000 +0900" stop="20241212160000 +0900" channel="158.kt">
+  <programme start="20241212145000 +0900" stop="20241212155000 +0900" channel="158.kt">
     <title lang="ko">내고향스페셜 남도지오그래피</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16842,14 +16748,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212160000 +0900" stop="20241212170000 +0900" channel="158.kt">
+  <programme start="20241212155000 +0900" stop="20241212165500 +0900" channel="158.kt">
     <title lang="ko">한국인의 밥상</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212170000 +0900" stop="20241212184000 +0900" channel="158.kt">
+  <programme start="20241212165500 +0900" stop="20241212184000 +0900" channel="158.kt">
     <title lang="ko">인간극장</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16857,7 +16763,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212184000 +0900" stop="20241212200000 +0900" channel="158.kt">
+  <programme start="20241212184000 +0900" stop="20241212195500 +0900" channel="158.kt">
     <title lang="ko">인간극장</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -16865,7 +16771,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212210000 +0900" channel="158.kt">
+  <programme start="20241212195500 +0900" stop="20241212210000 +0900" channel="158.kt">
     <title lang="ko">개그콘서트</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -17156,14 +17062,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212110000 +0900" stop="20241212111000 +0900" channel="164.kt">
+  <programme start="20241212110000 +0900" stop="20241212111500 +0900" channel="164.kt">
     <title lang="ko">남도의 혼, 도자기 오디세이</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212111000 +0900" stop="20241212130000 +0900" channel="164.kt">
+  <programme start="20241212111500 +0900" stop="20241212130000 +0900" channel="164.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -17220,7 +17126,7 @@
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212201000 +0900" channel="164.kt">
+  <programme start="20241212200000 +0900" stop="20241212201500 +0900" channel="164.kt">
     <title lang="ko">당신이 몰랐던 무안 도자기</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -17228,7 +17134,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212201000 +0900" stop="20241212220000 +0900" channel="164.kt">
+  <programme start="20241212201500 +0900" stop="20241212220000 +0900" channel="164.kt">
     <title lang="ko">어서와~ 한국은 처음이지?</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
@@ -17562,14 +17468,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212163000 +0900" stop="20241212170000 +0900" channel="25.kt">
+  <programme start="20241212163000 +0900" stop="20241212165500 +0900" channel="25.kt">
     <title lang="ko">한문철의 블랙박스</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>12세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212170000 +0900" stop="20241212172500 +0900" channel="25.kt">
+  <programme start="20241212165500 +0900" stop="20241212173000 +0900" channel="25.kt">
     <title lang="ko">뉴스 톺아보기</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -17577,7 +17483,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212172500 +0900" stop="20241212175500 +0900" channel="25.kt">
+  <programme start="20241212173000 +0900" stop="20241212175500 +0900" channel="25.kt">
     <title lang="ko">휴먼다큐 시장 사람들</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -17600,7 +17506,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212193000 +0900" stop="20241212200000 +0900" channel="25.kt">
+  <programme start="20241212193000 +0900" stop="20241212195500 +0900" channel="25.kt">
     <title lang="ko">휴먼다큐 시장 사람들</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -17608,7 +17514,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212203000 +0900" channel="25.kt">
+  <programme start="20241212195500 +0900" stop="20241212203000 +0900" channel="25.kt">
     <title lang="ko">휴먼다큐 시장 사람들</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -18319,10 +18225,10 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241211000000 +0900" stop="20241211020000 +0900" channel="65.kt">
-    <title lang="ko">한국영화걸작선 &lt;싸움의 기술&gt;</title>
-    <category lang="ko">영화</category>
-    <category lang="en">Movie / Drama</category>
+  <programme start="20241211010000 +0900" stop="20241211020000 +0900" channel="65.kt">
+    <title lang="ko">세계 최고의 메가머신</title>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
@@ -18597,7 +18503,7 @@
     </rating>
   </programme>
   <programme start="20241212100000 +0900" stop="20241212120000 +0900" channel="65.kt">
-    <title lang="ko">의사 및 의정중계</title>
+    <title lang="ko">국민의힘 원내대표 선출 의원총회</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
     <rating system="KMRB">
@@ -19964,14 +19870,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212044000 +0900" stop="20241212050000 +0900" channel="199.kt">
+  <programme start="20241212044000 +0900" stop="20241212050300 +0900" channel="199.kt">
     <title lang="ko">&lt;장애를 이해하고 싶을때&gt; 당장 만나</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212050000 +0900" stop="20241212053000 +0900" channel="199.kt">
+  <programme start="20241212050300 +0900" stop="20241212053000 +0900" channel="199.kt">
     <title lang="ko">복지TV 뉴스24</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -20002,21 +19908,21 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212080000 +0900" stop="20241212083000 +0900" channel="199.kt">
+  <programme start="20241212080000 +0900" stop="20241212082300 +0900" channel="199.kt">
     <title lang="ko">캐리와 친구들</title>
     <category lang="ko">연예/오락</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083000 +0900" stop="20241212083500 +0900" channel="199.kt">
+  <programme start="20241212082300 +0900" stop="20241212082800 +0900" channel="199.kt">
     <title lang="ko">2024 톡톡수어</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212083500 +0900" stop="20241212085000 +0900" channel="199.kt">
+  <programme start="20241212082800 +0900" stop="20241212084500 +0900" channel="199.kt">
     <title lang="ko">복지TV 지역네트워크</title>
     <category lang="ko">뉴스</category>
     <category lang="en">News / Current affairs</category>
@@ -20024,21 +19930,21 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212085000 +0900" stop="20241212085500 +0900" channel="199.kt">
+  <programme start="20241212084500 +0900" stop="20241212085500 +0900" channel="199.kt">
     <title lang="ko">장애인 취업정보</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212085500 +0900" stop="20241212095500 +0900" channel="199.kt">
+  <programme start="20241212085500 +0900" stop="20241212095000 +0900" channel="199.kt">
     <title lang="ko">중년 몸짱 이루어 GYM</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212095500 +0900" stop="20241212100000 +0900" channel="199.kt">
+  <programme start="20241212095000 +0900" stop="20241212100000 +0900" channel="199.kt">
     <title lang="ko">웰페어브리핑</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
@@ -20046,7 +19952,7 @@
     </rating>
   </programme>
   <programme start="20241212100000 +0900" stop="20241212104000 +0900" channel="199.kt">
-    <title lang="ko">인사이드스토리</title>
+    <title lang="ko">2024 인사이드 스토리</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
@@ -20067,14 +19973,14 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212120000 +0900" stop="20241212121500 +0900" channel="199.kt">
+  <programme start="20241212120000 +0900" stop="20241212121400 +0900" channel="199.kt">
     <title lang="ko">한국사회복지협의회-복지TV 캠페인 지역 사회 공헌...</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212121500 +0900" stop="20241212123000 +0900" channel="199.kt">
+  <programme start="20241212121400 +0900" stop="20241212123000 +0900" channel="199.kt">
     <title lang="ko">문화유산 미스토리</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -20104,7 +20010,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212133000 +0900" stop="20241212140000 +0900" channel="199.kt">
+  <programme start="20241212133000 +0900" stop="20241212141000 +0900" channel="199.kt">
     <title lang="ko">돌아온 불타는 그라운드</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -20112,7 +20018,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212140000 +0900" stop="20241212160000 +0900" channel="199.kt">
+  <programme start="20241212141000 +0900" stop="20241212160000 +0900" channel="199.kt">
     <title lang="ko">생방송 전국나눔노래자랑</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -20127,7 +20033,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212163000 +0900" stop="20241212170000 +0900" channel="199.kt">
+  <programme start="20241212163000 +0900" stop="20241212165800 +0900" channel="199.kt">
     <title lang="ko">LIVE. ON 시즌3</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -20135,14 +20041,14 @@
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212170000 +0900" stop="20241212171000 +0900" channel="199.kt">
+  <programme start="20241212165800 +0900" stop="20241212170500 +0900" channel="199.kt">
     <title lang="ko">국민 건강 댄스 체조</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212171000 +0900" stop="20241212173000 +0900" channel="199.kt">
+  <programme start="20241212170500 +0900" stop="20241212173000 +0900" channel="199.kt">
     <title lang="ko">이미지 문화 유산</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
@@ -20172,28 +20078,28 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212183000 +0900" stop="20241212190000 +0900" channel="199.kt">
+  <programme start="20241212183000 +0900" stop="20241212185900 +0900" channel="199.kt">
     <title lang="ko">한국사회복지협의회-복지TV 캠페인 지역 사회 공헌...</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212190000 +0900" stop="20241212200000 +0900" channel="199.kt">
+  <programme start="20241212185900 +0900" stop="20241212200000 +0900" channel="199.kt">
     <title lang="ko">오늘의 행복수업</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212200000 +0900" stop="20241212204000 +0900" channel="199.kt">
+  <programme start="20241212200000 +0900" stop="20241212203500 +0900" channel="199.kt">
     <title lang="ko">처음인사람</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212204000 +0900" stop="20241212210000 +0900" channel="199.kt">
+  <programme start="20241212203500 +0900" stop="20241212211000 +0900" channel="199.kt">
     <title lang="ko">추리 x파일</title>
     <category lang="ko">시사/다큐</category>
     <category lang="en">Documentary</category>
@@ -20201,7 +20107,7 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212210000 +0900" stop="20241212230000 +0900" channel="199.kt">
+  <programme start="20241212211000 +0900" stop="20241212230000 +0900" channel="199.kt">
     <title lang="ko">전국나눔노래자랑</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -20209,14 +20115,14 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212230000 +0900" stop="20241212230500 +0900" channel="199.kt">
+  <programme start="20241212230000 +0900" stop="20241212230900 +0900" channel="199.kt">
     <title lang="ko">웰페어브리핑</title>
     <category lang="ko">교양/정보</category>
     <rating system="KMRB">
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <programme start="20241212230500 +0900" stop="20241213000000 +0900" channel="199.kt">
+  <programme start="20241212230900 +0900" stop="20241213000000 +0900" channel="199.kt">
     <title lang="ko">복지TV TOP가요쇼</title>
     <category lang="ko">음악</category>
     <category lang="en">Music / Ballet / Dance</category>
@@ -22099,6 +22005,1567 @@
     <episode-num system="onscreen">1</episode-num>
     <rating system="KMRB">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211003500 +0900" stop="20241211015000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211015000 +0900" stop="20241211033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 (682회)</title>
+    <episode-num system="onscreen">682</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211033000 +0900" stop="20241211040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (42회)</title>
+    <episode-num system="onscreen">42</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211040500 +0900" stop="20241211044500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211044500 +0900" stop="20241211052500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211052500 +0900" stop="20241211060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211060000 +0900" stop="20241211073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211073000 +0900" stop="20241211081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (52회)</title>
+    <episode-num system="onscreen">52</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211081000 +0900" stop="20241211092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211092500 +0900" stop="20241211100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (42회)</title>
+    <episode-num system="onscreen">42</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211100000 +0900" stop="20241211104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211104000 +0900" stop="20241211112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (52회)</title>
+    <episode-num system="onscreen">52</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211112000 +0900" stop="20241211123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (15회)</title>
+    <episode-num system="onscreen">15</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211123500 +0900" stop="20241211124000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211124000 +0900" stop="20241211141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211141000 +0900" stop="20241211145000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211145000 +0900" stop="20241211152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211152500 +0900" stop="20241211164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211164000 +0900" stop="20241211170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211170000 +0900" stop="20241211181500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다 (28회)</title>
+    <episode-num system="onscreen">28</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211181500 +0900" stop="20241211192500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다 (29회)</title>
+    <episode-num system="onscreen">29</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211192500 +0900" stop="20241211203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">슈퍼맨이 돌아왔다 (550회)</title>
+    <episode-num system="onscreen">550</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211203500 +0900" stop="20241211211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (43회)</title>
+    <episode-num system="onscreen">43</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211211000 +0900" stop="20241211215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211215000 +0900" stop="20241211232000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 딴따라 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241211232000 +0900" stop="20241212005000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 인 스페인 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212005000 +0900" stop="20241212022000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑 (250회)</title>
+    <episode-num system="onscreen">250</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212022000 +0900" stop="20241212022500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212022500 +0900" stop="20241212032000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">중견만리 2024 (7회)</title>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212032000 +0900" stop="20241212035500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (43회)</title>
+    <episode-num system="onscreen">43</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212035500 +0900" stop="20241212043500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212043500 +0900" stop="20241212060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 인 스페인 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212060000 +0900" stop="20241212073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 딴따라 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212073000 +0900" stop="20241212081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (53회)</title>
+    <episode-num system="onscreen">53</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212081000 +0900" stop="20241212092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212092500 +0900" stop="20241212100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (43회)</title>
+    <episode-num system="onscreen">43</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212100000 +0900" stop="20241212104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212104000 +0900" stop="20241212112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (53회)</title>
+    <episode-num system="onscreen">53</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212112000 +0900" stop="20241212123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (16회)</title>
+    <episode-num system="onscreen">16</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212123500 +0900" stop="20241212140000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 딴따라 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212140000 +0900" stop="20241212152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 인 스페인 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212152500 +0900" stop="20241212164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212164000 +0900" stop="20241212170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212170000 +0900" stop="20241212181000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212181000 +0900" stop="20241212192000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212192000 +0900" stop="20241212203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">동물은 훌륭하다 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212203500 +0900" stop="20241212211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (44회)</title>
+    <episode-num system="onscreen">44</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212211000 +0900" stop="20241212215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212215000 +0900" stop="20241212230500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (13회)</title>
+    <episode-num system="onscreen">13</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241212230500 +0900" stop="20241213003500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">사장님 귀는 당나귀 귀 (282회)</title>
+    <episode-num system="onscreen">282</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213003500 +0900" stop="20241213005000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213005000 +0900" stop="20241213020000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213020000 +0900" stop="20241213031000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213031000 +0900" stop="20241213032500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">The Seasons W</title>
+    <sub-title lang="ko">이승윤</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213032500 +0900" stop="20241213033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213033000 +0900" stop="20241213040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (44회)</title>
+    <episode-num system="onscreen">44</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213040500 +0900" stop="20241213044500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213044500 +0900" stop="20241213060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (13회)</title>
+    <episode-num system="onscreen">13</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213060000 +0900" stop="20241213073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">사장님 귀는 당나귀 귀 (282회)</title>
+    <episode-num system="onscreen">282</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213073000 +0900" stop="20241213081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (54회)</title>
+    <episode-num system="onscreen">54</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213081000 +0900" stop="20241213092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213092500 +0900" stop="20241213100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (44회)</title>
+    <episode-num system="onscreen">44</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213100000 +0900" stop="20241213104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213104000 +0900" stop="20241213112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (54회)</title>
+    <episode-num system="onscreen">54</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213112000 +0900" stop="20241213123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (17회)</title>
+    <episode-num system="onscreen">17</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213123500 +0900" stop="20241213124000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213124000 +0900" stop="20241213141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">사장님 귀는 당나귀 귀 (282회)</title>
+    <episode-num system="onscreen">282</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213141000 +0900" stop="20241213152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (13회)</title>
+    <episode-num system="onscreen">13</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213152500 +0900" stop="20241213164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213164000 +0900" stop="20241213170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213170000 +0900" stop="20241213183000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">한.아세안 뮤직페스티벌</title>
+    <sub-title lang="ko">ROUND in Laos</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213183000 +0900" stop="20241213184500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">1부 - 인천국제공항</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213184500 +0900" stop="20241213190000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">2부 - 인천국제공항</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213190000 +0900" stop="20241213190500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">산들 - 뜨거운 안녕</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213190500 +0900" stop="20241213203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑 (250회)</title>
+    <episode-num system="onscreen">250</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213203500 +0900" stop="20241213211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (45회)</title>
+    <episode-num system="onscreen">45</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213211000 +0900" stop="20241213215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213215000 +0900" stop="20241213230500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (14회)</title>
+    <sub-title lang="ko">최종회</sub-title>
+    <episode-num system="onscreen">14</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241213230500 +0900" stop="20241214003500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 시즌즈 - 이영지의 레인보우 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214003500 +0900" stop="20241214004000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">정지소 x 케이 - 나는 나비</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214004000 +0900" stop="20241214015500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214015500 +0900" stop="20241214031000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214031000 +0900" stop="20241214032500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214032500 +0900" stop="20241214033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">스테이씨 - Cheeky Icy Thang</sub-title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214033000 +0900" stop="20241214040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (45회)</title>
+    <episode-num system="onscreen">45</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214040500 +0900" stop="20241214044500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214044500 +0900" stop="20241214060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (14회)</title>
+    <sub-title lang="ko">최종회</sub-title>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214060000 +0900" stop="20241214073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 시즌즈 - 이영지의 레인보우 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214073000 +0900" stop="20241214081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (55회)</title>
+    <episode-num system="onscreen">55</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214081000 +0900" stop="20241214091000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">중견만리 2024 (7회)</title>
+    <episode-num system="onscreen">7</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214091000 +0900" stop="20241214092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214092500 +0900" stop="20241214100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아! (45회)</title>
+    <episode-num system="onscreen">45</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214100000 +0900" stop="20241214104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214104000 +0900" stop="20241214112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이 (55회)</title>
+    <episode-num system="onscreen">55</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214112000 +0900" stop="20241214123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (18회)</title>
+    <episode-num system="onscreen">18</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214123500 +0900" stop="20241214124000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">산들 - 뜨거운 안녕</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214124000 +0900" stop="20241214141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 시즌즈 - 이영지의 레인보우 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214141000 +0900" stop="20241214152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (14회)</title>
+    <sub-title lang="ko">최종회</sub-title>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214152500 +0900" stop="20241214163000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">제45회 청룡영화상 시상식</title>
+    <sub-title lang="ko">1부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214163000 +0900" stop="20241214173500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">제45회 청룡영화상 시상식</title>
+    <sub-title lang="ko">2부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214173500 +0900" stop="20241214175000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214175000 +0900" stop="20241214191500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">사장님 귀는 당나귀 귀 (283회)</title>
+    <episode-num system="onscreen">283</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214191500 +0900" stop="20241214210000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 (683회)</title>
+    <episode-num system="onscreen">683</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214210000 +0900" stop="20241214221500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (19회)</title>
+    <episode-num system="onscreen">19</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214221500 +0900" stop="20241214225500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (3회)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214225500 +0900" stop="20241214233000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (3회)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241214233000 +0900" stop="20241215001000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215001000 +0900" stop="20241215004500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정 (4회)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215004500 +0900" stop="20241215012000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (1회)</title>
+    <sub-title lang="ko">첫회</sub-title>
+    <episode-num system="onscreen">1</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215012000 +0900" stop="20241215015500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (2회)</title>
+    <episode-num system="onscreen">2</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215015500 +0900" stop="20241215023000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215023000 +0900" stop="20241215030500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215030500 +0900" stop="20241215034000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임 (5회)</title>
+    <episode-num system="onscreen">5</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215034000 +0900" stop="20241215051000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">한.아세안 뮤직페스티벌</title>
+    <sub-title lang="ko">ROUND in Laos</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215051000 +0900" stop="20241215052500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">1부 - 인천국제공항</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215052500 +0900" stop="20241215054000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">2부 - 인천국제공항</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215054000 +0900" stop="20241215055500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215055500 +0900" stop="20241215060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">스테이씨 - Cheeky Icy Thang</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215060000 +0900" stop="20241215071500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (19회)</title>
+    <episode-num system="onscreen">19</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215071500 +0900" stop="20241215090000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 (683회)</title>
+    <episode-num system="onscreen">683</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215090000 +0900" stop="20241215101500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (3회)</title>
+    <episode-num system="onscreen">3</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215101500 +0900" stop="20241215113000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">김과장 (4회)</title>
+    <episode-num system="onscreen">4</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215113000 +0900" stop="20241215124500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (19회)</title>
+    <episode-num system="onscreen">19</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215124500 +0900" stop="20241215141500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">한.아세안 뮤직페스티벌</title>
+    <sub-title lang="ko">ROUND in Laos</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215141500 +0900" stop="20241215143000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">1부 - 인천국제공항</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215143000 +0900" stop="20241215144500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">마이 데이트립</title>
+    <sub-title lang="ko">2부 - 인천국제공항</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215144500 +0900" stop="20241215150000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">월드 클래스 K-DOL</title>
+    <sub-title lang="ko">- STAYC -</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215150000 +0900" stop="20241215163000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유 (10회)</title>
+    <episode-num system="onscreen">10</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215163000 +0900" stop="20241215180000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑 (250회)</title>
+    <episode-num system="onscreen">250</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215180000 +0900" stop="20241215180500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <sub-title lang="ko">산들 - 뜨거운 안녕</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215180500 +0900" stop="20241215194500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1박 2일 (252회)</title>
+    <episode-num system="onscreen">252</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215194500 +0900" stop="20241215210000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">슈퍼맨이 돌아왔다 (551회)</title>
+    <episode-num system="onscreen">551</episode-num>
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215210000 +0900" stop="20241215221500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리 (20회)</title>
+    <episode-num system="onscreen">20</episode-num>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215221500 +0900" stop="20241215233000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (13회)</title>
+    <episode-num system="onscreen">13</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241215233000 +0900" stop="20241216004500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뷰티풀 마인드 (14회)</title>
+    <sub-title lang="ko">최종회</sub-title>
+    <episode-num system="onscreen">14</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216004500 +0900" stop="20241216021000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">한.아세안 뮤직페스티벌</title>
+    <sub-title lang="ko">ROUND in Laos</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216021000 +0900" stop="20241216035000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1박 2일 (252회)</title>
+    <episode-num system="onscreen">252</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216035000 +0900" stop="20241216050500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">슈퍼맨이 돌아왔다 (551회)</title>
+    <episode-num system="onscreen">551</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216050500 +0900" stop="20241216060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">이웃집 찰스 (462회)</title>
+    <episode-num system="onscreen">462</episode-num>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216060000 +0900" stop="20241216071500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216071500 +0900" stop="20241216084000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 인 스페인</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216084000 +0900" stop="20241216095500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216095500 +0900" stop="20241216111000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216111000 +0900" stop="20241216125000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1박 2일</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216125000 +0900" stop="20241216140500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">슈퍼맨이 돌아왔다</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216140500 +0900" stop="20241216141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216141000 +0900" stop="20241216152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216152500 +0900" stop="20241216164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216164000 +0900" stop="20241216170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216170000 +0900" stop="20241216180000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">이웃집 찰스</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216180000 +0900" stop="20241216192500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216192500 +0900" stop="20241216203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216203500 +0900" stop="20241216211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216211000 +0900" stop="20241216215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216215000 +0900" stop="20241216223000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216223000 +0900" stop="20241216230500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241216230500 +0900" stop="20241217003500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217003500 +0900" stop="20241217015000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217015000 +0900" stop="20241217033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1박 2일</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217033000 +0900" stop="20241217040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217040500 +0900" stop="20241217044500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217044500 +0900" stop="20241217052500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217052500 +0900" stop="20241217060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217060000 +0900" stop="20241217073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217073000 +0900" stop="20241217081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217081000 +0900" stop="20241217092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217092500 +0900" stop="20241217100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217100000 +0900" stop="20241217104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217104000 +0900" stop="20241217112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217112000 +0900" stop="20241217123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217123500 +0900" stop="20241217124000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡 베스트</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217124000 +0900" stop="20241217141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">신상출시 편스토랑</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217141000 +0900" stop="20241217145000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217145000 +0900" stop="20241217152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217152500 +0900" stop="20241217164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217164000 +0900" stop="20241217170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217170000 +0900" stop="20241217180000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">중견만리 2024</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217180000 +0900" stop="20241217192500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 시즌즈 - 이영지의 레인보우</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217192500 +0900" stop="20241217203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">발칙하게 고고</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217203500 +0900" stop="20241217211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217211000 +0900" stop="20241217215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217215000 +0900" stop="20241217223000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217223000 +0900" stop="20241217230500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241217230500 +0900" stop="20241218003500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218003500 +0900" stop="20241218015000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218015000 +0900" stop="20241218033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">불후의 명곡</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218033000 +0900" stop="20241218040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218040500 +0900" stop="20241218044500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218044500 +0900" stop="20241218052500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218052500 +0900" stop="20241218060000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218060000 +0900" stop="20241218073000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218073000 +0900" stop="20241218081000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218081000 +0900" stop="20241218092500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218092500 +0900" stop="20241218100000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218100000 +0900" stop="20241218104000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218104000 +0900" stop="20241218112000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 2TV 일일드라마 피도 눈물도 없이</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218112000 +0900" stop="20241218123500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">주말드라마 다리미 패밀리</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218123500 +0900" stop="20241218124000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218124000 +0900" stop="20241218141000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">싱크로유</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218141000 +0900" stop="20241218145000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">1부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218145000 +0900" stop="20241218152500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">좀비탐정</title>
+    <sub-title lang="ko">2부</sub-title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218152500 +0900" stop="20241218164000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">대하드라마 고려 거란 전쟁</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218164000 +0900" stop="20241218170000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">KBS WORLD News Today</title>
+    <rating system="KMRB">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218170000 +0900" stop="20241218181500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218181500 +0900" stop="20241218192500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">앙코르 주말드라마 진짜가 나타났다</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218192500 +0900" stop="20241218203500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">슈퍼맨이 돌아왔다</title>
+    <previously-shown />
+    <rating system="KMRB">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218203500 +0900" stop="20241218211000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일연속극 결혼하자 맹꽁아!</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218211000 +0900" stop="20241218215000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">2TV 일일드라마 신데렐라 게임</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218215000 +0900" stop="20241218232000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">더 딴따라</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20241218232000 +0900" stop="20241219000000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 인 스페인</title>
+    <rating system="KMRB">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
 	<channel id="CCTV1">
