@@ -274,76 +274,87 @@
 			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
 		}
 	},
+	{
+		"group": "한국-종합편성",
+		"logo": "https://kenpark76.github.io/logo/투니버스.png",
+		"name": "투니버스",
+		"title": "투니버스",
+		"uris": ["https://tooni-mcdn.tving.com/tooni/live2000.smil/chunklist_b2128000.m3u8"],
+		"headers": {
+			"cookie": "CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly90b29uaS1tY2RuLnR2aW5nLmNvbS90b29uaS9saXZlMjAwMC5zbWlsKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzEwODA3M30sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_; CloudFront-Signature=FLqoWCyT9JC4HLShrqw6SVBqu60WJnEiwX6ZrWcoksXGVEfvgQph08zp4la6ukuW1yMGLn~-JYfEh~T-y3uMygMmKGuNsE5zpPRBQChfmk3YA0J8iXdZvvUsiLf1bp4r4DowGTDS-nLs02tY2nO8Lojn9RsXfxespXAjunbexCX8MutP4esMTDJoS7FZOFQjx4JKL710YPRLsiRnJe~BjlQrz14W9IOwmXb7n1n6GHNMR3e2ftRj5lBRTB1Fmw60TfxO7HbGh8i~N~2AizexWWbGDRXuw0ctC833T92I3wV9R3Bn-hmIfTyEY000PSe-yNg1V-xoRih5CJppz2-Spw__; ",
+			"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+		}
+	},
 
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS1.png",
 		"name": "KBS1",
 		"title": "KBS1",
-		"uris": ["https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1737194303&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzcxOTQzMDN9fX1dfQ__&Signature=kKeSVrYHWAqoQF61M8YE0Bi8-Px4Iez2SoomLYVYeeIA8U7eN4~44KwyKSd~E~lb8lMM-PnEeLcXUZ8HX1D1Vbu7lYkC0HLew9PODcVITWC8uft60aG9PSFj-hp4CnB~cgWc1PRPGRw~9S-QoSGM5m3ORWHib0I2ppLak7BevfPYtgga0o0vHaYEI1X0AMLM4IiQyJ42b85jVEvUA5BPdjfl0eOEeg~ZIreaj74NVR5kc-2ssm64-Y0RGPgp3P93uVL-F~Yedbf72FwOvLuk4xDEu4TFd7oRG1Is5oSlfhKe~O~9LJbsEGzFZisG-PXOpIOn8gTNsTQPCEmuI4IEEg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1737197964&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzcxOTc5NjR9fX1dfQ__&Signature=RCQFGO8HUG343bLVF0sqgqnKXIt0EP8g0F-PniTLAITu9gARqYbPWjbP79YOtfeFe0TzYtQAqv2cfhYqb9mlBgIwWN0T8nqswAPJKCNTSduc7IPC6J5z7XvkggweiB-a6OGiBG6JPrL~mQSIDzezKsKLZTGYmfOly2rGQdjApUajX5GqQxwRCp7A~mWLDNWlCAoJOchtUswR0tWsDqDVQCoSDgPZLQGVbSDvmmdnWqlVtwqTOyKFHo9uFdViJQ1owgzNrmR6lVO79kmXOIHdZKA9iwdy2ZzIY3rzDZCr8VMdoimys7ApzpZTdEcu~CW91fUWHl827fs~VChyd3cwDA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS2.png",
 		"name": "KBS2",
 		"title": "KBS2",
-		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1737194301&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzcxOTQzMDF9fX1dfQ__&Signature=n1UISeSNr9uDjm~FMEw~L7f-pQL7SJal~r2gkSKq5x539QHjR7os0VtCAZn1z2P~ORzGHlfcrrYYnc2UFzmgpu~PYmkT2u6ZyXA37u472hDB0LvppInoUdLrNKR-I1kGxcoJiDBhYkVDNNzb9ITSeqFqCJtz0drVvrd-46cqwhcYS~DCyAelpLwk6PGCtWUyOQTxEa-vQDjpbw0cghJA9SXdYr9nJM7a9qGGBFpbSKg1mrp8XVkObd4SolIJLubxusx174IF6YQbUMLjcdWR6dA-eK5vOAyDzneUox2eRtxs~V4Tq-0RDp3aMeazDtvDFq0ggpMzGtAo5LxJrivG9Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1737197975&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzcxOTc5NzV9fX1dfQ__&Signature=gWv3MYYoA4BYd38oHFIrYDRmGRNXDjqgI-1-8VqnJPmd0mosGF2LsGnqYqqYlvH7eWWbOewdPLVAEAUddmeVlwILNOXgBurlqI1eq6Zqezxr0YOuxx-YDKXQ4ULlzwhJBu4pljWwgwWZlihvMPEIPd9iyt3Z23vn2qvF3kfiFZ7~XG4K~5MsQ9xglpK6m6XqkadsHEBn1e14c2pbVEusQE4q7zKCUAxhy-tBNxspUGa6f7hRDNH47Z6s6oTw66FHL7O25PDr2ZLZHdNigCZBfCE7diiS3V5P-Ui6mMDV0Al7RdUVavwZJ-62qk-wxSbwJc~Vj18LYdbRnJL~6~UkNw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS Drama.png",
 		"name": "KBS Drama",
 		"title": "KBS Drama",
-		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1737187178&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE4NzE3OH19fV19&Signature=DPs3doOBhR5Ihb4fvXeUw2r3C-IROiPUeEIdxqEmig4s0DY-1WdEi3TbCTGQy5Mr5R0gqRw72RTHk~Z-FYPow7tuoEj9~YBZQmATAPM5CZq1YtrfQ~QMzxZTiMY~Q~WVuuWOBM9mZz9wXOlxOlxR-6oszEJp2Ef8MCqimvEcaE-N9JfJiDUt9y5Do~2abP9XZbtYlHXr5iFbhulqBWSylE4svqsEddQPoicKdMfhaxrHi3iFe9FAGoMGK-4b8sGQIGFsC0NVZ~jGqH3HPs-I-4GSiLLDRwX4gt3zbN9mhKFxiQ7PVGJA1lucgcDxvHrS8hvvWgaHK2iII7OnsBE32Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1737197981&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk4MX19fV19&Signature=Kn~-KqOxyfauC6RoVkr~nyVtr0qidy9nxHk3pL~ElnBBFtoE5R68ZgJltCDZPDU15cG6OIz5Yq8DU7YLD3d~8O3mkvFIy4o4KcRdMxfVJ1Qr3VpsI0sQYhqbtsyoBHktbw86Jnj5rRDqU2q~NJ3legjO8vNZkLN8O7~QgPhZI-6v5MS0E85b3b1i0XJXQHP3JsS9tmyoc~pDCrxQpWWwkLbMAVmj3-ZOcwiLHZR6-5JUraJaD1lZJbcbKnp8ddpiEBoYseNSRWsN0RGdrfJi4W8eR7LRnzkJB~T9EZtnzyJ0wEBpb4GxPt-SO6XC04jLR27i4rDQTm3celcdRnuvdw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS Joy.png",
 		"name": "KBS Joy",
 		"title": "KBS Joy",
-		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1737194344&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM0NH19fV19&Signature=B5rGqjotDUNTtqtLoQtERcxNu9MlAoQCHpHVxY0F8yxpr3S63PT9QwEL1vhoq1sszEdUomVvfJ-kr3Ta9SjLg0N0sYssdWoMf5XWaXhA9f79NV0R-n6yBYnd2pVlyFruHpDE2WE8b8fNjWJCum0Jfu2yZFPHRzBmF6DBf-w-IkHTvoXoOD7o9TLGwMaut9ycs8uhLmA1qbgBS8UD1R~B16meKq~o~zK1Nq4OPe1nJc7PFwlUTo1uvVTWPILXsgYmvo~ENQbxg~GGE6elhk51Vr~ONElnN5KZU~ayPbGocYQ3f6J4Yk8todRneO~iLn3MFiPCbl6nV63BHNF6ST8qMg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Expires=1737197945&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyL2tic25qb3ktMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk0NX19fV19&Signature=Z-lRKpOfrfhKejZPP4DyVB-MBLNz2hugbXTisBmls-urteTxyZZ3Iv9uy2rgeirXR1SSXPPVxGg-UWQ6~0G~-ZYL8HokQzPt1NHJnk~CcfhvrvYRpajtLNxEypjEASFsutd1VvX3MotI7sqdr~eaet0XfIWvg4zQTPel69SFAT8~YWTwRuvDKvrIZNZPi5rgTmpSR5iSHYQ7DDPngCeSuk5W4rv1hRcmGAmFIGnrDfNP8le2fNTkah3dv1Vw~ArD8zUnUGMRqgCPDQ6zccHyy2ZwwaDkwcBxvcS~HhBwLQGYbcUA6FuRWKKj3xWX3JPrMEVWnH-1KxHyy~x94hh9GA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS Kids.png",
 		"name": "KBS Kids",
 		"title": "KBS Kids",
-		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1737194388&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM4OH19fV19&Signature=EXWiChiAIDNqkfbh5cYfIEXGa3LFexZQ14efMk8kb613yXynS434dJo8smcVg~dv3ieHxuC7sI88pxbvD3BG3oZOQcnpExjJ5kJZV4ooyCoR2fohXBlkqzBkkzFSEbRX0ztSF6yHyAz~XU-xGFi5c7OcUn~nr-VsdjLqWCmS-ffMQ6nDjSLBYX97f0FqLNsUuim-kUSKreBV6SyyZTjsgqkAohIOjib~jrkV8uZ7giko5yWkweDAlK8geDCc0A2YwPMAc6zw72Ut3pQh6ZiOe6BSOFr~1igr1WUstG7B9wSW2ZWtkSN-qrhTTGOzSPsXR1XbD-S~fgqWENdl0ruXYg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Expires=1737197990&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIva2JzbmtpZHMtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk5MH19fV19&Signature=dK2iuTgbDXSFBuaow0vCSPToDhC7JL-Prcd6FRYYY0P~hfWKm-aql0fCW4wpmdLKCHEf4MeP4eb3BMEpRV~lxo8Sai4JK09KRg7jPZmzZNDk76-BOtXGPtH7JFACyXGb~C-lEwdkyqrnZyZMm-pDa9h-WpFTEQqrfgYE8aqamiFxyms6b0E9DDqSjNUbDCGr0PhYcrZoDzLH3RslzGEffth5TjGxc7hG5ucRBRr~RLgXN1glc47pzjXIohkyVT-hTKLHMEabRH7HWZmakwqcSS6pyKnytQAYhy~jFqI2dYb~VhJivE8MJ2FrPI25bZ2ycRBwysGwU2N40UCTOGqXmA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS LIFE.png",
 		"name": "KBS LIFE",
 		"title": "KBS LIFE",
-		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1737194383&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM4M319fV19&Signature=l-eoorJi5j8xhVVsrLHlFUwQB~WTV1-hMHHcIZgGZwi32wEc4OOxSWeC9cnWZpd3ksc36xkf8xtveYSugyd1CVpefc-ZhavcpzDJK2SM2Fzfag6DCOAjxHZWYk3AJWIlqlGnPgtgSBd43yvAm-3EmvTziQkRBmE7ineoQbI6JAyBmB2chRYGsQouTYotVrlydSU4N1f4o82lqzQwUzEVpktCwvP8Dt0GiUAuHe7bGBNRHBzTtC4HZurmDvPlbJHTFL5BNwNW9MtmIoTfEOxaQdLO8t8-nMD6RkkZ2DvY8Xri5Zsbj18wyhZ~Nf-pbEUmVvMav44~Qe6ODu0-U5xCHw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Expires=1737197984&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIva2JzbmxpZmUtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk4NH19fV19&Signature=mb6EyJJw1r2bs17lDK99g~Prsqvk342O-fNAiRUqtowQfK1AT8UlWs7b4mpz9Ju6E4ojiXCWTdJH0eufND51G1uSCIkjq3D7L5EIIL6KH1ZdaH5fd3DUgUxQ0q4w15wypng5H5tQI5bdSV3-oZDGQedsRCyrOKYLgJvnX7RQWV-0vtK~sE1cNHVCWUyhEqHnjkw09cZU-vgVFWIcB8cdGbxmTU743LkW0OgncPfem8sC~ieDU0dIMnTKLNUWqfem5mKkBSji1wNriCID3uW5N9KkDesf3Ia9SMFYaa8ddes3WPS7sVKyIDeqePZ0W4sXxiUHqrf9-A7edVeh5AHbNg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS Story.png",
 		"name": "KBS Story",
 		"title": "KBS Story",
-		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1737194385&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM4NX19fV19&Signature=He1p4RZG4PS1c3~q2gJaH~e8aCt3RqKc1Lcos00bA4UdewOJILaHAB8ncdZWi0PCtQ55oIQ9hIAAUGUJ0NU2fmX4e3dCez0Nyx8bSk9uZko14rCRezM0lArg7DE-rIym7AbPUr-HpPTfwGLxI9~~dFe3kl16cF9vxwUGEUElDnZns5leimEVl33Fkxeb0ayfBCuREiqDNju8lr1b1qF6yeFL-4Vo7-nONh3FcwR-Y6YLO1cjUCNa~pUCF3xOFXmo-1eggbeVm9DzAVpStGGqSqSUMmEyZi7jbPiGbEYKKNWTJDdKB2UpWgzEIYLb-KlCBG3mjsu7cI~frj6NQ5IOEQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Expires=1737197990&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIva2JzbnctMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk5MH19fV19&Signature=DTAWmCbXPFBVwIRNBRo8SjV4dZRAEbEnFb2NzWlwzpchV1i3NXFdO7hx6xJlFKDvAK5HFIkL8GK4b52gCm~E3Of2UwLNg-rDKleZUjwiGYiza8Atwg-qFtNF6PZSvTjmets2HjFkVjbtm~tpcjk-Uo1S7AQVj8T56uSGmnJjN2Ji3W4On5VGxfgYBeqyAdoXpbOPfWVaLZ5an7FSTyP5lIomy129qXDQ~~Gns4XR0w~A~9UCFPeYqR4wORBX8KWWdXQJUmgQDg8arKI8vbuYJAV-2FD64HSTc94xIim3Upk8hyUC5Gj3ptp7uZXaljV7iTZVQu3V-E78yVBGQ6RtfA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS WORLD.png",
 		"name": "KBS WORLD",
 		"title": "KBS WORLD",
-		"uris": ["https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1737194367&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM2N319fV19&Signature=BLRE77DSzi0P2VJ8xNgpuV~XS3~94gwcHTIuwg8Gi0Mjrs4nzCRXxh-1-s0d1cTDNT2GcwTTYyfnlEzzG3hicD7GFm0DA5TP3bo9rzUMnTa5SQMhm55cCJ~9qOG3Nazm4G0DgtAiLUGdXdQ~7~~sseT6LfUoQSfEgcuNQCmDfsN2o-2cVo6ssULKsyW37oxlDVvj2j82nPBC4e0ULa7kA0escE~ECDD3Zr8KOtl~pLrF39OTmERbLoB~0Gat2RjMC2xOCXtzMc-nmnI-IfsHSMM4BDPKBF8u7Ph4U4yOLW5IryGX3pFeRfGguI4w6HUMYGA7JmgjV-MHU3gFPE0lPA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Expires=1737197970&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvd29ybGQtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk3MH19fV19&Signature=JOhOK5rsVDvpziKZ-xtYXOh9YNyIRG5RJRZNy-~bAcVpBuJxyHKVjMbOhu887okdZaDetQXLsNBEE4RVbm6Qr-N9M-CCr77qvOiGFelvArCO4l~LQETnKDliqtCo3gTJnXb72ek0xguLKJCLS~4EXjJnRvUWrnY8kbRK1iUt8XzWGd9emy6UwVbwAwt2C2CnuZX8rWVOO9b1ElJWHzFCbicSlBUXZFeqPpqwGz9vEJAgny7kGTm6UPPc8E-k1mYyx-gcpD93t1aJmhbnvx1Y096VYRieVFL5BW-NzMW20Pej2mJe0mAH~V~~SOi7Dm44ZswnrC~Xp-m0L8m6K2aQyA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/KBS뉴스.png",
 		"name": "KBS뉴스",
 		"title": "KBS뉴스",
-		"uris": ["https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1737194359&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5NDM1OX19fV19&Signature=V1waP5WnRD9Ar9g-pfyUF5mSjukca3TOgW5SKorLVJpSAtaVScpF9Dcdw13OdZEUi6um76ZFQdokWpKlfgRQnSgn5mwZOAONfPO1lLRpZIHqDDZMs0HNzyMhfY0G47e1hqHt9wLAJQzhvrrUFS6AfuB4mSS6KVP~6YsGk-d-f8lk7ET2ujsFxi5lMB8FXY2XtKBRk8GzMf2u7xIomBDQ2aXinuPhEF9ByQ4C5rpAoDIVNr9INZSPhpXrkvBUlqX1woIgyg1d3dRrlcM28OjAUtVqxDcEmCifglrQ6DkPTsDrrdhm5JxRv7HM~MIPwh45P7hD4ZGyRn9j9mAD04k-mQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
+		"uris": ["https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1737197959&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzE5Nzk1OX19fV19&Signature=jCWj10Tqapamz2kEqO202f7GTTjtfAk0mCtmUpUfvgmDuvXRwfxjVvHPErBu4JCPR0JFFbyYvrbwz3EqmUoelO5kAzzExnrgNhPjxga2naeJWr-v0U28qK1DH1OiQPfmDb3bWHJDJIqzXct4sHQlOTwD-ln6RZLhdETsU6mA5ePOp1mXPBXujDfMWEzsorEwNuirBEHFMQprnDc-qcqgCKBvQhpBLqAT2-mdjai3r~ns-5UztqMWP7gAuh1HvYdIMhh5SWf9mYl9vLjmY6nUHFX-IOw2qCLcAfbjiTnoyniH4BU2XU093ueb2bow9TsFgSsHHH1XZkb12xiJzfbP7Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/SBS.png",
 		"name": "SBS",
 		"title": "SBS",
-		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMjg4MzksInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjM4OWU3NWJlLWQyMTMtNDI3Yy1iZGIxLTA0OWJjOWFjNGE2MiIsImlhdCI6MTczNzAyMTYzOX0.DNmLvU2fdxbaL82wyeZ5w2M-ypqx1-DtUOuRmqnNaus"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMzI0MzgsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjY5MWExYmI3LTU2MDQtNGIyMi1hNzQ3LWE5NjI1ZThjZDJlYiIsImlhdCI6MTczNzAyNTIzOH0.qagvmjE8Tkxwju3MqpGDDd0Nlq0SrGAgkUyP4Ypkhmg"]
 	},
 	{
 		"group": "한국-지상파",
@@ -357,70 +368,70 @@
 		"logo": "https://kenpark76.github.io/logo/SBS funE.png",
 		"name": "SBS funE",
 		"title": "SBS funE",
-		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMjg4NDksInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6ImNhOTE0OTEzLTczNzEtNDczZS05MzIxLWQ0MWM0MTdjYzkwNyIsImlhdCI6MTczNzAyMTY0OX0.2TKO0qTsySqaa0cpwJ4YZ1R6iIav2j-JFB0GgnI74Ns"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsetvpc/sbsetv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMzI0NTAsInBhdGgiOiIvc2JzZXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjAwOTRmOWQ4LTJmZDYtNGU0MS1hYmU5LTFiY2NhZTNmOWM0ZiIsImlhdCI6MTczNzAyNTI1MH0.ar711t17IB5ypGtMu4K3uVRhAAVpBjjfCR4y75riBp8"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/SBS M.png",
 		"name": "SBS M",
 		"title": "SBS M",
-		"uris": ["https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMjg4NTUsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjJlMzI2MDdhLWM2NzMtNGFjNi05ZmY0LWE3MjY2MzE4OTY5MCIsImlhdCI6MTczNzAyMTY1NX0.byrCDbYdYjHBS9bdWgczRBOgunEcAH8fxarTwAP0fW0"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsmtvpc/sbsmtv2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMzI0NTcsInBhdGgiOiIvc2JzbXR2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjFlNWJiZmFlLWRhZDItNDBkMS04MzMwLTUxN2NkZTMyMmY0MiIsImlhdCI6MTczNzAyNTI1N30.qBC_HJcUp0Nz0liKWqAiRynTcbAk3VANix_8EU0igPA"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/SBSGOLF.png",
 		"name": "SBSGOLF",
 		"title": "SBSGOLF",
-		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMjg4NTIsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiJkNmVkZTAzMC1lYTg1LTRlMWYtYmY5ZS1kZjg2NjZiZmM1MjYiLCJpYXQiOjE3MzcwMjE2NTJ9.JrdpBJpiDRidcBMgXwl3_PGMjEnL7bqm3U4G25o_XIc"]
+		"uris": ["https://tvlive.sbs.co.kr/sbsgolf/sbsgolf2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMzI0NTQsInBhdGgiOiIvc2JzZ29sZjIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI3ZjMyZmIzYy1kMDgyLTQ4YmUtOGExOC1jZDE5NzA1MDdkMzEiLCJpYXQiOjE3MzcwMjUyNTR9.xwuxFQXVUGESShJWbtSC2Wd-t6vWF1DdYif_Nn4E080"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/SBS Biz.png",
 		"name": "SBS Biz",
 		"title": "SBS Biz",
-		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMjg4NDUsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1ZmU1MGUxMS01Yzg3LTQyOGUtOGExZC00ZDZlM2JmMTUxOTAiLCJpYXQiOjE3MzcwMjE2NDV9.jSgzeo9YW6366PeJKqT0G6_1s-vUCgmlELy-Kf1Tsts"]
+		"uris": ["https://tvlive.sbs.co.kr/sbscnbc/sbscnbc2.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MzcwMzI0NDcsInBhdGgiOiIvc2JzY25iYzIuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1NTQ5MDNjZC1lZjE1LTRhM2EtYjI2ZC03MDM4MzMxN2YxNzQiLCJpYXQiOjE3MzcwMjUyNDd9.ATWEaiL8FqMv0584MfWfKH3XV0hX7N9hqT3EPEwv7zU"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC.png",
 		"name": "MBC",
 		"title": "MBC",
-		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6A91451153423954C744252736C14C4BB50B3B559808F2813E70CDa766D4381699a2C3693812C04790203AB193b5C1E2B5C53F86E6D02F0ACB636D6EB7CA01B145CE04697AD9A5B942E6676D7B40B61F46C3E547A0CC3FF966B24C44AFC5218130B1EDBF47560541FA319D757B786C583BB701FB049DAB80707CF5B447D6CC6F&v=3"]
+		"uris": ["https://ottlivesd.imbc.com/ottlive_sd/_definst_/ottlive_sd.stream/chunklist.m3u8?_lsu_sa_=6BE18019B3B236A4A347457638D1E144C5F935B58103C2BF3450A5a4F67D36E6D3a7C38E30421F42603B3121ADbDC1AB00EF2AF0AF78DBEE8760C459514D96CA6E8D749FDADCCF0A512A16454E4C7800A072435843414449F963515CEDC4A9DB60A96F2DC348A6B02080307E3513FFA889F24918EAA30E8DB11D6D2AD36A8AA9&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC Dramanet.png",
 		"name": "MBC Dramanet",
 		"title": "MBC Dramanet",
-		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=65B1CE1063CE38B4A54A25DA3CB1B245651A3CB5680882063D50DCaE8635320692a3F3923EB2BE42E074327191b331AE49B9E2FAB9C138081EC0F1AF6091BF58CAD632E611BAB57E1B2000D17EF1406E85D708F54BCCB143E0157452E3F61FE07298539C8CAC30DF75329FCFE2D3C5167BAC723F91F32B651924D62DAFA5B838&v=3"]
+		"uris": ["https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=62111319B35235A4D143955D3CF1CC41F55C3BF54E0F22D83450D3a506CC3386DDaB436F3392F148A07A348140b2B1E88A9668ACD4516E8077638D5F4689C19ABF748E8AD4979740064755D2C567DA469E5687A3EF450AD54907EAFB4295F7624EE22D0035CB32BB84216B2CFD9C0524CD217C4B6896A8FE1E35AE4A32CBEDD6&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC Every1.png",
 		"name": "MBC Every1",
 		"title": "MBC Every1",
-		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=65E12C1E03F73B241749F54B36911F44150D3CA5EF08C2903D90A6aDD6083576D9a0132E3522D44140F03FA1B9b35148F22ED15B72E84B50CF9FC35B9FC0A8461481A74E4D3D06709C013B7C47D65635174BA669F73C852B59451F564A944BC8C7F32125B39E98BAA5D8CFC06F41DF5BCB31BC4703405F9D06107E687AF9DC97&v=3"]
+		"uris": ["https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6D51291923203344B84BC5F43B612E4B452035259104024A355087aCD6ED34161Aa8D32937E2B44990D3370132b1211C4933F650E70B47E262549796644C1EAE0DE342E187BF1791BF0F9AA2ED23D2CCE5BE620D22C956AB146649117BE56511094AD71231868D39F5E50D057B1A5F92B1936147D8E00883A23FCF492E74ADD9&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC M.png",
 		"name": "MBC M",
 		"title": "MBC M",
-		"uris": ["https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6371361E531536B43A43F5C83111144345D93075030482B435B097a0663C300682aE23163732D14360BC38F1E8bED1CCC1535C632D577922716C675A21AD1E89D58F6A7DDD4D626ECB5092F1F4D357A7C9572D07DF34AD6C234B042CDD58CDD0DA64DB84184EDE0C98B3FFE162087A80&v=3"]
+		"uris": ["https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6621B010A33232546E4175FD3841E34D75E83395C80AF2A23DE0A3a476D83156D6aF433B3C52384E801236E1A7b8D1810240F71CB1972B25C7C55D83CDF4F69C323C21E620FFFB8C1E16C52BC5C0181157BCC5FDB5D9B495D02D50C0AAB585160848CC8F10EFB34759D6012124A086B4&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC ON.png",
 		"name": "MBC ON",
 		"title": "MBC ON",
-		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=61A1A91E230A3E645C4665F53851BD41751F39F5420132A33860D2a656653AB63Ea0138C3782BA4120AA370153b541F6A465797E8174C5429FE50D020E3297A6FABA3110B75FD715DEBC0CCF5A2F60ABFEB4E745EFC82ABEEC4742751EC9C1A0B8813DD5C0957BD874D82C1DD3AA4088CBEEEB2CB741F25CB9AD0EA7E93CAE3B&v=3"]
+		"uris": ["https://mbconottsd.imbc.com/plus_mbcon_sd/_definst_/mbcon_sd.stream/chunklist.m3u8?_lsu_sa_=6E41D11763EC38645844E5A73B417A4925F535D5A40592753220F0aAB6DD3836F2a7C3693192B448A097326145bEA17E0F9F70A261DEA3149C54120498E5D3C5D07E783C77B74D8D121D5847719FC9D1F1C2D504CD6903F01FDA384AD37C484B4BB3C4B2557719FB280D0DE3E362DB596D105D0B93625ACB6785E97A7FA71050&v=3"]
 	},
 	{
 		"group": "한국-지상파",
 		"logo": "https://kenpark76.github.io/logo/MBC NET.png",
 		"name": "MBC NET",
 		"title": "MBC NET",
-		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=66515C1F83323364FB4ED5143F91F640A5C433C59109E2933CE02FaC76FF312684aFA3843722334640843681E3bB21955D88849D96B91C343BBACADA431D2506830D44148FCBCC5ABB69CFDC50701E927992DC343E1E70AA30C246EAD9E2A6B40E630224B5EFE97B4ACD831AB4B0375A1E3A5C829493B1BE1FA4B9C4505A2E0C&v=3"]
+		"uris": ["https://m-mbcnetlive.imbc.com/mbcnet_onair/_definst_/mbcnet_500k.stream/chunklist.m3u8?_lsu_sa_=6301341FE30834947C4965C33CC13E4A65A03B65E30E52B13510D3a686493CD602aDD3913EE2264560D13CF159b751118B576AEF64D7A555E5115B1FBD5D40E7608822E6F45A960F0E8660A09FB1E5577C436F73AE42141CC2DE48E46428769422A2E8CC683420DBB259C75495D170A450A94D4EDB81E1A2BA2F08FFBE9CD774&v=3"]
 	},
 	{
 		"group": "한국-기타",
