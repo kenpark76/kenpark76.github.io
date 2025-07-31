@@ -171,9 +171,6 @@
   <channel id="214.kt">
     <display-name>TBS TV</display-name>
   </channel>
-  <channel id="177.lg">
-    <display-name>국민방송</display-name>
-  </channel>
   <channel id="179.lg">
     <display-name>방송대학TV</display-name>
   </channel>
@@ -192,25 +189,28 @@
   <programme start="20250731163000 +0900" stop="20250731183000 +0900" channel="C00551.tving">
     <title lang="ko">벌거벗은 세계사 (214회)</title>
     </programme>
-  <programme start="20250731183000 +0900" stop="20250731204000 +0900" channel="C00551.tving">
+  <programme start="20250731183000 +0900" stop="20250731204500 +0900" channel="C00551.tving">
     <title lang="ko">유 퀴즈 온 더 블럭 (304회)</title>
     </programme>
-  <programme start="20250731204000 +0900" stop="20250731224000 +0900" channel="C00551.tving">
+  <programme start="20250731204500 +0900" stop="20250731230000 +0900" channel="C00551.tving">
     <title lang="ko">핸썸가이즈 (34회)</title>
     </programme>
-  <programme start="20250731224000 +0900" stop="20250801005000 +0900" channel="C00551.tving">
+  <programme start="20250731230000 +0900" stop="20250801010500 +0900" channel="C00551.tving">
     <title lang="ko">[tvN 시네마] 극한직업</title>
     </programme>
-  <programme start="20250801005000 +0900" stop="20250801021000 +0900" channel="C00551.tving">
+  <programme start="20250801010500 +0900" stop="20250801022500 +0900" channel="C00551.tving">
     <title lang="ko">견우와 선녀 (11회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731122000 +0900" channel="C01582.tving">
+  <programme start="20250801022500 +0900" stop="20250801035000 +0900" channel="C00551.tving">
+    <title lang="ko">견우와 선녀 (12회)</title>
+    </programme>
+  <programme start="20250731113000 +0900" stop="20250731125000 +0900" channel="C01582.tving">
     <title lang="ko">이혼숙려캠프 스페셜 (47회)</title>
     </programme>
-  <programme start="20250731122000 +0900" stop="20250731134000 +0900" channel="C01582.tving">
+  <programme start="20250731125000 +0900" stop="20250731141000 +0900" channel="C01582.tving">
     <title lang="ko">톡파원 25시 (171회)</title>
     </programme>
-  <programme start="20250731134000 +0900" stop="20250731153000 +0900" channel="C01582.tving">
+  <programme start="20250731141000 +0900" stop="20250731153000 +0900" channel="C01582.tving">
     <title lang="ko">1호가 될 순 없어2 (10회)</title>
     </programme>
   <programme start="20250731153000 +0900" stop="20250731170000 +0900" channel="C01582.tving">
@@ -236,6 +236,9 @@
     </programme>
   <programme start="20250801013000 +0900" stop="20250801025000 +0900" channel="C01582.tving">
     <title lang="ko">아는 형님 스페셜 (492회)</title>
+    </programme>
+  <programme start="20250801025000 +0900" stop="20250801040000 +0900" channel="C01582.tving">
+    <title lang="ko">JTBC 스페셜 다큐멘터리 (4112회)</title>
     </programme>
   <programme start="20250731100000 +0900" stop="20250731125000 +0900" channel="C00579.tving">
     <title lang="ko">월드 오브 스트릿 우먼 파이터 (3회)</title>
@@ -264,8 +267,8 @@
   <programme start="20250801015000 +0900" stop="20250801023000 +0900" channel="C00579.tving">
     <title lang="ko">정용화의 LP ROOM (4회)</title>
     </programme>
-  <programme start="20250731101500 +0900" stop="20250731113500 +0900" channel="C01143.tving">
-    <title lang="ko">견우와 선녀 (11회)</title>
+  <programme start="20250801023000 +0900" stop="20250801033000 +0900" channel="C00579.tving">
+    <title lang="ko">Music Express (1230회)</title>
     </programme>
   <programme start="20250731113500 +0900" stop="20250731125500 +0900" channel="C01143.tving">
     <title lang="ko">견우와 선녀 (12회)</title>
@@ -320,12 +323,6 @@
     </programme>
   <programme start="20250801004500 +0900" stop="20250801030000 +0900" channel="C01141.tving">
     <title lang="ko">출장 십오야2: 스타쉽 가을 야유회 (1회)</title>
-    </programme>
-  <programme start="20250731105500 +0900" stop="20250731111900 +0900" channel="C06941.tving">
-    <title lang="ko">브레드 이발소 (10회)</title>
-    </programme>
-  <programme start="20250731111900 +0900" stop="20250731115300 +0900" channel="C06941.tving">
-    <title lang="ko">브레드 이발소 (11회)</title>
     </programme>
   <programme start="20250731115300 +0900" stop="20250731122000 +0900" channel="C06941.tving">
     <title lang="ko">신비아파트:고스트볼 ZERO (7회)</title>
@@ -444,8 +441,14 @@
   <programme start="20250801022400 +0900" stop="20250801025400 +0900" channel="C06941.tving">
     <title lang="ko">명탐정 코난 2023 (자막) (20회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="C00544.tving">
-    <title lang="ko">신소년 포청천 (6회)</title>
+  <programme start="20250801025400 +0900" stop="20250801031500 +0900" channel="C06941.tving">
+    <title lang="ko">원더풀 프리큐어! (5회)</title>
+    </programme>
+  <programme start="20250801031500 +0900" stop="20250801033500 +0900" channel="C06941.tving">
+    <title lang="ko">원더풀 프리큐어! (6회)</title>
+    </programme>
+  <programme start="20250801033500 +0900" stop="20250801040200 +0900" channel="C06941.tving">
+    <title lang="ko">원더풀 프리큐어! (7회)</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731130000 +0900" channel="C00544.tving">
     <title lang="ko">상사령 (21회)</title>
@@ -489,8 +492,8 @@
   <programme start="20250801013000 +0900" stop="20250801021000 +0900" channel="C00544.tving">
     <title lang="ko">바둑 초급완전정복 (14회)</title>
     </programme>
-  <programme start="20250731075000 +0900" stop="20250731113500 +0900" channel="C00593.tving">
-    <title lang="ko">뉴스UP</title>
+  <programme start="20250801021000 +0900" stop="20250801032000 +0900" channel="C00544.tving">
+    <title lang="ko">농심신라면배 세계바둑최강전 (25회)</title>
     </programme>
   <programme start="20250731113500 +0900" stop="20250731134000 +0900" channel="C00593.tving">
     <title lang="ko">뉴스특보</title>
@@ -522,8 +525,11 @@
   <programme start="20250801022000 +0900" stop="20250801025000 +0900" channel="C00593.tving">
     <title lang="ko">포커스NIGHT</title>
     </programme>
-  <programme start="20250731103000 +0900" stop="20250731114000 +0900" channel="C00708.tving">
-    <title lang="ko">프레스룸 LIVE</title>
+  <programme start="20250801025000 +0900" stop="20250801032000 +0900" channel="C00593.tving">
+    <title lang="ko">YTN 24</title>
+    </programme>
+  <programme start="20250801032000 +0900" stop="20250801035000 +0900" channel="C00593.tving">
+    <title lang="ko">사이언스 투데이</title>
     </programme>
   <programme start="20250731114000 +0900" stop="20250731121000 +0900" channel="C00708.tving">
     <title lang="ko">과할수록 좋아 (14회)</title>
@@ -567,8 +573,8 @@
   <programme start="20250801014000 +0900" stop="20250801023000 +0900" channel="C00708.tving">
     <title lang="ko">MBN 스페셜 다큐 얼론 생존게임 시즌10 (12회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="C01583.tving">
-    <title lang="ko">절친 토큐멘터리 4인용식탁 (97회)</title>
+  <programme start="20250801023000 +0900" stop="20250801033000 +0900" channel="C00708.tving">
+    <title lang="ko">MBN 스페셜 다큐 명물인생 시즌7 (1회)</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731131000 +0900" channel="C01583.tving">
     <title lang="ko">뉴스A LIVE</title>
@@ -612,8 +618,17 @@
   <programme start="20250801005000 +0900" stop="20250801020000 +0900" channel="C01583.tving">
     <title lang="ko">채널A 스페셜 도그하우스 호주 시즌3 (5회)</title>
     </programme>
-  <programme start="20250731103000 +0900" stop="20250731112000 +0900" channel="C01581.tving">
-    <title lang="ko">더 위대한 유산 (134회)</title>
+  <programme start="20250801020000 +0900" stop="20250801031000 +0900" channel="C01583.tving">
+    <title lang="ko">채널A 스페셜 도그하우스 호주 시즌3 (6회)</title>
+    </programme>
+  <programme start="20250801031000 +0900" stop="20250801034000 +0900" channel="C01583.tving">
+    <title lang="ko">채널A 스페셜 DIY 과학실험실 시즌5 (2회)</title>
+    </programme>
+  <programme start="20250801034000 +0900" stop="20250801035000 +0900" channel="C01583.tving">
+    <title lang="ko">채널A 화재 특보</title>
+    </programme>
+  <programme start="20250801035000 +0900" stop="20250801040000 +0900" channel="C01583.tving">
+    <title lang="ko">채널A 폭염 특보</title>
     </programme>
   <programme start="20250731112000 +0900" stop="20250731122000 +0900" channel="C01581.tving">
     <title lang="ko">건강한 집 2 특별판 (7회)</title>
@@ -650,9 +665,6 @@
     </programme>
   <programme start="20250801013000 +0900" stop="20250801023000 +0900" channel="C01581.tving">
     <title lang="ko">메디컬다큐 더 팩트 (1회)</title>
-    </programme>
-  <programme start="20250731093000 +0900" stop="20250731113500 +0900" channel="C01723.tving">
-    <title lang="ko">뉴스포커스</title>
     </programme>
   <programme start="20250731113500 +0900" stop="20250731134000 +0900" channel="C01723.tving">
     <title lang="ko">뉴스센터</title>
@@ -693,11 +705,8 @@
   <programme start="20250801023000 +0900" stop="20250801030000 +0900" channel="C01723.tving">
     <title lang="ko">투나잇 이슈</title>
     </programme>
-  <programme start="20250731105000 +0900" stop="20250731112000 +0900" channel="C00772.tving">
-    <title lang="ko">최고의 요리비결</title>
-    </programme>
-  <programme start="20250731112000 +0900" stop="20250731120000 +0900" channel="C00772.tving">
-    <title lang="ko">세계테마기행</title>
+  <programme start="20250801030000 +0900" stop="20250801034000 +0900" channel="C01723.tving">
+    <title lang="ko">뉴스 03</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="C00772.tving">
     <title lang="ko">EBS 뉴스 12</title>
@@ -780,9 +789,6 @@
   <programme start="20250801010500 +0900" stop="20250801011000 +0900" channel="C00772.tving">
     <title lang="ko">지식채널e</title>
     </programme>
-  <programme start="20250731102600 +0900" stop="20250731120400 +0900" channel="C00901.tving">
-    <title lang="ko">라바 아일랜드 무비</title>
-    </programme>
   <programme start="20250731120400 +0900" stop="20250731130500 +0900" channel="C00901.tving">
     <title lang="ko">라바 시즌3</title>
     </programme>
@@ -825,11 +831,8 @@
   <programme start="20250801015800 +0900" stop="20250801025400 +0900" channel="C00901.tving">
     <title lang="ko">음양회천 Re:버스</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731112900 +0900" channel="C15347.tving">
-    <title lang="ko">사이언스 투데이 (386회)</title>
-    </programme>
-  <programme start="20250731112900 +0900" stop="20250731120000 +0900" channel="C15347.tving">
-    <title lang="ko">황금 나침반 (489회)</title>
+  <programme start="20250801025400 +0900" stop="20250801035500 +0900" channel="C00901.tving">
+    <title lang="ko">유리!!! on ICE</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731123000 +0900" channel="C15347.tving">
     <title lang="ko">명물인생 S10 (13회)</title>
@@ -900,6 +903,12 @@
   <programme start="20250801023000 +0900" stop="20250801030000 +0900" channel="C15347.tving">
     <title lang="ko">브라보 K-사이언티스트</title>
     </programme>
+  <programme start="20250801030000 +0900" stop="20250801033000 +0900" channel="C15347.tving">
+    <title lang="ko">사이언스 투데이</title>
+    </programme>
+  <programme start="20250801033000 +0900" stop="20250801040000 +0900" channel="C15347.tving">
+    <title lang="ko">글로벌Y (30회)</title>
+    </programme>
   <programme start="20250731110000 +0900" stop="20250731121900 +0900" channel="C15741.tving">
     <title lang="ko">[도로 위 빌런] 한문철의 블랙박스 리뷰 (136회)</title>
     </programme>
@@ -933,8 +942,8 @@
   <programme start="20250801015300 +0900" stop="20250801022800 +0900" channel="C15741.tving">
     <title lang="ko">[자연인] 흙심인대호 (9회)</title>
     </programme>
-  <programme start="20250731100000 +0900" stop="20250731120000 +0900" channel="C00585.tving">
-    <title lang="ko">미스터트롯2 리플레이 (19회)</title>
+  <programme start="20250801022800 +0900" stop="20250801034600 +0900" channel="C15741.tving">
+    <title lang="ko">[숨어보는 명작] 놀아주는 여자 (15회)</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731133000 +0900" channel="C00585.tving">
     <title lang="ko">제철남자 (2회)</title>
@@ -959,6 +968,9 @@
     </programme>
   <programme start="20250801010000 +0900" stop="20250801024000 +0900" channel="C00585.tving">
     <title lang="ko">우리 아기가 태어났어요 (2회)</title>
+    </programme>
+  <programme start="20250801024000 +0900" stop="20250801035000 +0900" channel="C00585.tving">
+    <title lang="ko">트롯 뮤비 팡팡 (4회)</title>
     </programme>
   <programme start="20250731110000 +0900" stop="20250731124000 +0900" channel="C17141.tving">
     <title lang="ko">[장우혁 고민상담] 신랑수업 (172회)</title>
@@ -990,6 +1002,12 @@
   <programme start="20250801002000 +0900" stop="20250801015000 +0900" channel="C17141.tving">
     <title lang="ko">[악녀특집 : 고유정] 블랙: 악마를 보았다 (2회)</title>
     </programme>
+  <programme start="20250801015000 +0900" stop="20250801032000 +0900" channel="C17141.tving">
+    <title lang="ko">다시 뜨거워지고 싶은 애로부부 (71회)</title>
+    </programme>
+  <programme start="20250801032000 +0900" stop="20250801035000 +0900" channel="C17141.tving">
+    <title lang="ko">채널A 스페셜 공간의 기적: 작은집 프로젝트 (2회)</title>
+    </programme>
   <programme start="20250731110000 +0900" stop="20250731123000 +0900" channel="C17142.tving">
     <title lang="ko">알토란 (191회)</title>
     </programme>
@@ -1016,6 +1034,9 @@
     </programme>
   <programme start="20250731234000 +0900" stop="20250801011000 +0900" channel="C17142.tving">
     <title lang="ko">전현무계획 2 (39회)</title>
+    </programme>
+  <programme start="20250801011000 +0900" stop="20250801031000 +0900" channel="C17142.tving">
+    <title lang="ko">돌싱글즈 6 (8회)</title>
     </programme>
   <programme start="20250731110200 +0900" stop="20250731123100 +0900" channel="C17341.tving">
     <title lang="ko">꼬리에 꼬리를 무는 그날 이야기 (24회)</title>
@@ -1062,8 +1083,8 @@
   <programme start="20250801020000 +0900" stop="20250801030000 +0900" channel="C17341.tving">
     <title lang="ko">토크멘터리 전쟁사 (10회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731114000 +0900" channel="C01101.tving">
-    <title lang="ko">눈에 띄는 그녀들 7 (38회)</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="C17341.tving">
+    <title lang="ko">[히스토리 다큐 인사이드] 세상의 모든 미스터리 (66회)</title>
     </programme>
   <programme start="20250731114000 +0900" stop="20250731125000 +0900" channel="C01101.tving">
     <title lang="ko">식객 허영만의 백반기행 (196회)</title>
@@ -1116,8 +1137,8 @@
   <programme start="20250801020000 +0900" stop="20250801030000 +0900" channel="C01101.tving">
     <title lang="ko">테마 뉴전사</title>
     </programme>
-  <programme start="20250731103000 +0900" stop="20250731120000 +0900" channel="C04042.tving">
-    <title lang="ko">극장판 뽀로로 공룡섬 대모험</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="C01101.tving">
+    <title lang="ko">한국사 탐 3</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731122100 +0900" channel="C04042.tving">
     <title lang="ko">명탐정 코난10 (25회)</title>
@@ -1227,17 +1248,14 @@
   <programme start="20250801023100 +0900" stop="20250801025300 +0900" channel="C04042.tving">
     <title lang="ko">허니와 클로버(자막) (1회)</title>
     </programme>
-  <programme start="20250731110400 +0900" stop="20250731111600 +0900" channel="C05441.tving">
-    <title lang="ko">라바 인 뉴욕 (1회)</title>
+  <programme start="20250801025300 +0900" stop="20250801031600 +0900" channel="C04042.tving">
+    <title lang="ko">허니와 클로버(자막) (2회)</title>
     </programme>
-  <programme start="20250731111600 +0900" stop="20250731112700 +0900" channel="C05441.tving">
-    <title lang="ko">라바 인 뉴욕 (2회)</title>
+  <programme start="20250801031600 +0900" stop="20250801034100 +0900" channel="C04042.tving">
+    <title lang="ko">허니와 클로버(자막) (3회)</title>
     </programme>
-  <programme start="20250731112700 +0900" stop="20250731113900 +0900" channel="C05441.tving">
-    <title lang="ko">라바 인 뉴욕 (3회)</title>
-    </programme>
-  <programme start="20250731113900 +0900" stop="20250731120400 +0900" channel="C05441.tving">
-    <title lang="ko">라바 인 뉴욕 (4회)</title>
+  <programme start="20250801034100 +0900" stop="20250801040300 +0900" channel="C04042.tving">
+    <title lang="ko">레고 닌자고 (65회)</title>
     </programme>
   <programme start="20250731120400 +0900" stop="20250731122500 +0900" channel="C05441.tving">
     <title lang="ko">[자막] 이누야샤 5기 (3회)</title>
@@ -1320,8 +1338,11 @@
   <programme start="20250801023000 +0900" stop="20250801030000 +0900" channel="C05441.tving">
     <title lang="ko">[자막] 카드파이트!! 뱅가드 디바인즈 디럭스편 (11회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="C51263.tving">
-    <title lang="ko">지구촌 기상재난 (2회)</title>
+  <programme start="20250801030000 +0900" stop="20250801033000 +0900" channel="C05441.tving">
+    <title lang="ko">와츄 프리매직! (12회)</title>
+    </programme>
+  <programme start="20250801033000 +0900" stop="20250801040000 +0900" channel="C05441.tving">
+    <title lang="ko">와츄 프리매직! (13회)</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="C51263.tving">
     <title lang="ko">우리가 몰랐던 이야기 국회톺아보기 (25회)</title>
@@ -1383,8 +1404,8 @@
   <programme start="20250801013000 +0900" stop="20250801030000 +0900" channel="C51263.tving">
     <title lang="ko">한국기행</title>
     </programme>
-  <programme start="20250731102500 +0900" stop="20250731120500 +0900" channel="C51258.tving">
-    <title lang="ko">벌거벗은 한국사 (104회)</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="C51263.tving">
+    <title lang="ko">휴먼다큐 사노라면 (17회)</title>
     </programme>
   <programme start="20250731120500 +0900" stop="20250731140000 +0900" channel="C51258.tving">
     <title lang="ko">남겨서 뭐하게 (10회)</title>
@@ -1413,9 +1434,6 @@
   <programme start="20250801011500 +0900" stop="20250801024000 +0900" channel="C51258.tving">
     <title lang="ko">청춘기록 (13회)</title>
     </programme>
-  <programme start="20250731104300 +0900" stop="20250731115400 +0900" channel="C22041.tving">
-    <title lang="ko">[취재 노트] 아무도 몰랐던, 비하인드 (5회)</title>
-    </programme>
   <programme start="20250731115400 +0900" stop="20250731134200 +0900" channel="C22041.tving">
     <title lang="ko">[외국인 아니에요] 아는 형님 (492회)</title>
     </programme>
@@ -1443,8 +1461,8 @@
   <programme start="20250801002700 +0900" stop="20250801020100 +0900" channel="C22041.tving">
     <title lang="ko">[영범이랑] 한끼합쇼 (2회)</title>
     </programme>
-  <programme start="20250731104800 +0900" stop="20250731115700 +0900" channel="C00611.tving">
-    <title lang="ko">궁금한 이야기 Y (693회)</title>
+  <programme start="20250801020100 +0900" stop="20250801031800 +0900" channel="C22041.tving">
+    <title lang="ko">[여름 특집] 방구석 1열 (28회)</title>
     </programme>
   <programme start="20250731115700 +0900" stop="20250731130000 +0900" channel="C00611.tving">
     <title lang="ko">과학수사대 스모킹 건 시즌2 (19회)</title>
@@ -1476,8 +1494,8 @@
   <programme start="20250801003900 +0900" stop="20250801022000 +0900" channel="C00611.tving">
     <title lang="ko">탐정들의 영업비밀 (31회)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="5.kt">
-    <title lang="ko">궁금한 이야기 Y</title>
+  <programme start="20250801022000 +0900" stop="20250801034000 +0900" channel="C00611.tving">
+    <title lang="ko">풀어파일러 3 (1회)</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731124500 +0900" channel="5.kt">
     <title lang="ko">SBS 12 뉴스</title>
@@ -1520,9 +1538,6 @@
     </programme>
   <programme start="20250801002000 +0900" stop="20250801012000 +0900" channel="5.kt">
     <title lang="ko">문화가중계</title>
-    </programme>
-  <programme start="20250731103000 +0900" stop="20250731111000 +0900" channel="7.kt">
-    <title lang="ko">인간극장 스페셜</title>
     </programme>
   <programme start="20250731111000 +0900" stop="20250731122500 +0900" channel="7.kt">
     <title lang="ko">수목드라마 내 여자친구는 상남자</title>
@@ -1574,12 +1589,6 @@
     </programme>
   <programme start="20250801004500 +0900" stop="20250801005500 +0900" channel="7.kt">
     <title lang="ko">KBS 재난방송센터</title>
-    </programme>
-  <programme start="20250731100000 +0900" stop="20250731111000 +0900" channel="9.kt">
-    <title lang="ko">무엇이든 물어보세요</title>
-    </programme>
-  <programme start="20250731111000 +0900" stop="20250731120000 +0900" channel="9.kt">
-    <title lang="ko">사랑의 가족</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731130000 +0900" channel="9.kt">
     <title lang="ko">KBS 뉴스 12</title>
@@ -1644,11 +1653,8 @@
   <programme start="20250801015500 +0900" stop="20250801025000 +0900" channel="9.kt">
     <title lang="ko">걸어서 세계속으로 트래블홀릭</title>
     </programme>
-  <programme start="20250731104500 +0900" stop="20250731111500 +0900" channel="11.kt">
-    <title lang="ko">찾아가는 꾸러기교실</title>
-    </programme>
-  <programme start="20250731111500 +0900" stop="20250731120000 +0900" channel="11.kt">
-    <title lang="ko">건강의 재구성 썰록</title>
+  <programme start="20250801025000 +0900" stop="20250801034500 +0900" channel="9.kt">
+    <title lang="ko">무엇이든 물어보세요 스페셜</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731122500 +0900" channel="11.kt">
     <title lang="ko">12 MBC 뉴스</title>
@@ -1697,12 +1703,6 @@
     </programme>
   <programme start="20250801001500 +0900" stop="20250801013500 +0900" channel="11.kt">
     <title lang="ko">이유 있는 건축 공간여행자 스페셜</title>
-    </programme>
-  <programme start="20250731105000 +0900" stop="20250731112000 +0900" channel="13.kt">
-    <title lang="ko">최고의 요리비결</title>
-    </programme>
-  <programme start="20250731112000 +0900" stop="20250731120000 +0900" channel="13.kt">
-    <title lang="ko">세계테마기행</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="13.kt">
     <title lang="ko">EBS 뉴스 12</title>
@@ -1784,18 +1784,6 @@
     </programme>
   <programme start="20250801010500 +0900" stop="20250801011000 +0900" channel="13.kt">
     <title lang="ko">지식채널e</title>
-    </programme>
-  <programme start="20250731110000 +0900" stop="20250731111500 +0900" channel="95.kt">
-    <title lang="ko">여름방학생활 1학년</title>
-    </programme>
-  <programme start="20250731111500 +0900" stop="20250731113000 +0900" channel="95.kt">
-    <title lang="ko">여름방학생활 2학년</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731114500 +0900" channel="95.kt">
-    <title lang="ko">여름방학생활 3학년</title>
-    </programme>
-  <programme start="20250731114500 +0900" stop="20250731120000 +0900" channel="95.kt">
-    <title lang="ko">여름방학생활 4학년</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731123000 +0900" channel="95.kt">
     <title lang="ko">EBS 창의체험 탐구생활(1. 잘 먹고 잘 싸는 법)</title>
@@ -1896,8 +1884,8 @@
   <programme start="20250801001000 +0900" stop="20250801010000 +0900" channel="95.kt">
     <title lang="ko">인물사담회</title>
     </programme>
-  <programme start="20250731105100 +0900" stop="20250731115000 +0900" channel="31.kt">
-    <title lang="ko">전지적 참견 시점</title>
+  <programme start="20250801010000 +0900" stop="20250801033000 +0900" channel="95.kt">
+    <title lang="ko">방송시간이 아닙니다(6시부터 방송예정)</title>
     </programme>
   <programme start="20250731115000 +0900" stop="20250731133500 +0900" channel="31.kt">
     <title lang="ko">라디오스타</title>
@@ -1932,8 +1920,8 @@
   <programme start="20250801010900 +0900" stop="20250801025600 +0900" channel="31.kt">
     <title lang="ko">어서와 한국은 처음이지?</title>
     </programme>
-  <programme start="20250731095500 +0900" stop="20250731112500 +0900" channel="35.kt">
-    <title lang="ko">오래된 만남 추구</title>
+  <programme start="20250801025600 +0900" stop="20250801040400 +0900" channel="31.kt">
+    <title lang="ko">60분 드라마</title>
     </programme>
   <programme start="20250731112500 +0900" stop="20250731124000 +0900" channel="35.kt">
     <title lang="ko">크레이지 리치 코리안</title>
@@ -1971,8 +1959,8 @@
   <programme start="20250801013500 +0900" stop="20250801030000 +0900" channel="35.kt">
     <title lang="ko">신상출시 편스토랑</title>
     </programme>
-  <programme start="20250731095100 +0900" stop="20250731113700 +0900" channel="37.kt">
-    <title lang="ko">지구마불 세계여행 2</title>
+  <programme start="20250801030000 +0900" stop="20250801035500 +0900" channel="35.kt">
+    <title lang="ko">사장님 귀는 당나귀 귀</title>
     </programme>
   <programme start="20250731113700 +0900" stop="20250731132600 +0900" channel="37.kt">
     <title lang="ko">틈만나면</title>
@@ -1998,11 +1986,11 @@
   <programme start="20250731235700 +0900" stop="20250801012800 +0900" channel="37.kt">
     <title lang="ko">나는 SOLO, 그 후 사랑은 계속된다</title>
     </programme>
-  <programme start="20250731105200 +0900" stop="20250731113100 +0900" channel="80.kt">
-    <title lang="ko">압구정 백야</title>
+  <programme start="20250801012800 +0900" stop="20250801031400 +0900" channel="37.kt">
+    <title lang="ko">나는 SOLO</title>
     </programme>
-  <programme start="20250731113100 +0900" stop="20250731120000 +0900" channel="80.kt">
-    <title lang="ko">압구정 백야</title>
+  <programme start="20250801031400 +0900" stop="20250801040000 +0900" channel="37.kt">
+    <title lang="ko">TV 동물농장</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731122900 +0900" channel="80.kt">
     <title lang="ko">압구정 백야</title>
@@ -2051,9 +2039,6 @@
     </programme>
   <programme start="20250801014500 +0900" stop="20250801025000 +0900" channel="80.kt">
     <title lang="ko">출발! 비디오 여행</title>
-    </programme>
-  <programme start="20250731105500 +0900" stop="20250731113000 +0900" channel="83.kt">
-    <title lang="ko">여왕의 집</title>
     </programme>
   <programme start="20250731113000 +0900" stop="20250731121500 +0900" channel="83.kt">
     <title lang="ko">여왕의 집</title>
@@ -2106,8 +2091,8 @@
   <programme start="20250801015000 +0900" stop="20250801024500 +0900" channel="83.kt">
     <title lang="ko">한국인의 밥상</title>
     </programme>
-  <programme start="20250731100100 +0900" stop="20250731115100 +0900" channel="29.kt">
-    <title lang="ko">라디오스타</title>
+  <programme start="20250801024500 +0900" stop="20250801035500 +0900" channel="83.kt">
+    <title lang="ko">2TV 생생정보</title>
     </programme>
   <programme start="20250731115100 +0900" stop="20250731134500 +0900" channel="29.kt">
     <title lang="ko">히든 아이</title>
@@ -2132,6 +2117,9 @@
     </programme>
   <programme start="20250801002500 +0900" stop="20250801020300 +0900" channel="29.kt">
     <title lang="ko">오은영 리포트 결혼지옥</title>
+    </programme>
+  <programme start="20250801020300 +0900" stop="20250801034300 +0900" channel="29.kt">
+    <title lang="ko">히든 아이</title>
     </programme>
   <programme start="20250731105000 +0900" stop="20250731121500 +0900" channel="41.kt">
     <title lang="ko">1박 2일 시즌4</title>
@@ -2166,8 +2154,8 @@
   <programme start="20250801012000 +0900" stop="20250801025000 +0900" channel="41.kt">
     <title lang="ko">개그 콘서트</title>
     </programme>
-  <programme start="20250731094400 +0900" stop="20250731115800 +0900" channel="43.kt">
-    <title lang="ko">미운 우리 새끼</title>
+  <programme start="20250801025000 +0900" stop="20250801040000 +0900" channel="41.kt">
+    <title lang="ko">영화가 좋다</title>
     </programme>
   <programme start="20250731115800 +0900" stop="20250731135000 +0900" channel="43.kt">
     <title lang="ko">나는 SOLO</title>
@@ -2193,8 +2181,8 @@
   <programme start="20250801005300 +0900" stop="20250801021600 +0900" channel="43.kt">
     <title lang="ko">신발 벗고 돌싱포맨</title>
     </programme>
-  <programme start="20250731094600 +0900" stop="20250731111000 +0900" channel="66.kt">
-    <title lang="ko">신발 벗고 돌싱포맨</title>
+  <programme start="20250801021600 +0900" stop="20250801040000 +0900" channel="43.kt">
+    <title lang="ko">골 때리는 그녀들</title>
     </programme>
   <programme start="20250731111000 +0900" stop="20250731122600 +0900" channel="66.kt">
     <title lang="ko">접속! 무비월드</title>
@@ -2232,6 +2220,9 @@
   <programme start="20250801014800 +0900" stop="20250801030200 +0900" channel="66.kt">
     <title lang="ko">TV 동물농장</title>
     </programme>
+  <programme start="20250801030200 +0900" stop="20250801040000 +0900" channel="66.kt">
+    <title lang="ko">평생동안</title>
+    </programme>
   <programme start="20250731110500 +0900" stop="20250731122500 +0900" channel="136.kt">
     <title lang="ko">TV 동물농장</title>
     </programme>
@@ -2268,8 +2259,8 @@
   <programme start="20250801014500 +0900" stop="20250801025500 +0900" channel="136.kt">
     <title lang="ko">청춘 스튜디오</title>
     </programme>
-  <programme start="20250731105800 +0900" stop="20250731113800 +0900" channel="137.kt">
-    <title lang="ko">내일도 승리</title>
+  <programme start="20250801025500 +0900" stop="20250801040000 +0900" channel="136.kt">
+    <title lang="ko">김석훈의 어!여기봐라</title>
     </programme>
   <programme start="20250731113800 +0900" stop="20250731121900 +0900" channel="137.kt">
     <title lang="ko">내 손을 잡아</title>
@@ -2307,6 +2298,9 @@
   <programme start="20250801005100 +0900" stop="20250801022900 +0900" channel="137.kt">
     <title lang="ko">히든아이</title>
     </programme>
+  <programme start="20250801022900 +0900" stop="20250801040200 +0900" channel="137.kt">
+    <title lang="ko">푹 쉬면 다행이야</title>
+    </programme>
   <programme start="20250731110000 +0900" stop="20250731140000 +0900" channel="57.kt">
     <title lang="ko">2025 KLPGA 오로라월드 레이디스 챔피언십(강원도 ...</title>
     </programme>
@@ -2328,11 +2322,11 @@
   <programme start="20250731233000 +0900" stop="20250801020000 +0900" channel="57.kt">
     <title lang="ko">2025 KLPGA 오로라월드 레이디스 챔피언십</title>
     </programme>
-  <programme start="20250731105500 +0900" stop="20250731112500 +0900" channel="984.kt">
-    <title lang="ko">2024 KBS배 레슬링대회</title>
+  <programme start="20250801020000 +0900" stop="20250801034500 +0900" channel="57.kt">
+    <title lang="ko">KLPGA 2025 솔라고 점프투어</title>
     </programme>
-  <programme start="20250731112500 +0900" stop="20250731115500 +0900" channel="984.kt">
-    <title lang="ko">2023 KBS 청소년 볼링 챔피언십</title>
+  <programme start="20250801034500 +0900" stop="20250801040000 +0900" channel="57.kt">
+    <title lang="ko">미쓰 제로</title>
     </programme>
   <programme start="20250731115500 +0900" stop="20250731122500 +0900" channel="984.kt">
     <title lang="ko">베이블레이드X 시즌2</title>
@@ -2472,11 +2466,8 @@
   <programme start="20250801024000 +0900" stop="20250801030000 +0900" channel="984.kt">
     <title lang="ko">TV동화 행복한세상</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731113000 +0900" channel="971.kt">
-    <title lang="ko">MY GRAMMAR COACH 기초편-전문항</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731120000 +0900" channel="971.kt">
-    <title lang="ko">필독 중학 국어 문법</title>
+  <programme start="20250801030000 +0900" stop="20250801040500 +0900" channel="984.kt">
+    <title lang="ko">걸어서 세계속으로</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="971.kt">
     <title lang="ko">파닉스 팩토리</title>
@@ -2577,8 +2568,8 @@
   <programme start="20250801004000 +0900" stop="20250801010000 +0900" channel="971.kt">
     <title lang="ko">All in One 중학영어 시즌2</title>
     </programme>
-  <programme start="20250731103000 +0900" stop="20250731112000 +0900" channel="972.kt">
-    <title lang="ko">[2026 수능완성] 정승익의 수능 갈라 마스터-핵심요약</title>
+  <programme start="20250801010000 +0900" stop="20250801040000 +0900" channel="971.kt">
+    <title lang="ko">방송 시간이 아닙니다(7시부터 방송예정)</title>
     </programme>
   <programme start="20250731112000 +0900" stop="20250731121000 +0900" channel="972.kt">
     <title lang="ko">[2026 수능완성] 손은정의 화학II-전 문항</title>
@@ -2646,17 +2637,11 @@
   <programme start="20250801024500 +0900" stop="20250801025000 +0900" channel="972.kt">
     <title lang="ko">지식채널e(2)</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731111500 +0900" channel="973.kt">
-    <title lang="ko">EBSe 초등 4학년 영어</title>
+  <programme start="20250801025000 +0900" stop="20250801031000 +0900" channel="972.kt">
+    <title lang="ko">클래스 e</title>
     </programme>
-  <programme start="20250731111500 +0900" stop="20250731113000 +0900" channel="973.kt">
-    <title lang="ko">EBSe 교과서 영어 초등 5학년(YBM-최)</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731114500 +0900" channel="973.kt">
-    <title lang="ko">EBSe 교과서 영어 초등 6학년(YBM-최)</title>
-    </programme>
-  <programme start="20250731114500 +0900" stop="20250731120000 +0900" channel="973.kt">
-    <title lang="ko">영어에 반하다@초등4</title>
+  <programme start="20250801031000 +0900" stop="20250801032000 +0900" channel="972.kt">
+    <title lang="ko">Talk Talk AI</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121500 +0900" channel="973.kt">
     <title lang="ko">영어에 반하다@초등5</title>
@@ -2832,8 +2817,11 @@
   <programme start="20250801012500 +0900" stop="20250801023500 +0900" channel="158.kt">
     <title lang="ko">위기탈출 넘버원</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="164.kt">
-    <title lang="ko">어영차 바다야</title>
+  <programme start="20250801023500 +0900" stop="20250801033000 +0900" channel="158.kt">
+    <title lang="ko">표리부동</title>
+    </programme>
+  <programme start="20250801033000 +0900" stop="20250801040000 +0900" channel="158.kt">
+    <title lang="ko">불편해도 괜찮아 2</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731130000 +0900" channel="164.kt">
     <title lang="ko">어영차 바다야</title>
@@ -2871,11 +2859,8 @@
   <programme start="20250801020000 +0900" stop="20250801030000 +0900" channel="164.kt">
     <title lang="ko">시민의 품격</title>
     </programme>
-  <programme start="20250731100000 +0900" stop="20250731113000 +0900" channel="25.kt">
-    <title lang="ko">[파월, 기준금리 언제쯤 내릴까?]용감한 토크쇼 직설</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731120500 +0900" channel="25.kt">
-    <title lang="ko">SBS Biz NEWS 11</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="164.kt">
+    <title lang="ko">오 마이 싱어</title>
     </programme>
   <programme start="20250731120500 +0900" stop="20250731130000 +0900" channel="25.kt">
     <title lang="ko">순간포착 세상에 이런일이</title>
@@ -2928,14 +2913,11 @@
   <programme start="20250801013000 +0900" stop="20250801023000 +0900" channel="25.kt">
     <title lang="ko">금융과 재테크-투자리포트 주식의 발견</title>
     </programme>
-  <programme start="20250731100000 +0900" stop="20250731113000 +0900" channel="64.kt">
-    <title lang="ko">생방송 대한민국</title>
+  <programme start="20250801023000 +0900" stop="20250801033000 +0900" channel="25.kt">
+    <title lang="ko">[파월, 기준금리 언제쯤 내릴까?]용감한 토크쇼 직설</title>
     </programme>
-  <programme start="20250731113000 +0900" stop="20250731120000 +0900" channel="64.kt">
-    <title lang="ko">휴먼다큐 시장 사람들</title>
-    </programme>
-  <programme start="20250731120000 +0900" stop="20250731120500 +0900" channel="64.kt">
-    <title lang="ko">다시보는 대한늬우스</title>
+  <programme start="20250801033000 +0900" stop="20250801040000 +0900" channel="25.kt">
+    <title lang="ko">뉴스 톺아보기</title>
     </programme>
   <programme start="20250731120500 +0900" stop="20250731121000 +0900" channel="64.kt">
     <title lang="ko">가고 싶은 곳 영상미학</title>
@@ -3012,8 +2994,8 @@
   <programme start="20250801021500 +0900" stop="20250801025000 +0900" channel="64.kt">
     <title lang="ko">인간극장</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="65.kt">
-    <title lang="ko">지구촌 기상재난</title>
+  <programme start="20250801025000 +0900" stop="20250801034000 +0900" channel="64.kt">
+    <title lang="ko">공감다큐 러빙</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="65.kt">
     <title lang="ko">우리가 몰랐던 이야기 국회톺아보기</title>
@@ -3075,8 +3057,8 @@
   <programme start="20250801013000 +0900" stop="20250801030000 +0900" channel="65.kt">
     <title lang="ko">한국기행</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="166.kt">
-    <title lang="ko">CULTURE CRUNCH</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="65.kt">
+    <title lang="ko">휴먼다큐 사노라면</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731121000 +0900" channel="166.kt">
     <title lang="ko">1DAY 1KOREA: K-FOOD</title>
@@ -3189,11 +3171,14 @@
   <programme start="20250801023000 +0900" stop="20250801030000 +0900" channel="166.kt">
     <title lang="ko">WITHIN THE FRAME</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731113000 +0900" channel="199.kt">
-    <title lang="ko">댄스타그램</title>
+  <programme start="20250801030000 +0900" stop="20250801033000 +0900" channel="166.kt">
+    <title lang="ko">DISCOVER WORLD</title>
     </programme>
-  <programme start="20250731113000 +0900" stop="20250731120000 +0900" channel="199.kt">
-    <title lang="ko">장애인 건강 UP</title>
+  <programme start="20250801033000 +0900" stop="20250801035000 +0900" channel="166.kt">
+    <title lang="ko">1DAY 1K-CULTURE: K-STAGE</title>
+    </programme>
+  <programme start="20250801035000 +0900" stop="20250801040000 +0900" channel="166.kt">
+    <title lang="ko">K-SPORTS UNLOCKED</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731123000 +0900" channel="199.kt">
     <title lang="ko">2025 시청자 이슈 &lt;함께하는 세상&gt;</title>
@@ -3276,11 +3261,8 @@
   <programme start="20250801023000 +0900" stop="20250801030000 +0900" channel="199.kt">
     <title lang="ko">이미지 문화 유산</title>
     </programme>
-  <programme start="20250731110000 +0900" stop="20250731113000 +0900" channel="214.kt">
-    <title lang="ko">알레나와 함께하는 세계여행 시즌4</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731120000 +0900" channel="214.kt">
-    <title lang="ko">알레나와 함께하는 세계여행 시즌4</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="199.kt">
+    <title lang="ko">휴먼다큐 마냥 이쁜 우리맘</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731130000 +0900" channel="214.kt">
     <title lang="ko">TBS 영상아카이브 "한강의 기록"</title>
@@ -3348,92 +3330,8 @@
   <programme start="20250801020000 +0900" stop="20250801030000 +0900" channel="214.kt">
     <title lang="ko">시민영상 특이점</title>
     </programme>
-  <programme start="20250731100000 +0900" stop="20250731113000 +0900" channel="177.lg">
-    <title lang="ko">생방송 대한민국 (1853회)</title>
-    </programme>
-  <programme start="20250731113000 +0900" stop="20250731120000 +0900" channel="177.lg">
-    <title lang="ko">휴먼다큐 시장 사람들 [강진오감통시장(강진읍시장)</title>
-    </programme>
-  <programme start="20250731120000 +0900" stop="20250731120500 +0900" channel="177.lg">
-    <title lang="ko">다시보는 대한늬우스</title>
-    </programme>
-  <programme start="20250731120500 +0900" stop="20250731121000 +0900" channel="177.lg">
-    <title lang="ko">가고 싶은 곳 영상미학 (7회)</title>
-    </programme>
-  <programme start="20250731121000 +0900" stop="20250731130000 +0900" channel="177.lg">
-    <title lang="ko">식객 허영만의 백반기행 (55회)</title>
-    </programme>
-  <programme start="20250731130000 +0900" stop="20250731135000 +0900" channel="177.lg">
-    <title lang="ko">생방송 정책앤이슈 (625회)</title>
-    </programme>
-  <programme start="20250731135000 +0900" stop="20250731140000 +0900" channel="177.lg">
-    <title lang="ko">KTV 뉴스 (222회)</title>
-    </programme>
-  <programme start="20250731140000 +0900" stop="20250731150000 +0900" channel="177.lg">
-    <title lang="ko">휴먼다큐 사노라면 (157회)</title>
-    </programme>
-  <programme start="20250731150000 +0900" stop="20250731155000 +0900" channel="177.lg">
-    <title lang="ko">생방송 글로벌 인사이트 (89회)</title>
-    </programme>
-  <programme start="20250731155000 +0900" stop="20250731160000 +0900" channel="177.lg">
-    <title lang="ko">정책 바로보기 (694회)</title>
-    </programme>
-  <programme start="20250731160000 +0900" stop="20250731163000 +0900" channel="177.lg">
-    <title lang="ko">귀농다큐 살어리랏다 (355회)</title>
-    </programme>
-  <programme start="20250731163000 +0900" stop="20250731173000 +0900" channel="177.lg">
-    <title lang="ko">생방송 대한민국 (1870회)</title>
-    </programme>
-  <programme start="20250731173000 +0900" stop="20250731182000 +0900" channel="177.lg">
-    <title lang="ko">생방송 정책앤이슈 (625회)</title>
-    </programme>
-  <programme start="20250731182000 +0900" stop="20250731183000 +0900" channel="177.lg">
-    <title lang="ko">가고 싶은 곳 영상미학 (6회)</title>
-    </programme>
-  <programme start="20250731183000 +0900" stop="20250731190000 +0900" channel="177.lg">
-    <title lang="ko">휴먼다큐 시장 사람들 (264회)</title>
-    </programme>
-  <programme start="20250731190000 +0900" stop="20250731194000 +0900" channel="177.lg">
-    <title lang="ko">KTV 대한뉴스 (1763회)</title>
-    </programme>
-  <programme start="20250731194000 +0900" stop="20250731201000 +0900" channel="177.lg">
-    <title lang="ko">와우 코리아 외인9단 (5회)</title>
-    </programme>
-  <programme start="20250731201000 +0900" stop="20250731204000 +0900" channel="177.lg">
-    <title lang="ko">여행의 향기 (14회)</title>
-    </programme>
-  <programme start="20250731204000 +0900" stop="20250731211000 +0900" channel="177.lg">
-    <title lang="ko">국악 우리가 잇다 (74회)</title>
-    </programme>
-  <programme start="20250731211000 +0900" stop="20250731220000 +0900" channel="177.lg">
-    <title lang="ko">식객 허영만의 백반기행 (55회)</title>
-    </programme>
-  <programme start="20250731220000 +0900" stop="20250731224000 +0900" channel="177.lg">
-    <title lang="ko">KTV 대한뉴스 (1763회)</title>
-    </programme>
-  <programme start="20250731224000 +0900" stop="20250731234000 +0900" channel="177.lg">
-    <title lang="ko">휴먼다큐 사노라면 (157회)</title>
-    </programme>
-  <programme start="20250731234000 +0900" stop="20250801001000 +0900" channel="177.lg">
-    <title lang="ko">휴먼다큐 시장 사람들 (254회)</title>
-    </programme>
-  <programme start="20250801001000 +0900" stop="20250801004000 +0900" channel="177.lg">
-    <title lang="ko">인간극장 (841회)</title>
-    </programme>
-  <programme start="20250801004000 +0900" stop="20250801011500 +0900" channel="177.lg">
-    <title lang="ko">인간극장 (842회)</title>
-    </programme>
-  <programme start="20250801011500 +0900" stop="20250801014500 +0900" channel="177.lg">
-    <title lang="ko">인간극장 (843회)</title>
-    </programme>
-  <programme start="20250801014500 +0900" stop="20250801021500 +0900" channel="177.lg">
-    <title lang="ko">인간극장 (844회)</title>
-    </programme>
-  <programme start="20250801021500 +0900" stop="20250801025000 +0900" channel="177.lg">
-    <title lang="ko">인간극장 (845회)</title>
-    </programme>
-  <programme start="20250731110000 +0900" stop="20250731120000 +0900" channel="179.lg">
-    <title lang="ko">초청강연 방송대인 (3회)</title>
+  <programme start="20250801030000 +0900" stop="20250801034000 +0900" channel="214.kt">
+    <title lang="ko">서울 마블 스페셜</title>
     </programme>
   <programme start="20250731120000 +0900" stop="20250731130000 +0900" channel="179.lg">
     <title lang="ko">우리말의 역사 (14회)</title>
@@ -3486,8 +3384,8 @@
   <programme start="20250801020000 +0900" stop="20250801030000 +0900" channel="179.lg">
     <title lang="ko">사회복지실천론 (14회)</title>
     </programme>
-  <programme start="20250731104000 +0900" stop="20250731112000 +0900" channel="케이블 KBS WORLD.daum">
-    <title lang="ko">앙코르 2TV 일일드라마 신데렐라 게임 (11회)</title>
+  <programme start="20250801030000 +0900" stop="20250801040000 +0900" channel="179.lg">
+    <title lang="ko">간호윤리와 법 (14회)</title>
     </programme>
   <programme start="20250731112000 +0900" stop="20250731123500 +0900" channel="케이블 KBS WORLD.daum">
     <title lang="ko">주말드라마 독수리 5형제를 부탁해! (46회)</title>
@@ -3540,15 +3438,21 @@
   <programme start="20250801004000 +0900" stop="20250801015500 +0900" channel="케이블 KBS WORLD.daum">
     <title lang="ko">남주의 첫날밤을 가져버렸다 (5회)</title>
     </programme>
+  <programme start="20250801015500 +0900" stop="20250801031000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">남주의 첫날밤을 가져버렸다 (6회)</title>
+    </programme>
+  <programme start="20250801031000 +0900" stop="20250801032500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">나라는 가수 미니앨범</title>
+    </programme>
+  <programme start="20250801032500 +0900" stop="20250801033000 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">뮤직뱅크 K차트</title>
+    </programme>
+  <programme start="20250801033000 +0900" stop="20250801040500 +0900" channel="케이블 KBS WORLD.daum">
+    <title lang="ko">1TV 일일드라마 대운을 잡아라 (71회)</title>
+    </programme>
   <channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
-	<programme channel="CCTV1" start="20250731092200 +0800" stop="20250731101200 +0800">
-		<title lang="zh">扫毒风暴第32集</title>
-	</programme>
-	<programme channel="CCTV1" start="20250731101200 +0800" stop="20250731110500 +0800">
-		<title lang="zh">扫毒风暴第33集</title>
-	</programme>
 	<programme channel="CCTV1" start="20250731110500 +0800" stop="20250731115400 +0800">
 		<title lang="zh">蛮好的人生第1集</title>
 	</programme>
@@ -3618,9 +3522,6 @@
 	<channel id="CCTV3">
 		<display-name lang="zh">CCTV3</display-name>
 	</channel>
-	<programme channel="CCTV3" start="20250731090600 +0800" stop="20250731101300 +0800">
-		<title lang="zh">非常6+1-2025-16萌娃问天下16</title>
-	</programme>
 	<programme channel="CCTV3" start="20250731101300 +0800" stop="20250731113400 +0800">
 		<title lang="zh">星光大道-2025-29（这一站星光22）</title>
 	</programme>
@@ -3663,12 +3564,6 @@
 	<channel id="CCTV4">
 		<display-name lang="zh">CCTV4</display-name>
 	</channel>
-	<programme channel="CCTV4" start="20250731095300 +0800" stop="20250731102300 +0800">
-		<title lang="zh">国家记忆-2024-43</title>
-	</programme>
-	<programme channel="CCTV4" start="20250731102300 +0800" stop="20250731105000 +0800">
-		<title lang="zh">国家记忆-2024-44</title>
-	</programme>
 	<programme channel="CCTV4" start="20250731105000 +0800" stop="20250731112000 +0800">
 		<title lang="zh">国家记忆-2024-45</title>
 	</programme>
@@ -3834,12 +3729,6 @@
 	<channel id="CCTV6">
 		<display-name lang="zh">CCTV6</display-name>
 	</channel>
-	<programme channel="CCTV6" start="20250731090300 +0800" stop="20250731104600 +0800">
-		<title lang="zh">泉水叮咚</title>
-	</programme>
-	<programme channel="CCTV6" start="20250731104600 +0800" stop="20250731110400 +0800">
-		<title lang="zh">七人乐队：回归</title>
-	</programme>
 	<programme channel="CCTV6" start="20250731110400 +0800" stop="20250731125200 +0800">
 		<title lang="zh">血战残阳</title>
 	</programme>
@@ -3882,12 +3771,6 @@
 	<channel id="CCTV7">
 		<display-name lang="zh">CCTV7</display-name>
 	</channel>
-	<programme channel="CCTV7" start="20250731100500 +0800" stop="20250731103300 +0800">
-		<title lang="zh">兵器面面观-2025-151</title>
-	</programme>
-	<programme channel="CCTV7" start="20250731103300 +0800" stop="20250731110000 +0800">
-		<title lang="zh">世界战史-2025-135</title>
-	</programme>
 	<programme channel="CCTV7" start="20250731110000 +0800" stop="20250731112800 +0800">
 		<title lang="zh">国防故事-2025-117</title>
 	</programme>
@@ -3966,9 +3849,6 @@
 	<channel id="CCTV8">
 		<display-name lang="zh">CCTV8</display-name>
 	</channel>
-	<programme channel="CCTV8" start="20250731095700 +0800" stop="20250731105200 +0800">
-		<title lang="zh">大决战第10集</title>
-	</programme>
 	<programme channel="CCTV8" start="20250731105200 +0800" stop="20250731114800 +0800">
 		<title lang="zh">大决战第11集</title>
 	</programme>
@@ -4044,12 +3924,6 @@
 	<channel id="CCTV10">
 		<display-name lang="zh">CCTV10</display-name>
 	</channel>
-	<programme channel="CCTV10" start="20250731091500 +0800" stop="20250731101400 +0800">
-		<title lang="zh">自然传奇-2025-211</title>
-	</programme>
-	<programme channel="CCTV10" start="20250731101400 +0800" stop="20250731105200 +0800">
-		<title lang="zh">味道-2025-150（精编）</title>
-	</programme>
 	<programme channel="CCTV10" start="20250731105200 +0800" stop="20250731120000 +0800">
 		<title lang="zh">剧说历史（第一季）-3</title>
 	</programme>
@@ -4149,9 +4023,6 @@
 	<channel id="CCTV12">
 		<display-name lang="zh">CCTV12</display-name>
 	</channel>
-	<programme channel="CCTV12" start="20250731100400 +0800" stop="20250731105800 +0800">
-		<title lang="zh">方圆剧阵2024-166</title>
-	</programme>
 	<programme channel="CCTV12" start="20250731105800 +0800" stop="20250731113000 +0800">
 		<title lang="zh">法律讲堂-2025-211</title>
 	</programme>
@@ -4218,9 +4089,6 @@
 	<channel id="CCTV13">
 		<display-name lang="zh">CCTV13</display-name>
 	</channel>
-	<programme channel="CCTV13" start="20250731100000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">新闻直播间</title>
-	</programme>
 	<programme channel="CCTV13" start="20250731110000 +0800" stop="20250731120000 +0800">
 		<title lang="zh">新闻直播间</title>
 	</programme>
@@ -4314,9 +4182,6 @@
 	<channel id="CCTV15">
 		<display-name lang="zh">CCTV15</display-name>
 	</channel>
-	<programme channel="CCTV15" start="20250731093100 +0800" stop="20250731104700 +0800">
-		<title lang="zh">精彩音乐汇-我的爱对你说-2025-169</title>
-	</programme>
 	<programme channel="CCTV15" start="20250731104700 +0800" stop="20250731120200 +0800">
 		<title lang="zh">民歌·中国-2025-99山水恋歌46</title>
 	</programme>
@@ -4353,9 +4218,6 @@
 	<channel id="CCTV16">
 		<display-name lang="zh">CCTV16</display-name>
 	</channel>
-	<programme channel="CCTV16" start="20250731092000 +0800" stop="20250731103500 +0800">
-		<title lang="zh">实况录像（奥林匹克）-2024年巴黎奥运会 女排1/4决赛</title>
-	</programme>
 	<programme channel="CCTV16" start="20250731103500 +0800" stop="20250731120000 +0800">
 		<title lang="zh">2025年东亚足球锦标赛-日本队—中国队</title>
 	</programme>
@@ -4413,12 +4275,6 @@
 	<channel id="CCTV17">
 		<display-name lang="zh">CCTV17</display-name>
 	</channel>
-	<programme channel="CCTV17" start="20250731100100 +0800" stop="20250731100800 +0800">
-		<title lang="zh">田园特供2025-动物趣百科-海雕夺食</title>
-	</programme>
-	<programme channel="CCTV17" start="20250731100800 +0800" stop="20250731110300 +0800">
-		<title lang="zh">娘亲舅大第43集</title>
-	</programme>
 	<programme channel="CCTV17" start="20250731110300 +0800" stop="20250731115400 +0800">
 		<title lang="zh">娘亲舅大第44集</title>
 	</programme>
@@ -4494,12 +4350,6 @@
 	<channel id="CGTN">
 		<display-name lang="zh">CGTN</display-name>
 	</channel>
-	<programme channel="CGTN" start="20250731100000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">今日世界</title>
-	</programme>
-	<programme channel="CGTN" start="20250731103000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">薇观世界</title>
-	</programme>
 	<programme channel="CGTN" start="20250731110000 +0800" stop="20250731111500 +0800">
 		<title lang="zh">今日世界</title>
 	</programme>
@@ -4581,15 +4431,6 @@
 	<channel id="CGTN俄语">
 		<display-name lang="zh">CGTN俄语</display-name>
 	</channel>
-	<programme channel="CGTN俄语" start="20250731093000 +0800" stop="20250731101500 +0800">
-		<title lang="zh">剧场</title>
-	</programme>
-	<programme channel="CGTN俄语" start="20250731101500 +0800" stop="20250731103000 +0800">
-		<title lang="zh">热身</title>
-	</programme>
-	<programme channel="CGTN俄语" start="20250731103000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">生财有道</title>
-	</programme>
 	<programme channel="CGTN俄语" start="20250731110000 +0800" stop="20250731120000 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
@@ -4659,9 +4500,6 @@
 	<channel id="CGTN法语">
 		<display-name lang="zh">CGTN法语</display-name>
 	</channel>
-	<programme channel="CGTN法语" start="20250731100000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">光华世界观察</title>
-	</programme>
 	<programme channel="CGTN法语" start="20250731103000 +0800" stop="20250731111500 +0800">
 		<title lang="zh">剧场</title>
 	</programme>
@@ -4734,12 +4572,6 @@
 	<channel id="CGTN西语">
 		<display-name lang="zh">CGTN西语</display-name>
 	</channel>
-	<programme channel="CGTN西语" start="20250731100000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">综合新闻</title>
-	</programme>
-	<programme channel="CGTN西语" start="20250731103000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">美洲观察</title>
-	</programme>
 	<programme channel="CGTN西语" start="20250731110000 +0800" stop="20250731113000 +0800">
 		<title lang="zh">对话</title>
 	</programme>
@@ -4815,12 +4647,6 @@
 	<channel id="CGTN阿语">
 		<display-name lang="zh">CGTN阿语</display-name>
 	</channel>
-	<programme channel="CGTN阿语" start="20250731100000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">综合新闻</title>
-	</programme>
-	<programme channel="CGTN阿语" start="20250731103000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
 	<programme channel="CGTN阿语" start="20250731110000 +0800" stop="20250731113000 +0800">
 		<title lang="zh">纪录片</title>
 	</programme>
@@ -4893,12 +4719,6 @@
 	<channel id="CCTV2">
 		<display-name lang="zh">CCTV2</display-name>
 	</channel>
-	<programme channel="CCTV2" start="20250731100000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">正点财经</title>
-	</programme>
-	<programme channel="CCTV2" start="20250731103000 +0800" stop="20250731110000 +0800">
-		<title lang="zh">经济半小时</title>
-	</programme>
 	<programme channel="CCTV2" start="20250731110000 +0800" stop="20250731113000 +0800">
 		<title lang="zh">正点财经</title>
 	</programme>
@@ -4971,9 +4791,6 @@
 	<channel id="CCTV9">
 		<display-name lang="zh">CCTV9</display-name>
 	</channel>
-	<programme channel="CCTV9" start="20250731100000 +0800" stop="20250731105800 +0800">
-		<title lang="zh">全景自然2025-211</title>
-	</programme>
 	<programme channel="CCTV9" start="20250731105800 +0800" stop="20250731115900 +0800">
 		<title lang="zh">寰宇视野2025-211</title>
 	</programme>
@@ -5019,9 +4836,6 @@
 	<channel id="CCTV怀旧剧场">
 		<display-name lang="zh">CCTV怀旧剧场</display-name>
 	</channel>
-	<programme channel="CCTV怀旧剧场" start="20250731100300 +0800" stop="20250731104900 +0800">
-		<title lang="zh">你好乔安(23)</title>
-	</programme>
 	<programme channel="CCTV怀旧剧场" start="20250731104900 +0800" stop="20250731120000 +0800">
 		<title lang="zh">你好乔安(24)</title>
 	</programme>
@@ -5070,12 +4884,6 @@
 	<channel id="CCTV第一剧场">
 		<display-name lang="zh">CCTV第一剧场</display-name>
 	</channel>
-	<programme channel="CCTV第一剧场" start="20250731092900 +0800" stop="20250731101500 +0800">
-		<title lang="zh">潜行者(28)</title>
-	</programme>
-	<programme channel="CCTV第一剧场" start="20250731101500 +0800" stop="20250731110100 +0800">
-		<title lang="zh">潜行者(29)</title>
-	</programme>
 	<programme channel="CCTV第一剧场" start="20250731110100 +0800" stop="20250731120000 +0800">
 		<title lang="zh">潜行者(30)</title>
 	</programme>
@@ -5127,9 +4935,6 @@
 	<channel id="延边1台">
 		<display-name lang="zh">延边1台</display-name>
 	</channel>
-	<programme channel="延边1台" start="20250731080000 +0800" stop="20250731105000 +0800">
-		<title lang="zh">早间剧场</title>
-	</programme>
 	<programme channel="延边1台" start="20250731105000 +0800" stop="20250731120000 +0800">
 		<title lang="zh">上午剧场</title>
 	</programme>
@@ -5286,9 +5091,6 @@
 	<channel id="北京卫视">
 		<display-name lang="zh">北京卫视</display-name>
 	</channel>
-	<programme channel="北京卫视" start="20250731095300 +0800" stop="20250731104200 +0800">
-		<title lang="zh">上午剧场:正当防卫(6)</title>
-	</programme>
 	<programme channel="北京卫视" start="20250731104200 +0800" stop="20250731120000 +0800">
 		<title lang="zh">上午剧场:正当防卫(7)</title>
 	</programme>
@@ -5352,9 +5154,6 @@
 	<channel id="湖南卫视">
 		<display-name lang="zh">湖南卫视</display-name>
 	</channel>
-	<programme channel="湖南卫视" start="20250731093400 +0800" stop="20250731103100 +0800">
-		<title lang="zh">偶像独播剧场:你比星光美丽</title>
-	</programme>
 	<programme channel="湖南卫视" start="20250731103100 +0800" stop="20250731111800 +0800">
 		<title lang="zh">偶像独播剧场:你比星光美丽</title>
 	</programme>
@@ -5416,23 +5215,11 @@
 		<title lang="zh">朝朝如念(22)</title>
 	</programme>
 	<programme channel="湖南卫视" start="20250731234000 +0800" stop="20250731235900 +0800">
-		<title lang="zh">全员加速中2025(重播)</title>
+		<title lang="zh">全员加速中2025</title>
 	</programme>
 	<channel id="浙江卫视">
 		<display-name lang="zh">浙江卫视</display-name>
 	</channel>
-	<programme channel="浙江卫视" start="20250731100200 +0800" stop="20250731104400 +0800">
-		<title lang="zh">经典剧场四一生一世(白天剧场版)17</title>
-	</programme>
-	<programme channel="浙江卫视" start="20250731104400 +0800" stop="20250731104400 +0800">
-		<title lang="zh">一生一世(白天剧场版 片尾)5秒</title>
-	</programme>
-	<programme channel="浙江卫视" start="20250731104400 +0800" stop="20250731104800 +0800">
-		<title lang="zh">0731包装4</title>
-	</programme>
-	<programme channel="浙江卫视" start="20250731104800 +0800" stop="20250731104800 +0800">
-		<title lang="zh">一生一世(白天剧场版 片头)5秒</title>
-	</programme>
 	<programme channel="浙江卫视" start="20250731104800 +0800" stop="20250731113000 +0800">
 		<title lang="zh">经典剧场五一生一世(白天剧场版)18</title>
 	</programme>
@@ -5625,9 +5412,6 @@
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
-	<programme channel="东方卫视" start="20250731094800 +0800" stop="20250731103200 +0800">
-		<title lang="zh">三大队（24）</title>
-	</programme>
 	<programme channel="东方卫视" start="20250731103200 +0800" stop="20250731112300 +0800">
 		<title lang="zh">济公（1）</title>
 	</programme>
@@ -5715,63 +5499,57 @@
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
 	</channel>
-	<programme channel="江苏卫视" start="20250731094300 +0800" stop="20250731103300 +0800">
-		<title lang="zh">上午剧场:绽放的许开心(重播)</title>
+	<programme channel="江苏卫视" start="20250731102000 +0800" stop="20250731110800 +0800">
+		<title lang="zh">上午剧场:绽放的许开心</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731103300 +0800" stop="20250731111600 +0800">
-		<title lang="zh">上午剧场:绽放的许开心(重播)</title>
+	<programme channel="江苏卫视" start="20250731110800 +0800" stop="20250731120000 +0800">
+		<title lang="zh">上午剧场:绽放的许开心</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731111600 +0800" stop="20250731120000 +0800">
-		<title lang="zh">上午剧场:绽放的许开心(重播)</title>
-	</programme>
-	<programme channel="江苏卫视" start="20250731120000 +0800" stop="20250731123400 +0800">
+	<programme channel="江苏卫视" start="20250731120000 +0800" stop="20250731123200 +0800">
 		<title lang="zh">正午江苏</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731123400 +0800" stop="20250731142000 +0800">
-		<title lang="zh">非诚勿扰(重播)</title>
+	<programme channel="江苏卫视" start="20250731123200 +0800" stop="20250731142000 +0800">
+		<title lang="zh">非诚勿扰</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731142000 +0800" stop="20250731162400 +0800">
+	<programme channel="江苏卫视" start="20250731142000 +0800" stop="20250731162600 +0800">
 		<title lang="zh">新相亲大会</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731162400 +0800" stop="20250731170600 +0800">
-		<title lang="zh">下午剧场:书卷一梦(重播)</title>
+	<programme channel="江苏卫视" start="20250731162600 +0800" stop="20250731171200 +0800">
+		<title lang="zh">下午剧场:书卷一梦</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731170600 +0800" stop="20250731180000 +0800">
-		<title lang="zh">下午剧场:书卷一梦(重播)</title>
+	<programme channel="江苏卫视" start="20250731171200 +0800" stop="20250731180000 +0800">
+		<title lang="zh">下午剧场:书卷一梦</title>
 	</programme>
 	<programme channel="江苏卫视" start="20250731180000 +0800" stop="20250731183000 +0800">
 		<title lang="zh">新闻眼</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731183000 +0800" stop="20250731185200 +0800">
+	<programme channel="江苏卫视" start="20250731183000 +0800" stop="20250731190000 +0800">
 		<title lang="zh">江苏新时空</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731185200 +0800" stop="20250731190000 +0800">
-		<title lang="zh">时空气象站</title>
-	</programme>
-	<programme channel="江苏卫视" start="20250731190000 +0800" stop="20250731193200 +0800">
+	<programme channel="江苏卫视" start="20250731190000 +0800" stop="20250731193300 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731193200 +0800" stop="20250731202800 +0800">
+	<programme channel="江苏卫视" start="20250731193300 +0800" stop="20250731202200 +0800">
 		<title lang="zh">幸福剧场:以法之名(13)</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731202800 +0800" stop="20250731212000 +0800">
+	<programme channel="江苏卫视" start="20250731202200 +0800" stop="20250731210900 +0800">
 		<title lang="zh">幸福剧场:以法之名(14)</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731212000 +0800" stop="20250731224700 +0800">
-		<title lang="zh">你所不知道的水韵江苏</title>
+	<programme channel="江苏卫视" start="20250731210900 +0800" stop="20250731220600 +0800">
+		<title lang="zh">最强大脑</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731224700 +0800" stop="20250731230400 +0800">
+	<programme channel="江苏卫视" start="20250731220600 +0800" stop="20250731230000 +0800">
+		<title lang="zh">音乐缘计划</title>
+	</programme>
+	<programme channel="江苏卫视" start="20250731230000 +0800" stop="20250731231600 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
-	<programme channel="江苏卫视" start="20250731230400 +0800" stop="20250731235900 +0800">
-		<title lang="zh">怦然心动20岁</title>
+	<programme channel="江苏卫视" start="20250731231600 +0800" stop="20250731235900 +0800">
+		<title lang="zh">长相思2</title>
 	</programme>
 	<channel id="天津卫视">
 		<display-name lang="zh">天津卫视</display-name>
 	</channel>
-	<programme channel="天津卫视" start="20250731094000 +0800" stop="20250731105000 +0800">
-		<title lang="zh">五号特工组(9)</title>
-	</programme>
 	<programme channel="天津卫视" start="20250731105000 +0800" stop="20250731120000 +0800">
 		<title lang="zh">五号特工组(10)</title>
 	</programme>
@@ -5829,9 +5607,6 @@
 	<channel id="深圳卫视">
 		<display-name lang="zh">深圳卫视</display-name>
 	</channel>
-	<programme channel="深圳卫视" start="20250731095000 +0800" stop="20250731105000 +0800">
-		<title lang="zh">上海滩生死较量(18)</title>
-	</programme>
 	<programme channel="深圳卫视" start="20250731105000 +0800" stop="20250731115000 +0800">
 		<title lang="zh">上海滩生死较量(19)</title>
 	</programme>
@@ -5967,50 +5742,47 @@
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
-	<programme channel="黑龙江卫视" start="20250731100400 +0800" stop="20250731110700 +0800">
+	<programme channel="黑龙江卫视" start="20250731102000 +0800" stop="20250731111800 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731110700 +0800" stop="20250731121000 +0800">
+	<programme channel="黑龙江卫视" start="20250731111800 +0800" stop="20250731122800 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731121000 +0800" stop="20250731131200 +0800">
+	<programme channel="黑龙江卫视" start="20250731122800 +0800" stop="20250731131700 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731131200 +0800" stop="20250731141600 +0800">
+	<programme channel="黑龙江卫视" start="20250731131700 +0800" stop="20250731140900 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731141600 +0800" stop="20250731145400 +0800">
+	<programme channel="黑龙江卫视" start="20250731140900 +0800" stop="20250731150500 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731145400 +0800" stop="20250731153800 +0800">
-		<title lang="zh">开课啦</title>
-	</programme>
-	<programme channel="黑龙江卫视" start="20250731153800 +0800" stop="20250731164000 +0800">
+	<programme channel="黑龙江卫视" start="20250731150500 +0800" stop="20250731160000 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731164000 +0800" stop="20250731174300 +0800">
+	<programme channel="黑龙江卫视" start="20250731160000 +0800" stop="20250731180200 +0800">
 		<title lang="zh">阳光剧场:女子别动队</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731174300 +0800" stop="20250731181800 +0800">
-		<title lang="zh">剧好看</title>
+	<programme channel="黑龙江卫视" start="20250731180200 +0800" stop="20250731182400 +0800">
+		<title lang="zh">视点</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731181800 +0800" stop="20250731183000 +0800">
-		<title lang="zh">于硕说天气</title>
+	<programme channel="黑龙江卫视" start="20250731182400 +0800" stop="20250731183000 +0800">
+		<title lang="zh">天气预报</title>
 	</programme>
 	<programme channel="黑龙江卫视" start="20250731183000 +0800" stop="20250731190000 +0800">
 		<title lang="zh">全省新闻联播</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731190000 +0800" stop="20250731193200 +0800">
+	<programme channel="黑龙江卫视" start="20250731190000 +0800" stop="20250731193400 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731193200 +0800" stop="20250731202000 +0800">
-		<title lang="zh">中国龙剧场:逐梦蓝天(4)</title>
+	<programme channel="黑龙江卫视" start="20250731193400 +0800" stop="20250731202100 +0800">
+		<title lang="zh">中国龙剧场:逐梦蓝天(6)</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731202000 +0800" stop="20250731210800 +0800">
-		<title lang="zh">中国龙剧场:逐梦蓝天(5)</title>
+	<programme channel="黑龙江卫视" start="20250731202100 +0800" stop="20250731211300 +0800">
+		<title lang="zh">中国龙剧场:逐梦蓝天(7)</title>
 	</programme>
-	<programme channel="黑龙江卫视" start="20250731210800 +0800" stop="20250731220600 +0800">
-		<title lang="zh">劳动最光荣</title>
+	<programme channel="黑龙江卫视" start="20250731211300 +0800" stop="20250731220600 +0800">
+		<title lang="zh">遇事找法</title>
 	</programme>
 	<programme channel="黑龙江卫视" start="20250731220600 +0800" stop="20250731233600 +0800">
 		<title lang="zh">活力剧场:小巷人家</title>
@@ -6021,35 +5793,32 @@
 	<channel id="辽宁卫视">
 		<display-name lang="zh">辽宁卫视</display-name>
 	</channel>
-	<programme channel="辽宁卫视" start="20250731094500 +0800" stop="20250731104400 +0800">
+	<programme channel="辽宁卫视" start="20250731105100 +0800" stop="20250731120000 +0800">
 		<title lang="zh">白天剧场:正阳门下小女人</title>
 	</programme>
-	<programme channel="辽宁卫视" start="20250731104400 +0800" stop="20250731120000 +0800">
-		<title lang="zh">白天剧场:正阳门下小女人</title>
-	</programme>
-	<programme channel="辽宁卫视" start="20250731120000 +0800" stop="20250731125200 +0800">
+	<programme channel="辽宁卫视" start="20250731120000 +0800" stop="20250731125000 +0800">
 		<title lang="zh">说天下</title>
 	</programme>
-	<programme channel="辽宁卫视" start="20250731125200 +0800" stop="20250731134200 +0800">
+	<programme channel="辽宁卫视" start="20250731125000 +0800" stop="20250731133800 +0800">
+		<title lang="zh">白天剧场:正阳门下小女人 7</title>
+	</programme>
+	<programme channel="辽宁卫视" start="20250731133800 +0800" stop="20250731142400 +0800">
+		<title lang="zh">白天剧场:正阳门下小女人 8</title>
+	</programme>
+	<programme channel="辽宁卫视" start="20250731142400 +0800" stop="20250731151200 +0800">
+		<title lang="zh">白天剧场:正阳门下小女人 9</title>
+	</programme>
+	<programme channel="辽宁卫视" start="20250731151200 +0800" stop="20250731162000 +0800">
 		<title lang="zh">白天剧场:正阳门下小女人</title>
 	</programme>
-	<programme channel="辽宁卫视" start="20250731134200 +0800" stop="20250731143000 +0800">
-		<title lang="zh">白天剧场:正阳门下小女人</title>
-	</programme>
-	<programme channel="辽宁卫视" start="20250731143000 +0800" stop="20250731151800 +0800">
-		<title lang="zh">白天剧场:正阳门下小女人</title>
-	</programme>
-	<programme channel="辽宁卫视" start="20250731151800 +0800" stop="20250731163200 +0800">
-		<title lang="zh">白天剧场:正阳门下小女人</title>
-	</programme>
-	<programme channel="辽宁卫视" start="20250731163200 +0800" stop="20250731172400 +0800">
+	<programme channel="辽宁卫视" start="20250731162000 +0800" stop="20250731172900 +0800">
 		<title lang="zh">欢乐集结号</title>
 	</programme>
-	<programme channel="辽宁卫视" start="20250731172400 +0800" stop="20250731175900 +0800">
+	<programme channel="辽宁卫视" start="20250731172900 +0800" stop="20250731180100 +0800">
 		<title lang="zh">食全食美</title>
 	</programme>
-	<programme channel="辽宁卫视" start="20250731175900 +0800" stop="20250731182500 +0800">
-		<title lang="zh">故事刚刚好</title>
+	<programme channel="辽宁卫视" start="20250731180100 +0800" stop="20250731182500 +0800">
+		<title lang="zh">欢乐点点</title>
 	</programme>
 	<programme channel="辽宁卫视" start="20250731182500 +0800" stop="20250731183000 +0800">
 		<title lang="zh">气象资讯</title>
@@ -6084,9 +5853,6 @@
 	<channel id="山东卫视">
 		<display-name lang="zh">山东卫视</display-name>
 	</channel>
-	<programme channel="山东卫视" start="20250731093600 +0800" stop="20250731105000 +0800">
-		<title lang="zh">大医本草堂</title>
-	</programme>
 	<programme channel="山东卫视" start="20250731105000 +0800" stop="20250731113300 +0800">
 		<title lang="zh">情意剧场</title>
 	</programme>
@@ -6156,9 +5922,6 @@
 	<channel id="安徽卫视">
 		<display-name lang="zh">安徽卫视</display-name>
 	</channel>
-	<programme channel="安徽卫视" start="20250731100200 +0800" stop="20250731105200 +0800">
-		<title lang="zh">海豚万家剧场:都挺好</title>
-	</programme>
 	<programme channel="安徽卫视" start="20250731105200 +0800" stop="20250731114400 +0800">
 		<title lang="zh">海豚万家剧场:都挺好</title>
 	</programme>
@@ -6213,9 +5976,6 @@
 	<channel id="广东卫视">
 		<display-name lang="zh">广东卫视</display-name>
 	</channel>
-	<programme channel="广东卫视" start="20250731100000 +0800" stop="20250731105500 +0800">
-		<title lang="zh">战火青春(22)</title>
-	</programme>
 	<programme channel="广东卫视" start="20250731105500 +0800" stop="20250731120500 +0800">
 		<title lang="zh">战火青春(23)</title>
 	</programme>
@@ -6276,9 +6036,6 @@
 	<channel id="广西卫视">
 		<display-name lang="zh">广西卫视</display-name>
 	</channel>
-	<programme channel="广西卫视" start="20250731095000 +0800" stop="20250731103000 +0800">
-		<title lang="zh">阳光剧场37集：燃烧大地(8)</title>
-	</programme>
 	<programme channel="广西卫视" start="20250731103000 +0800" stop="20250731113000 +0800">
 		<title lang="zh">阳光剧场37集：燃烧大地(9)</title>
 	</programme>
@@ -6342,56 +6099,50 @@
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
-	<programme channel="四川卫视" start="20250731095400 +0800" stop="20250731103300 +0800">
-		<title lang="zh">真情剧场:神枪(19)</title>
+	<programme channel="四川卫视" start="20250731103200 +0800" stop="20250731111300 +0800">
+		<title lang="zh">神枪(29)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731103300 +0800" stop="20250731111200 +0800">
-		<title lang="zh">真情剧场:神枪(20)</title>
+	<programme channel="四川卫视" start="20250731111300 +0800" stop="20250731115500 +0800">
+		<title lang="zh">神枪(30)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731111200 +0800" stop="20250731115500 +0800">
-		<title lang="zh">真情剧场:神枪(21)</title>
-	</programme>
-	<programme channel="四川卫视" start="20250731115500 +0800" stop="20250731120200 +0800">
+	<programme channel="四川卫视" start="20250731115500 +0800" stop="20250731120000 +0800">
 		<title lang="zh">午间气象播报</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731120200 +0800" stop="20250731124800 +0800">
-		<title lang="zh">真情剧场:神枪(22)</title>
+	<programme channel="四川卫视" start="20250731120000 +0800" stop="20250731130200 +0800">
+		<title lang="zh">神枪(31)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731124800 +0800" stop="20250731134400 +0800">
-		<title lang="zh">真情剧场:神枪(23)</title>
+	<programme channel="四川卫视" start="20250731130200 +0800" stop="20250731140500 +0800">
+		<title lang="zh">神枪(32)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731134400 +0800" stop="20250731143300 +0800">
-		<title lang="zh">真情剧场:神枪(24)</title>
+	<programme channel="四川卫视" start="20250731140500 +0800" stop="20250731150300 +0800">
+		<title lang="zh">五号特工组之偷天换月(1)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731143300 +0800" stop="20250731152500 +0800">
-		<title lang="zh">真情剧场:神枪(25)</title>
+	<programme channel="四川卫视" start="20250731150300 +0800" stop="20250731160200 +0800">
+		<title lang="zh">五号特工组之偷天换月(2)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731152500 +0800" stop="20250731161700 +0800">
-		<title lang="zh">真情剧场:神枪(26)</title>
+	<programme channel="四川卫视" start="20250731160200 +0800" stop="20250731170100 +0800">
+		<title lang="zh">五号特工组之偷天换月(3)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731161700 +0800" stop="20250731170800 +0800">
-		<title lang="zh">真情剧场:神枪(27)</title>
+	<programme channel="四川卫视" start="20250731170100 +0800" stop="20250731180000 +0800">
+		<title lang="zh">五号特工组之偷天换月(4)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731170800 +0800" stop="20250731175900 +0800">
-		<title lang="zh">真情剧场:神枪(28)</title>
-	</programme>
-	<programme channel="四川卫视" start="20250731175900 +0800" stop="20250731183000 +0800">
+	<programme channel="四川卫视" start="20250731180000 +0800" stop="20250731183000 +0800">
 		<title lang="zh">今日视点</title>
 	</programme>
 	<programme channel="四川卫视" start="20250731183000 +0800" stop="20250731185500 +0800">
 		<title lang="zh">四川新闻联播</title>
 	</programme>
 	<programme channel="四川卫视" start="20250731185500 +0800" stop="20250731190000 +0800">
-		<title lang="zh">四川天气预报</title>
+		<title lang="zh">四川省城市天气预报</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731190000 +0800" stop="20250731193700 +0800">
-		<title lang="zh">转播中央新闻联播</title>
+	<programme channel="四川卫视" start="20250731190000 +0800" stop="20250731193500 +0800">
+		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731193700 +0800" stop="20250731203400 +0800">
-		<title lang="zh">合家欢剧场:西北岁月(17)</title>
+	<programme channel="四川卫视" start="20250731193500 +0800" stop="20250731202700 +0800">
+		<title lang="zh">西北岁月(19)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731203400 +0800" stop="20250731212000 +0800">
-		<title lang="zh">合家欢剧场:西北岁月(18)</title>
+	<programme channel="四川卫视" start="20250731202700 +0800" stop="20250731212000 +0800">
+		<title lang="zh">西北岁月(20)</title>
 	</programme>
 	<programme channel="四川卫视" start="20250731212000 +0800" stop="20250731220000 +0800">
 		<title lang="zh">你问我答</title>
@@ -6399,29 +6150,35 @@
 	<programme channel="四川卫视" start="20250731220000 +0800" stop="20250731223000 +0800">
 		<title lang="zh">四川新闻联播</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731223000 +0800" stop="20250731233000 +0800">
-		<title lang="zh">等着我(重播)</title>
+	<programme channel="四川卫视" start="20250731223000 +0800" stop="20250731232600 +0800">
+		<title lang="zh">前夜(13)</title>
 	</programme>
-	<programme channel="四川卫视" start="20250731233000 +0800" stop="20250731235900 +0800">
-		<title lang="zh">偶像剧场:前夜(13)</title>
+	<programme channel="四川卫视" start="20250731232600 +0800" stop="20250731235900 +0800">
+		<title lang="zh">前夜(14)</title>
 	</programme>
 	<channel id="湖北卫视">
 		<display-name lang="zh">湖北卫视</display-name>
 	</channel>
-	<programme channel="湖北卫视" start="20250731090400 +0800" stop="20250731105500 +0800">
-		<title lang="zh">武松</title>
-	</programme>
 	<programme channel="湖北卫视" start="20250731105500 +0800" stop="20250731115000 +0800">
 		<title lang="zh">武松</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731115000 +0800" stop="20250731115000 +0800">
+		<title lang="zh">直播:天生我財</title>
 	</programme>
 	<programme channel="湖北卫视" start="20250731115000 +0800" stop="20250731123000 +0800">
 		<title lang="zh">天生我财</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731123000 +0800" stop="20250731132400 +0800">
+	<programme channel="湖北卫视" start="20250731123000 +0800" stop="20250731123000 +0800">
 		<title lang="zh">武松</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731132400 +0800" stop="20250731141700 +0800">
+	<programme channel="湖北卫视" start="20250731123000 +0800" stop="20250731132400 +0800">
+		<title lang="zh">大王.小王</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731132400 +0800" stop="20250731133500 +0800">
 		<title lang="zh">武松</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731133500 +0800" stop="20250731141700 +0800">
+		<title lang="zh">午後劇場</title>
 	</programme>
 	<programme channel="湖北卫视" start="20250731141700 +0800" stop="20250731151000 +0800">
 		<title lang="zh">武松</title>
@@ -6429,56 +6186,83 @@
 	<programme channel="湖北卫视" start="20250731151000 +0800" stop="20250731160300 +0800">
 		<title lang="zh">武松</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731160300 +0800" stop="20250731165500 +0800">
+	<programme channel="湖北卫视" start="20250731160300 +0800" stop="20250731164000 +0800">
 		<title lang="zh">武松</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731164000 +0800" stop="20250731165500 +0800">
+		<title lang="zh">吾股豐登</title>
 	</programme>
 	<programme channel="湖北卫视" start="20250731165500 +0800" stop="20250731173900 +0800">
 		<title lang="zh">吾股丰登</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731173900 +0800" stop="20250731182500 +0800">
+	<programme channel="湖北卫视" start="20250731173900 +0800" stop="20250731175400 +0800">
 		<title lang="zh">武松</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731175400 +0800" stop="20250731182500 +0800">
+		<title lang="zh">飲食養生匯</title>
 	</programme>
 	<programme channel="湖北卫视" start="20250731182500 +0800" stop="20250731183000 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
+	<programme channel="湖北卫视" start="20250731183000 +0800" stop="20250731183000 +0800">
+		<title lang="zh">直播:湖北新聞</title>
+	</programme>
 	<programme channel="湖北卫视" start="20250731183000 +0800" stop="20250731190000 +0800">
 		<title lang="zh">湖北新闻</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731190000 +0800" stop="20250731193400 +0800">
+	<programme channel="湖北卫视" start="20250731190000 +0800" stop="20250731190000 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731193400 +0800" stop="20250731202300 +0800">
-		<title lang="zh">三叉戟2</title>
+	<programme channel="湖北卫视" start="20250731190000 +0800" stop="20250731193400 +0800">
+		<title lang="zh">中央台新聞聯播</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731202300 +0800" stop="20250731211000 +0800">
-		<title lang="zh">三叉戟2</title>
+	<programme channel="湖北卫视" start="20250731193400 +0800" stop="20250731193500 +0800">
+		<title lang="zh">三叉戟2(11)</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731193500 +0800" stop="20250731202300 +0800">
+		<title lang="zh">長江劇場</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731202300 +0800" stop="20250731203300 +0800">
+		<title lang="zh">三叉戟2(12)</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731203300 +0800" stop="20250731211000 +0800">
+		<title lang="zh">長江劇場</title>
 	</programme>
 	<programme channel="湖北卫视" start="20250731211000 +0800" stop="20250731212100 +0800">
 		<title lang="zh">湖北10分</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731212100 +0800" stop="20250731213900 +0800">
+	<programme channel="湖北卫视" start="20250731212100 +0800" stop="20250731212500 +0800">
 		<title lang="zh">AI热搜榜</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731213900 +0800" stop="20250731230000 +0800">
+	<programme channel="湖北卫视" start="20250731212500 +0800" stop="20250731213900 +0800">
+		<title lang="zh">直播:長江新聞號</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731213900 +0800" stop="20250731220000 +0800">
 		<title lang="zh">琼聊AI</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731230000 +0800" stop="20250731233000 +0800">
+	<programme channel="湖北卫视" start="20250731220000 +0800" stop="20250731230000 +0800">
+		<title lang="zh">調解面對面</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731230000 +0800" stop="20250731230000 +0800">
 		<title lang="zh">长江新闻号</title>
 	</programme>
-	<programme channel="湖北卫视" start="20250731233000 +0800" stop="20250731235900 +0800">
+	<programme channel="湖北卫视" start="20250731230000 +0800" stop="20250731233000 +0800">
+		<title lang="zh">重播:長江新聞號</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731233000 +0800" stop="20250731233300 +0800">
 		<title lang="zh">激战</title>
+	</programme>
+	<programme channel="湖北卫视" start="20250731233300 +0800" stop="20250731235900 +0800">
+		<title lang="zh">大揭秘</title>
 	</programme>
 	<channel id="江西卫视">
 		<display-name lang="zh">江西卫视</display-name>
 	</channel>
-	<programme channel="江西卫视" start="20250731092000 +0800" stop="20250731101500 +0800">
-		<title lang="zh">白天剧场:决战江南(16)</title>
-	</programme>
 	<programme channel="江西卫视" start="20250731101500 +0800" stop="20250731110800 +0800">
-		<title lang="zh">白天剧场:决战江南(17)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731110800 +0800" stop="20250731120200 +0800">
-		<title lang="zh">白天剧场:决战江南(18)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731120200 +0800" stop="20250731120700 +0800">
 		<title lang="zh">午间气象</title>
@@ -6490,22 +6274,22 @@
 		<title lang="zh">食不相瞒</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731125600 +0800" stop="20250731134800 +0800">
-		<title lang="zh">金牌调解(重播)</title>
+		<title lang="zh">金牌调解</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731134800 +0800" stop="20250731144100 +0800">
-		<title lang="zh">白天剧场:决战江南(19)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731144100 +0800" stop="20250731153700 +0800">
-		<title lang="zh">白天剧场:决战江南(20)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731153700 +0800" stop="20250731164000 +0800">
-		<title lang="zh">白天剧场:决战江南(21)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731164000 +0800" stop="20250731174300 +0800">
-		<title lang="zh">白天剧场:决战江南(22)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731174300 +0800" stop="20250731181700 +0800">
-		<title lang="zh">白天剧场:决战江南(23)</title>
+		<title lang="zh">白天剧场:决战江南</title>
 	</programme>
 	<programme channel="江西卫视" start="20250731181700 +0800" stop="20250731183000 +0800">
 		<title lang="zh">社会传真</title>
@@ -6540,37 +6324,37 @@
 	<channel id="河北卫视">
 		<display-name lang="zh">河北卫视</display-name>
 	</channel>
-	<programme channel="河北卫视" start="20250731094300 +0800" stop="20250731103700 +0800">
-		<title lang="zh">经典剧场:幸福到万家 39</title>
+	<programme channel="河北卫视" start="20250731103600 +0800" stop="20250731111800 +0800">
+		<title lang="zh">经典剧场:风吹半夏 12</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731103700 +0800" stop="20250731113000 +0800">
-		<title lang="zh">经典剧场:幸福到万家 40</title>
+	<programme channel="河北卫视" start="20250731111800 +0800" stop="20250731120000 +0800">
+		<title lang="zh">经典剧场:风吹半夏 13</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731113000 +0800" stop="20250731122400 +0800">
-		<title lang="zh">经典剧场:幸福到万家 41</title>
+	<programme channel="河北卫视" start="20250731120000 +0800" stop="20250731123800 +0800">
+		<title lang="zh">闻汛而动，河北在行动</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731122400 +0800" stop="20250731131400 +0800">
-		<title lang="zh">经典剧场:幸福到万家 42</title>
+	<programme channel="河北卫视" start="20250731123800 +0800" stop="20250731132700 +0800">
+		<title lang="zh">经典剧场:风吹半夏 14</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731131400 +0800" stop="20250731140300 +0800">
-		<title lang="zh">情感剧场:薄冰21</title>
+	<programme channel="河北卫视" start="20250731132700 +0800" stop="20250731141500 +0800">
+		<title lang="zh">情感剧场:薄冰 33</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731140300 +0800" stop="20250731144500 +0800">
-		<title lang="zh">情感剧场:薄冰22</title>
+	<programme channel="河北卫视" start="20250731141500 +0800" stop="20250731145100 +0800">
+		<title lang="zh">情感剧场:薄冰 34</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731144500 +0800" stop="20250731153600 +0800">
-		<title lang="zh">情感剧场:薄冰23</title>
+	<programme channel="河北卫视" start="20250731145100 +0800" stop="20250731154300 +0800">
+		<title lang="zh">情感剧场:薄冰 35</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731153600 +0800" stop="20250731162400 +0800">
-		<title lang="zh">情感剧场:薄冰24</title>
+	<programme channel="河北卫视" start="20250731154300 +0800" stop="20250731163000 +0800">
+		<title lang="zh">情感剧场:薄冰 36</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731162400 +0800" stop="20250731170200 +0800">
-		<title lang="zh">情感剧场:薄冰25</title>
+	<programme channel="河北卫视" start="20250731163000 +0800" stop="20250731171200 +0800">
+		<title lang="zh">情感剧场:薄冰 37</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731170200 +0800" stop="20250731175100 +0800">
-		<title lang="zh">情感剧场:薄冰26</title>
+	<programme channel="河北卫视" start="20250731171200 +0800" stop="20250731175600 +0800">
+		<title lang="zh">情感剧场:薄冰 38</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731175100 +0800" stop="20250731183000 +0800">
+	<programme channel="河北卫视" start="20250731175600 +0800" stop="20250731183000 +0800">
 		<title lang="zh">家政女皇</title>
 	</programme>
 	<programme channel="河北卫视" start="20250731183000 +0800" stop="20250731185600 +0800">
@@ -6579,26 +6363,29 @@
 	<programme channel="河北卫视" start="20250731185600 +0800" stop="20250731190000 +0800">
 		<title lang="zh">河北天气预报</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731190000 +0800" stop="20250731194300 +0800">
+	<programme channel="河北卫视" start="20250731190000 +0800" stop="20250731193700 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731194300 +0800" stop="20250731203500 +0800">
-		<title lang="zh">民生剧场:六姊妹(27)</title>
+	<programme channel="河北卫视" start="20250731193700 +0800" stop="20250731203300 +0800">
+		<title lang="zh">民生剧场:六姊妹(31)</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731203500 +0800" stop="20250731212000 +0800">
-		<title lang="zh">民生剧场:六姊妹(28)</title>
+	<programme channel="河北卫视" start="20250731203300 +0800" stop="20250731212000 +0800">
+		<title lang="zh">民生剧场:六姊妹(32)</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731212000 +0800" stop="20250731220000 +0800">
-		<title lang="zh">好好学习知行季</title>
+	<programme channel="河北卫视" start="20250731212000 +0800" stop="20250731213500 +0800">
+		<title lang="zh">闻“汛”而动 河北在行动</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731220000 +0800" stop="20250731230000 +0800">
+	<programme channel="河北卫视" start="20250731213500 +0800" stop="20250731221000 +0800">
+		<title lang="zh">燕赵传奇</title>
+	</programme>
+	<programme channel="河北卫视" start="20250731221000 +0800" stop="20250731230000 +0800">
 		<title lang="zh">电视剧:大决战</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731230000 +0800" stop="20250731233500 +0800">
-		<title lang="zh">你好京津冀</title>
+	<programme channel="河北卫视" start="20250731230000 +0800" stop="20250731233000 +0800">
+		<title lang="zh">河北新闻联播</title>
 	</programme>
-	<programme channel="河北卫视" start="20250731233500 +0800" stop="20250731235900 +0800">
-		<title lang="zh">电视剧:我是刑警</title>
+	<programme channel="河北卫视" start="20250731233000 +0800" stop="20250731235900 +0800">
+		<title lang="zh">电视剧:南来北往</title>
 	</programme>
 	<channel id="河南卫视">
 		<display-name lang="zh">河南卫视</display-name>
@@ -6681,9 +6468,6 @@
 	<channel id="东南卫视">
 		<display-name lang="zh">东南卫视</display-name>
 	</channel>
-	<programme channel="东南卫视" start="20250731092300 +0800" stop="20250731101600 +0800">
-		<title lang="zh">上午剧场:包青天之七侠五义</title>
-	</programme>
 	<programme channel="东南卫视" start="20250731101600 +0800" stop="20250731110800 +0800">
 		<title lang="zh">上午剧场:包青天之七侠五义</title>
 	</programme>
@@ -6744,31 +6528,34 @@
 	<channel id="贵州卫视">
 		<display-name lang="zh">贵州卫视</display-name>
 	</channel>
-	<programme channel="贵州卫视" start="20250731092200 +0800" stop="20250731101400 +0800">
-		<title lang="zh">黑狐之风影(10)</title>
-	</programme>
-	<programme channel="贵州卫视" start="20250731101400 +0800" stop="20250731110600 +0800">
+	<programme channel="贵州卫视" start="20250731110000 +0800" stop="20250731113200 +0800">
 		<title lang="zh">黑狐之风影(11)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731110600 +0800" stop="20250731115800 +0800">
+	<programme channel="贵州卫视" start="20250731113200 +0800" stop="20250731115400 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州卫视" start="20250731115400 +0800" stop="20250731122600 +0800">
 		<title lang="zh">黑狐之风影(12)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731115800 +0800" stop="20250731125000 +0800">
+	<programme channel="贵州卫视" start="20250731122600 +0800" stop="20250731124800 +0800">
+		<title lang="zh">栏目</title>
+	</programme>
+	<programme channel="贵州卫视" start="20250731124800 +0800" stop="20250731131900 +0800">
 		<title lang="zh">黑狐之风影(13)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731125000 +0800" stop="20250731125500 +0800">
-		<title lang="zh">气象快讯</title>
+	<programme channel="贵州卫视" start="20250731131900 +0800" stop="20250731134900 +0800">
+		<title lang="zh">栏目</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731125500 +0800" stop="20250731140600 +0800">
+	<programme channel="贵州卫视" start="20250731134900 +0800" stop="20250731144600 +0800">
 		<title lang="zh">黑狐之风影(14)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731140600 +0800" stop="20250731151700 +0800">
+	<programme channel="贵州卫视" start="20250731144600 +0800" stop="20250731154400 +0800">
 		<title lang="zh">黑狐之风影(15)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731151700 +0800" stop="20250731162800 +0800">
+	<programme channel="贵州卫视" start="20250731154400 +0800" stop="20250731164200 +0800">
 		<title lang="zh">黑狐之风影(16)</title>
 	</programme>
-	<programme channel="贵州卫视" start="20250731162800 +0800" stop="20250731174000 +0800">
+	<programme channel="贵州卫视" start="20250731164200 +0800" stop="20250731174000 +0800">
 		<title lang="zh">黑狐之风影(17)</title>
 	</programme>
 	<programme channel="贵州卫视" start="20250731174000 +0800" stop="20250731175000 +0800">
@@ -6810,35 +6597,41 @@
 	<channel id="吉林卫视">
 		<display-name lang="zh">吉林卫视</display-name>
 	</channel>
-	<programme channel="吉林卫视" start="20250731093400 +0800" stop="20250731102600 +0800">
-		<title lang="zh">上午剧场:天龙八部(16)</title>
+	<programme channel="吉林卫视" start="20250731105500 +0800" stop="20250731112900 +0800">
+		<title lang="zh">上午剧场:天龙八部(24)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731102600 +0800" stop="20250731111800 +0800">
-		<title lang="zh">上午剧场:天龙八部(17)</title>
+	<programme channel="吉林卫视" start="20250731112900 +0800" stop="20250731120000 +0800">
+		<title lang="zh">上午剧场:天龙八部(25)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731111800 +0800" stop="20250731121100 +0800">
-		<title lang="zh">上午剧场:天龙八部(18)</title>
+	<programme channel="吉林卫视" start="20250731120000 +0800" stop="20250731122000 +0800">
+		<title lang="zh">正午吉林</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731121100 +0800" stop="20250731121700 +0800">
-		<title lang="zh">卫视气象站</title>
+	<programme channel="吉林卫视" start="20250731122000 +0800" stop="20250731123100 +0800">
+		<title lang="zh">欢乐送:开心十分</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731121700 +0800" stop="20250731130900 +0800">
-		<title lang="zh">上午剧场:天龙八部(19)</title>
+	<programme channel="吉林卫视" start="20250731123100 +0800" stop="20250731130500 +0800">
+		<title lang="zh">下午剧场:打狗棍(56)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731130900 +0800" stop="20250731134000 +0800">
-		<title lang="zh">花儿朵朵</title>
+	<programme channel="吉林卫视" start="20250731130500 +0800" stop="20250731133700 +0800">
+		<title lang="zh">下午剧场:打狗棍(57)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731134000 +0800" stop="20250731143100 +0800">
-		<title lang="zh">下午剧场:打狗棍(52)</title>
+	<programme channel="吉林卫视" start="20250731133700 +0800" stop="20250731141000 +0800">
+		<title lang="zh">下午剧场:打狗棍(58)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731143100 +0800" stop="20250731152300 +0800">
-		<title lang="zh">下午剧场:打狗棍(53)</title>
+	<programme channel="吉林卫视" start="20250731141000 +0800" stop="20250731144400 +0800">
+		<title lang="zh">下午剧场:打狗棍(59)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731152300 +0800" stop="20250731161500 +0800">
-		<title lang="zh">下午剧场:打狗棍(54)</title>
+	<programme channel="吉林卫视" start="20250731144400 +0800" stop="20250731151900 +0800">
+		<title lang="zh">下午剧场:打狗棍(60)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250731161500 +0800" stop="20250731170600 +0800">
-		<title lang="zh">下午剧场:打狗棍(55)</title>
+	<programme channel="吉林卫视" start="20250731151900 +0800" stop="20250731155400 +0800">
+		<title lang="zh">下午剧场:打狗棍(61)</title>
+	</programme>
+	<programme channel="吉林卫视" start="20250731155400 +0800" stop="20250731163000 +0800">
+		<title lang="zh">下午剧场:打狗棍(62)</title>
+	</programme>
+	<programme channel="吉林卫视" start="20250731163000 +0800" stop="20250731170600 +0800">
+		<title lang="zh">下午剧场:打狗棍(63)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250731170600 +0800" stop="20250731175300 +0800">
 		<title lang="zh">欢乐送</title>
@@ -6879,9 +6672,6 @@
 	<channel id="甘肃卫视">
 		<display-name lang="zh">甘肃卫视</display-name>
 	</channel>
-	<programme channel="甘肃卫视" start="20250731094800 +0800" stop="20250731104200 +0800">
-		<title lang="zh">雄关剧场:孤岛飞鹰(30)</title>
-	</programme>
 	<programme channel="甘肃卫视" start="20250731104200 +0800" stop="20250731113400 +0800">
 		<title lang="zh">雄关剧场:孤岛飞鹰(31)</title>
 	</programme>
@@ -6957,19 +6747,19 @@
 	<programme channel="山西卫视" start="20250731123000 +0800" stop="20250731125000 +0800">
 		<title lang="zh">新闻午报</title>
 	</programme>
-	<programme channel="山西卫视" start="20250731125000 +0800" stop="20250731131600 +0800">
+	<programme channel="山西卫视" start="20250731125000 +0800" stop="20250731131200 +0800">
 		<title lang="zh">山西天气预报</title>
 	</programme>
-	<programme channel="山西卫视" start="20250731131600 +0800" stop="20250731141500 +0800">
+	<programme channel="山西卫视" start="20250731131200 +0800" stop="20250731141400 +0800">
 		<title lang="zh">下午剧场:西游记</title>
 	</programme>
-	<programme channel="山西卫视" start="20250731141500 +0800" stop="20250731151200 +0800">
+	<programme channel="山西卫视" start="20250731141400 +0800" stop="20250731151000 +0800">
 		<title lang="zh">下午剧场:西游记</title>
 	</programme>
-	<programme channel="山西卫视" start="20250731151200 +0800" stop="20250731161100 +0800">
+	<programme channel="山西卫视" start="20250731151000 +0800" stop="20250731160600 +0800">
 		<title lang="zh">下午剧场:西游记</title>
 	</programme>
-	<programme channel="山西卫视" start="20250731161100 +0800" stop="20250731172000 +0800">
+	<programme channel="山西卫视" start="20250731160600 +0800" stop="20250731172000 +0800">
 		<title lang="zh">下午剧场:西游记</title>
 	</programme>
 	<programme channel="山西卫视" start="20250731172000 +0800" stop="20250731183000 +0800">
@@ -7005,9 +6795,6 @@
 	<channel id="内蒙古卫视">
 		<display-name lang="zh">内蒙古卫视</display-name>
 	</channel>
-	<programme channel="内蒙古卫视" start="20250731094900 +0800" stop="20250731103100 +0800">
-		<title lang="zh">经典剧场:山河同在(54)</title>
-	</programme>
 	<programme channel="内蒙古卫视" start="20250731103100 +0800" stop="20250731111600 +0800">
 		<title lang="zh">经典剧场:山河同在(55)</title>
 	</programme>
@@ -7077,9 +6864,6 @@
 	<channel id="陕西卫视">
 		<display-name lang="zh">陕西卫视</display-name>
 	</channel>
-	<programme channel="陕西卫视" start="20250731092200 +0800" stop="20250731102000 +0800">
-		<title lang="zh">剧场：地雷战传奇25</title>
-	</programme>
 	<programme channel="陕西卫视" start="20250731102000 +0800" stop="20250731111700 +0800">
 		<title lang="zh">剧场：地雷战传奇26</title>
 	</programme>
@@ -7143,9 +6927,6 @@
 	<channel id="云南卫视">
 		<display-name lang="zh">云南卫视</display-name>
 	</channel>
-	<programme channel="云南卫视" start="20250731094100 +0800" stop="20250731104400 +0800">
-		<title lang="zh">狼毒花(33)</title>
-	</programme>
 	<programme channel="云南卫视" start="20250731104400 +0800" stop="20250731114800 +0800">
 		<title lang="zh">狼毒花(34)</title>
 	</programme>
@@ -7209,9 +6990,6 @@
 	<channel id="青海卫视">
 		<display-name lang="zh">青海卫视</display-name>
 	</channel>
-	<programme channel="青海卫视" start="20250731093600 +0800" stop="20250731102800 +0800">
-		<title lang="zh">昆仑剧场:康熙微服私访记</title>
-	</programme>
 	<programme channel="青海卫视" start="20250731102800 +0800" stop="20250731112300 +0800">
 		<title lang="zh">昆仑剧场:康熙微服私访记</title>
 	</programme>
@@ -7272,32 +7050,29 @@
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
 	</channel>
-	<programme channel="新疆卫视" start="20250731091500 +0800" stop="20250731101800 +0800">
-		<title lang="zh">汉武大帝(40)</title>
+	<programme channel="新疆卫视" start="20250731101900 +0800" stop="20250731112200 +0800">
+		<title lang="zh">汉武大帝(49)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20250731101800 +0800" stop="20250731112100 +0800">
-		<title lang="zh">汉武大帝(41)</title>
-	</programme>
-	<programme channel="新疆卫视" start="20250731112100 +0800" stop="20250731122400 +0800">
-		<title lang="zh">汉武大帝(42)</title>
+	<programme channel="新疆卫视" start="20250731112200 +0800" stop="20250731122400 +0800">
+		<title lang="zh">汉武大帝(50)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731122400 +0800" stop="20250731132800 +0800">
-		<title lang="zh">汉武大帝(43)</title>
+		<title lang="zh">汉武大帝(51)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731132800 +0800" stop="20250731140000 +0800">
 		<title lang="zh">健康公开课</title>
 	</programme>
-	<programme channel="新疆卫视" start="20250731140000 +0800" stop="20250731144000 +0800">
+	<programme channel="新疆卫视" start="20250731140000 +0800" stop="20250731144100 +0800">
 		<title lang="zh">新闻午报</title>
 	</programme>
-	<programme channel="新疆卫视" start="20250731144000 +0800" stop="20250731155300 +0800">
-		<title lang="zh">突围突围(24)</title>
+	<programme channel="新疆卫视" start="20250731144100 +0800" stop="20250731154400 +0800">
+		<title lang="zh">突围突围(30)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20250731155300 +0800" stop="20250731170600 +0800">
-		<title lang="zh">突围突围(25)</title>
+	<programme channel="新疆卫视" start="20250731154400 +0800" stop="20250731164600 +0800">
+		<title lang="zh">突围突围(31)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20250731170600 +0800" stop="20250731182000 +0800">
-		<title lang="zh">突围突围(26)</title>
+	<programme channel="新疆卫视" start="20250731164600 +0800" stop="20250731182000 +0800">
+		<title lang="zh">突围突围(32)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731182000 +0800" stop="20250731184700 +0800">
 		<title lang="zh">动画片</title>
@@ -7315,10 +7090,10 @@
 		<title lang="zh">今日聚焦</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731201200 +0800" stop="20250731210600 +0800">
-		<title lang="zh">小巷人家(13)</title>
+		<title lang="zh">小巷人家(17)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731210600 +0800" stop="20250731220000 +0800">
-		<title lang="zh">小巷人家(14)</title>
+		<title lang="zh">小巷人家(18)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20250731220000 +0800" stop="20250731223000 +0800">
 		<title lang="zh">新疆新闻联播</title>
@@ -7338,9 +7113,6 @@
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
 	</channel>
-	<programme channel="三沙卫视" start="20250731090000 +0800" stop="20250731104100 +0800">
-		<title lang="zh">电影时间</title>
-	</programme>
 	<programme channel="三沙卫视" start="20250731104100 +0800" stop="20250731111000 +0800">
 		<title lang="zh">自宣段</title>
 	</programme>
@@ -7431,9 +7203,6 @@
 	<channel id="兵团卫视">
 		<display-name lang="zh">兵团卫视</display-name>
 	</channel>
-	<programme channel="兵团卫视" start="20250731090700 +0800" stop="20250731101900 +0800">
-		<title lang="zh">上午剧场:大牧歌(16)</title>
-	</programme>
 	<programme channel="兵团卫视" start="20250731101900 +0800" stop="20250731113100 +0800">
 		<title lang="zh">上午剧场:大牧歌(17)</title>
 	</programme>
