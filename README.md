@@ -1,4 +1,4 @@
-![image](./banner0.png)
+![image](https://pjytv.760515.xyz/banner0.png)
 
 [PJY TV App Download](https://pjytv.760515.xyz/PJYTV.apk)
 
