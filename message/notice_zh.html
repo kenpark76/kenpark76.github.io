@@ -8,7 +8,7 @@
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <div id="content"></div>
   <script>
-    fetch('README.md')
+    fetch('../README.md')
       .then(r => r.text())
       .then(t => {
         document.getElementById('content').innerHTML = marked.parse(t)
